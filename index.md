@@ -1,276 +1,8 @@
-[Today\'s Agenda](220411_agenda.html)
+[Today\'s Agenda](220413_agenda.html)
 
-<div>
+[How to create simple portfolio in Scribus](https://web.microsoftstream.com/video/375df7fb-2a8e-4031-8513-58a44ea98d48)
 
-### Exercise Ten. Contour Line Drawing of Eye-level Perspective
-
-#### Introduction
-
-![Hand drawn perspective](ex10_01.png)
-![Computer drawn perspective](ex10_02.png)
-
-Figure 6.1.5: Exercise Ten. Contour Line Drawing of Eye-level
-Perspective
-
-Select one of your drawings from Sketch H. Field Sketches of Ten
-Architectural Perspectives to develop as a finished drawing. Build up
-information in a layered drawing process. Start with lightly drawn
-converging lines and lines to indicate horizon line and vanishing point
-(if they fit on the page). Locate objects and use sighting techniques to
-compare height, width, and angles. Begin to add weight to the outline of
-the object as you become more confident in their size and location.
-Finish the drawing by adding strong, crisp line weights to make the
-drawn objects read. Use a perspective framework, add line weight,
-horizon lines and converging lines.
-
-This drawing is large and should have minimal detail. It is therefore
-important to concentrate attention on line quality. There must be proper
-line weight differentiation and hierarchy. The final drawing shall be
-one 11\" x 14\" (279x356mm) drawing. The drawing will be assessed on
-line quality and perspective and completeness of the drawing. No tone
-value delineation should be included for this assignment. Please see tip
-below about line profiling.
-
-#### Learning
-
-This assignment module contributes to the following design learning
-outcomes, which finish the sentence "As a successful student in this
-course, I am now able..."
-
--   ... to directly observe shape and forms and measure and translate
-    the spatial scene accurately from an implied image plane to a
-    proportionally scaled drawn surface.
-
--   ... to control line weight and consistency (e.g., width, continuity,
-    and control.)
-
-#### Scenario
-
-We discussed in a previous chapter and in Exercise Three. Contour
-Drawing of Still Life from Direct Observation the various reasons why a
-contour line drawing is effective at showing formal qualities. Now that
-we are drawing architecture, it is even more evident. It is an important
-analytical tool for architecture. Please refer to that prior discussion
-in Chapter Two. What is interesting and different about Exercise Ten is
-the contribution that linework differentiation makes to the *reading* of
-our drawing. Let's focus in this section on the relationship between the
-different types of edges we observe in nature (hard to soft
-to *lost* edges) and how our contour drawings can reflect this
-phenomenon. By *reading* we are talking about how
-the *composition* leads the viewer's eyes around the page. In his book
-Mastering Composition (Roberts 2008, 112) Ian Roberts describes a useful
-system for controlling the reading of paintings. We can adapt some of
-these ideas:
-
-1.  Working either from life or from a photograph, establish the main
-    lines of influence, he calls *armature*, that lead the viewer to the
-    focus of interest you choose:
-
-    -   verticals such as building edges
-
-    -   horizontals such as the horizon line
-
-    -   curving lines and diagonal lines such as roads, plantings, etc.
-
-2.  Analyze the tonal variations in a thumbnail sketch. These establish
-    the main tonal shapes.
-
-3.  Create an emphasized edge sketch of lines:
-
-    -   High contrast between the tonal variations is darkest
-
-    -   Low contrast and lost edges are the lightest and maybe don't
-        exist as lines at all in the sketch.
-
-4.  With this new analysis and understanding, proceed to construct the
-    contour perspective with the confidence of a very good *road
-    map* based on intention and composition. 5. Refer to the video below
-    where this painting-centric approach *informs* the perspective
-    contour drawing, especially the relative line weights.
-
-#### Materials
-
--   Pencil
-
--   Bristol board, 11\" x 14\" (279x356mm)
-
-#### Steps
-
-1.  Select an architectural perspective from Sketch H. Field Sketches of
-    Ten Architectural Perspectives. Compose a perspective oblique view
-    that shows two sides of a building: a major side that is roughly
-    two-thirds wide and a minor side one-third wide.
-
-2.  Layout your sheet so that the perspective view mostly fills the
-    drawing area. Remember to layout a one inch (25mm) border on drawing
-    sheet.
-
-3.  It is intended that this is a freehand perspective. The emphasis on
-    great line quality is functionally about two qualities: line weight
-    that reflects depth of three-dimensional space and consistency. This
-    is a different challenge than before because you are rendering line
-    with a felt-tipped pen instead of a pencil.
-
-4.  Another option for this drawing is to use a computer and a
-    vector-based drawing program such as Inkscape and Adobe Illustrator.
-    In this case the lines are not freehand. They are more precise,
-    which may appeal to some students.
-
-5.  It is a significant challenge to confirm that the perspective
-    is *perfect and correct*. The second challenge is
-    a *correct* linework mapping. We have practiced this in several
-    exercises and sketches leading up to this exercise.
-
-#### Video
-
-[Module 01](https://web.microsoftstream.com/video/c20e8d93-b762-4e72-8e7f-483a076fca9c)
-
-[Module 02](https://web.microsoftstream.com/video/56fe83b8-064f-4f3d-85ad-84932aa91c00)
-
-Figure 6.1.6: Video Still. Contour Line Drawing of Exterior Perspective
-
-#### Tips
-
-1.  Several iterations may be necessary to make corrections. The best
-    way to do this by hand is to use tracing paper overlays. Once you
-    are confident in the perspective quality, then you can transfer the
-    linework with a light pencil to the finished paper.
-
-2.  The most natural approach that gives a livelier drawing quality is
-    to *build* the perspective over several iterations. A tracing of a
-    photograph is an option; however, the results can seem both
-    distorted by the camera lens and somewhat machine-like. The human
-    touch should not be underestimated.
-
-#### Criteria
-
-  ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------ --
-  DLO               Advanced (4 pts)                                                                                                                                                                                                     Proficient (3 pts)                                                                                                                                                                     Developing (2 pts)                                                                                                                                    Beginner (1 pt)                                                                                                                                  
-  Craft             Illustrator demonstrates exemplary attention to work product and excellence.                                                                                                                                         Illustrator demonstrates good attention and care towards work product.                                                                                                                 Illustrator completes work, but the product seems rushed to completion.                                                                               Illustrator demonstrates attention towards work product, but work quality is                                                                     
-  Rendering         Illustrator uses line to hold the viewer\'s attention. Image is controlled and evokes both power and subtlety. Image is descriptive and/or symbolic and supports compositional goals.                                Illustrator\'s line work demonstrates several professional attributes. Rendering style does not distract the viewer and generally supports compositional objectives.                   Illustrator\'s use of line is somewhat effective. Rendering style is consistent and competent. There are some non-contributing attributes.            Illustrator attempts to use line descriptively. Rendering is inconsistent and lacks attention to craft.                                          
-  Technical         Illustrator observes and analyzes object data and translates it to a meaningful graphic representation. Professional conventions are followed, inclusive of line weight, orthographic and dimensional information.   Illustrator observes and analyzes object data and translates it to a meaningful graphic representation. Most professional conventions are followed, and some information is missing.   Illustrator is challenged to observe and analyze object data correctly. Few professional conventions are followed, and some information is missing.   Illustrator attempts to observe and analyze object data and representation is inconsistent. Professional drawing conventions are not followed.   
-  Professionalism   Student completes the work on time. Work demonstrates exemplary attention to learning objectives.                                                                                                                    Student completes the work on time and demonstrates a good work ethic.                                                                                                                 Student generally completes the work at a minimum level of expectation.                                                                               Student is missing parts of the work and makes a plan for completion of the remaining assignment.                                                
-  ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------ --
-
-#### Related Assignments
-
--   Sketch G. Field Sketches of Five Architectural Details
-
--   Exercise Six. Perspective Projection and Tone Value Render of a
-    Small Guest House
-
-### Sketch H. Field Sketches of Ten Architectural Perspectives
-
-#### Introduction
-
-> When a figure floats isolated in a sea of empty space, its presence is
-> emphasized.... The figure stands out clearly as a positive shape
-> against an empty, diffuse, and shapeless background.... Vignette\[:\]
-> Situating the drawing in a large field emphasizes its individuality.
-> The space between the drawing and the edge of a sheet typically should
-> be similar to or larger than the dimensions of the drawing. (Ching
-> 1998, 32 & 307)
-
-Using a pen, draw 10 freehand perspectives of architecture from
-observation. Include lines indicating convergence, diminution,
-overlapping, foreshortening, horizon line, and vanishing points. Work
-rapidly, loosely, and at a relatively large scale. Each drawing must be
-on a separate page and be approximately 10-15 minutes.
-
-![Sketch example process](skH.png)
-
-Figure Sketch H. Field Sketches of Ten Architectural Perspectives
-
-#### Learning
-
-This assignment module contributes to the following design learning
-outcomes, which finish the sentence "As a successful student in this
-course, I am now able..."
-
--   ... to analyze patterns of form and design through observational
-    drawings made *en plein air* and to embed those ideas through a
-    process of re petition, revisioning and redrawing.
-
-#### Scenario
-
-> A sketch is the product of a variety of lines assembled to make shapes
-> that resemble realistic forms. Detail is added to these shapes to give
-> them more meaning and identity. A final dimension is achieved by the
-> addition of tones and black to represent differences in light on the
-> various planes and to depict shadows and shades.... One must develop a
-> quick, confident, positive, and accurate stroke of line in order to
-> make convincing shapes, details, and tones. This takes many hours of
-> simple practice. (Oliver 1979, 15)
-
-There is a group of architects the author belongs to on social media
-called "Architectural Sketching" where it has been debated what
-constitutes a *sketch*. In this course of study we do technical
-drawings, renderings and illustrations, electronic modeling, and
-sketches. Most architects who were educated before computers have a very
-clear idea of what a sketch is. A collage ethic combined with the ease
-of electronic modeling and layered image editing programs have all
-combined to blur the distinctions for new students. The author considers
-this experimentation a positive development. Nonetheless, there is a
-great benefit to developing the traditional skillset to make a quick
-sketch from direct observation, and *en plein air*. This exercise will
-challenge you to develop these sketching skills.
-
-#### Materials
-
--   Felt-tip pen or fine point pen
-
--   Sketchbook
-
-#### Steps
-
-1.  On a single page of your sketchbook and working at a relatively
-    small scale (i.e., 5"x7" or 130x180mm) block out the major shapes
-    and relationships in light construction lines of the architecture as
-    a vignette.
-
-2.  After making adjustments and corrections begin rendering the varying
-    edge types (e.g., sharpest to softest and *lost edges*) with line
-    work.
-
-3.  Finish rendering and confirm that you have varied the line thickness
-    (e.g., spatial, planar, and textural edges.)
-
-#### Tips
-
-1.  It is important to start from the largest shapes before moving to
-    details. The process starts by finding the major vertical and
-    horizontal lines in the scene. Next you can add the diagonal and
-    curvilinear lines using the vertical and horizontal lines as
-    reference.
-
-2.  Once you are satisfied with the proportions and relationships of the
-    shapes defined by the lines, then block in the tone-value
-    relationships using varying densities of pattern blocks. Because we
-    are using a pen, gradients are formed from varying the density of
-    lines.
-
-3.  Only until you are confident about the shapes, proportions, balance
-    and linework of the composition should you attempt to render any
-    detail.
-
-#### Criteria
-
-  ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------ --
-  DLO               Advanced (4 pts)                                                                                                                                                                                                     Proficient (3 pts)                                                                                                                                                                     Developing (2 pts)                                                                                                                                    Beginner (1 pt)                                                                                                                                  
-  Craft             Illustrator demonstrates exemplary attention to work product and excellence.                                                                                                                                         Illustrator demonstrates good attention and care towards work product.                                                                                                                 Illustrator completes work, but the product seems rushed to completion.                                                                               Illustrator demonstrates attention towards work product, but work quality is                                                                     
-  Rendering         Illustrator uses line to hold the viewer\'s attention. Image is controlled and evokes both power and subtlety. Image is descriptive and/or symbolic and supports compositional goals.                                Illustrator\'s line work demonstrates several professional attributes. Rendering style does not distract the viewer and generally supports compositional objectives.                   Illustrator\'s use of line is somewhat effective. Rendering style is consistent and competent. There are some non-contributing attributes.            Illustrator attempts to use line descriptively. Rendering is inconsistent and lacks attention to craft.                                          
-  Technical         Illustrator observes and analyzes object data and translates it to a meaningful graphic representation. Professional conventions are followed, inclusive of line weight, orthographic and dimensional information.   Illustrator observes and analyzes object data and translates it to a meaningful graphic representation. Most professional conventions are followed, and some information is missing.   Illustrator is challenged to observe and analyze object data correctly. Few professional conventions are followed, and some information is missing.   Illustrator attempts to observe and analyze object data and representation is inconsistent. Professional drawing conventions are not followed.   
-  Professionalism   Student completes the work on time. Work demonstrates exemplary attention to learning objectives.                                                                                                                    Student completes the work on time and demonstrates a good work ethic.                                                                                                                 Student generally completes the work at a minimum level of expectation.                                                                               Student is missing parts of the work and makes a plan for completion of the remaining assignment.                                                
-  ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------ --
-
-#### Related Assignments
-
--   Exercise Three. Contour Drawing of Still Life from Direct
-    Observation
-
--   Sketch G. Field Sketches of Five Architectural Details
-
--   Exercise Ten. Contour Line Drawing of Eye-level Perspective
+[Exercise Eleven Demo](https://web.microsoftstream.com/video/0f3e0b8d-94c8-4de8-8bf5-63d1cf1307ab)
 
 ### Exercise Twelve. Preparing the Electronic Portfolio
 
@@ -471,14 +203,120 @@ your architectural illustration skills.
 
 <div>
 
-### Student Examples
-<p><img src="images/01.png" width="1080" /></p>
-<p><img src="images/02.png" width="1080" /></p>
-<p><img src="images/03.png" width="1080" /></p>
-<p><img src="images/04.png" width="1080" /></p>
-<p><img src="images/05.png" width="1080" /></p>
-<p><img src="images/06.png" width="1080" /></p>
-<p><img src="images/07.png" width="1080" /></p>
-<p><img src="images/08.png" width="1080" /></p>
+### Exercise Eleven. Rendered Interior Perspective. Hybrid Drawing
+
+#### Introduction
+
+Create a rendered perspective view of an interior space that expresses
+the unique character of a space through scale, materiality, and light.
+Use freehand perspective drawing techniques combined with raster
+graphics to complete the drawing. The drawing may be a one-, two-, or
+three-point perspective. It must be of an interior space.
+
+#### Learning
+
+This assignment module contributes to the following design learning
+outcomes, which finish the sentence "As a successful student in this
+course, I am now able..."
+
+-   ... to analyze and accurately represent an interior perspective view
+    of an existing space.
+
+-   ... to render light, color, and materials both by traditional hand
+    drawn techniques and contemporary raster graphics painting.
+
+#### Scenario
+
+> Unlike the painter or sculptor who can produce finished, realized
+> works from the very beginning...the designer must be content with
+> drawings and scale models until the happy day when a client is ready
+> to underwrite realization of a design project. Drawings and renderings
+> become a kind of intermediary end-product...as the best realization
+> available short of actual construction. (Pile 1967, 1)
+
+Interior perspectives are a fundamental skill for architectural
+rendering. Computer modeling has made constructing interior perspectives
+somewhat easier and has introduced new opportunities for creativity.
+Computer rendering packages can analyze and simulate interior lighting
+conditions which can aid the renderer in producing realistic views.
+Rendering options now include traditional hand drawn painting techniques
+along with raster image editing and painting. Exercise Eleven provides
+some practice in combining the traditional and the digital. The exercise
+proceeds from a good line drawing of an interior perspective that may
+not even be evident in the final rendering, depending on your choices.
+Nonetheless, the fundamentals of the perspective and good planning for
+where you want the eye of the viewer to focus attention are all an
+important first step.
+
+#### Materials
+
+-   Drawing paper, either physical or digital
+
+-   Pen, pencil, and possibly watercolor paint
+
+-   Raster graphics painting program (e.g., GIMP and Photoshop)
+
+#### Steps
+
+1.  Select an interior space. The space can be from an art museum or any
+    interior space with an *important* and large volume gathering area.
+
+2.  Create a full-scale mockup of the view. Adjust the composition as
+    you see fit.
+
+3.  On 11\" x 17\" (279mm x 432mm) paper, draw a freehand perspective
+    using the simple built-up drawing technique to create the
+    perspective. The final drawing should be very accurate in terms of
+    detail, include excellent line quality, and have a clear hierarchy
+    of line weights.
+
+4.  Scan and import the hand drawing into photoshop. Render the
+    perspective using your choice of raster image editing tools and/ or
+    hand rendered graphics. The drawing must include scale figures,
+    representative materials/ surfaces, and a representation of light in
+    the space.
+
+5.  Concepts and skills include freehand drawing, perspective,
+    illustrative sketching, line weight, raster graphics, collage,
+    composition, rendering techniques, two-dimensional documentation of
+    three-dimensional space The final drawing will be assessed on
+    completeness of the assignment, composition of the drawing, and
+    creativity in expression.
+
+#### Tips
+
+1.  It may be creative for you to consider a collage approach that at
+    first is rough in quality.
+
+2.  You may choose to use an underlay technique, drafting tools, or
+    simply continue to draw on top of a lightly drawn armature.
+
+#### Criteria
+
+  DLO               Advanced (4 pts)                                                                                                                                                                                                                                  Proficient (3 pts)                                                                                                                                                           Developing (2 pts)                                                                                                                                                         Beginner (1 pt)                                                                                                                               
+  ----------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------- --
+  Craft             Illustrator demonstrates exemplary attention to work product and excellence.                                                                                                                                                                      Illustrator demonstrates good attention and care towards work product.                                                                                                       Illustrator completes work, but the product seems rushed to completion.                                                                                                    Illustrator demonstrates attention towards work product, but work quality is                                                                  
+  Rendering         Illustrator uses tone value to represent the interplay of light on volumetric forms. Image is controlled and evokes both power and subtlety. Image is descriptive and/or symbolic and supports compositional goals.                               Illustrator\'s tone value work demonstrates several professional attributes. Rendering style does not distract the viewer and generally supports compositional objectives.   Illustrator\'s use of tone value is somewhat effective. Rendering style is consistent and competent. There are some non-contributing attributes.                           Illustrator attempts to use tone value descriptively. Rendering is inconsistent and lacks attention to craft.                                 
+  Technical         Modeler observes and analyzes object data and translates it to a meaningful electronic model representation. Professional conventions are followed, inclusive of view selection, accurate translation of field notes and light source selection   Modeler observes and analyzes object data and translates it to a meaningful electronic model. Most professional conventions are followed, and some information is missing.   Modeler is challenged to observe and analyze field sketch correctly in the electronic model. Few professional conventions are followed, and some information is missing.   Modeler attempts to observe and analyze field sketch and representation is inconsistent. Professional drawing conventions are not followed.   
+  Professionalism   Student completes the work on time. Work demonstrates exemplary attention to learning objectives.                                                                                                                                                 Student completes the work on time and demonstrates a good work ethic.                                                                                                       Student generally completes the work at a minimum level of expectation.                                                                                                    Student is missing parts of the work and makes a plan for completion of the remaining assignment.                                             
+
+#### Related Assignment
+
+-   Exercise Eight. Rendered Section. Hybrid Drawing
+
+</div>
+
+<div>
+### Examples of Student Portfolios
+
+![images/01.pdf](images/01.pdf)
+
+![images/02.pdf](images/02.pdf)
+
+![images/03.pdf](images/03.pdf)
+
+![images/04.pdf](images/04.pdf)
+
+![images/05.pdf](images/05.pdf)
 
 </div>

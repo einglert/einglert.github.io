@@ -11,7 +11,7 @@ date: 17 Aug 2022
 * 22????.md
 * basic.css
 
-### rsync -avz ~/filename.* ~/Documents/Github/einglert.github.io/filename.*
+### rsync -avz \~/filename.* \~/Documents/Github/einglert.github.io/filename.*
 
 ### github commands
 

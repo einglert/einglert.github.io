@@ -18,6 +18,8 @@ date: 17 Aug 2022
 1. git add 220817.html
 1. git commit -m "220817.html"
 1. git push origin "branch-name"
+    1. login username
+    1. login password
 
 ---
 eof

@@ -2,3 +2,7 @@ body {
 font-family: Optima; 
 background-color: #92d8d6;
 }
+.title, .author, .date {
+font-family: Helvetica;
+font-weight: bold;
+}

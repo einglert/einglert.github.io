@@ -1,9 +1,3 @@
-[Today\'s Agenda](220824-5_agenda.html)
-
-# Introduction
-
-# Lecture from (Inglert2022, 1-7)
-
 ## Our First Design Project. A Sense of Place Making
 
 Architects often think in terms of "A Sense of Place." Instead of
@@ -651,7 +645,3 @@ Figure 1.3.1: Resource Guide for Tracing Storyboard Matrix
 
 -   Exercise Fifteen. Electronic Site Contour Model and Three Proposed
     Places
-
-# Sketch J. Watercolor Storyboard of Twelve Site Context Vignettes
-
-# Looking Ahead to Class 02.1

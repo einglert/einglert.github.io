@@ -79,6 +79,6 @@
     (e.g. solvent-based felt-tip line work + water-based color marker,
     or water-based felt-tip line work + solvent-based color marker.
 
-\<Insert Figure 0131matrixResource.svg\>
+[Insert Figure 0131matrixResource.svg](images/0131matrixResource.svg)
 
 # Looking Ahead to Class 02.1

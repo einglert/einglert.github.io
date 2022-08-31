@@ -1,16 +1,9 @@
-[Today\'s Agenda](220831-0901_agenda.html)
-
-# Introduction
-
-# Lecture from (Inglert2022, 12-4)
-
 ## Sketch K. Formal Precedent Study. Thumbnail Sketch to Contour Drawing.
 
-Refer to helpful template in 'Canvas:Files:templates'
+\<Insert Figure 1.3.2_sketchK\>
 
-![Sketch K. Formal Precedent Study. Thumbnail Sketch to Contour Drawing](images/sketchK.png)
-
-Figure 1.3.2: Sketch K. Formal Precedent Study. Thumbnail Sketch to Contour Drawing
+Figure 1.3.2: Sketch K. Formal Precedent Study. Thumbnail Sketch to
+Contour Drawing
 
 ### Introduction
 
@@ -140,5 +133,3 @@ course, I am now able..."
 -   Sketch J. Watercolor Storyboard of Twelve Site Context Vignettes
 
 -   Exercise Fourteen. Physical Paper Model of Formal Precedent
-
-# Looking Ahead to Class 03.1 (Reminder: Sec. 001. No meeting Monday.)

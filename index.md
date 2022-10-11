@@ -8,6 +8,8 @@
 
 Figure Sketch L. Exploded Perspective of Found Mechanical Object
 
+![Exploded Drawing Planning](images/explodedPlanning.png)
+
 ## Student Examples
 
 ![Padovani](images/Sketch06-1Padovani-01.png)

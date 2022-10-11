@@ -4,6 +4,8 @@
 
 ![Sketch L. Coffee Machine](images/sketchL.jpeg)
 
+[Instax SQ6 Lens Transplant](https://hackaday.io/project/158654-instax-sq6-lens-transplant)
+
 Figure Sketch L. Exploded Perspective of Found Mechanical Object
 
 ## Student Examples

@@ -1,8 +1,6 @@
-[Today\'s Agenda](221012-3_agenda.html)
-
 ## Sketch M. Exploded Axonometric of Project Design
 
-![Exploded Project](images/explodedProject.png)
+\<Insert Figure 2.5.1\>
 
 Figure Sketch M. Exploded Axonometric of Project Design
 
@@ -94,15 +92,3 @@ manually as a hand drawing or automatically in the computer.
 -   Sketch L. Exploded Perspective of Found Mechanical Object
 
 -   Exercise Seventeen. Multi-view Construction Drawing
-
-<!-- save for next lecture
-
-## Student Examples
-
-![Padovani](images/Sketch06-1Padovani-01.png)
-
-![Burger](images/6.1Sketch_burgerzv_1.png)
-
-![Uchiyama](images/Sketch06-1Uchiyama-01.png)
-
--->

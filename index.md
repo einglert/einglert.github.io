@@ -1,95 +1,90 @@
-[Today\'s Agenda](221024-5_agenda.html)
+[Today\'s Agenda](221026-7_agenda.html)
 
-## Exercise Eighteen. Designing the Composite Drawing
+## Exercise Nineteen. Discovering a Rendering Style with Entourage
 
-![Lisa Kolber Inglert, 1991](https://lh6.googleusercontent.com/-CRSy7Z1kGB0/S9j2uERB2RI/AAAAAAAAAXA/acZShNUe7e4/s800/ParisPrize1991_90.jpg?%20feat=directlink)
+<img src="images/fig315x_01.png" alt="Fig_3-5" width="25%" />
 
-Figure 3.1 Exercise Eighteen. Designing the Composite Drawing
+<!-- html above replaces this
+![Fig_3-5](images/fig315x_01.png)
+-->
+
+Figure 3.5 Exercise Nineteen. Discovering a Rendering Style with Entourage
+
+<img src="images/8-2_Scan2.png" alt="08.2_RepresentViews" width="25%" />
 
 ### Introduction
 
-> First you must gather the *data* ... *construct* the perspective [and] *illustrate* the final drawing .... [@leggittjim2010, 11]
+Exercise Nineteen has several steps and intermediate deadlines. The final drawing will be a rendered exterior perspective of the project scene with people and a table suitable for an exterior perspective drawn in a future project. This first drawing will give us a chance to develop some actors for our scene and to explore our rendering style. The goal of the two exercises (Exercise Nineteen and Exercise Twenty ) is to build up a watercolor-inspired illustration of our project.
 
-> ...all architectural drawings [reading] as one drawing instead of a series of individual drawings representing segments of the building ... [resulting in] a dynamic and effective presentation of the total design. [@uddin1997, 3]
+### Learning
 
-> ...space provides visual contrast and contributes to an effective ordering system. The empty compositional space brings the visual elements alive...and must be considered a dominant element... . Space is needed in all compositions...[, and] provides pathways...that lead the eye through the design, while directing the visual focus toward the positive areas ... . [@cullen2005, 78]  
+This assignment module contributes to the following design learning outcomes, which finish the sentence "As a successful student in this course, I am now able..."
 
-This assignment asks you to explore a compositional language of harmony of parts to the whole and effective contrast, balance, order and unity of parts. This assignment helps you to focus deliberate attention on composition principles that reinforce your intended design message.  Remember the following steps using the mnemonic acronym COMPOSE, which represents the keywords Collect, Order, Montage, Positive-negative, Overlay, Scale and Emphasize.
+> ... to use mixed media to illustrate the overall design.
 
 ### Scenario
 
-Architects and engineers are well known for drawing all elements of the built environment (i.e., architecture.) We have discussed how there are at least two types of drawings for architecture. Documentation drawing describes a known phenomenon, whether it is an observational drawing of an existing condition or a working drawing for a construction project. Design drawing by contrast is almost always *propositional.* Design drawings imply a questioning and experimental interrogation of what could be...in several imagined and tentative futures. The strength of a design drawing can be measured in how well it serves to support a *story* about imaginative possibilities. Volume two of **Contemporary Practices in Architectural Drawing and Illustration** focuses on design drawing and especially on the design presentation with graphic media (e.g., drawings, video, photographs, etc.)
+Watercolor has historically been a common architectural illustration medium. Goauche, an opaque verion of watercolor, was also common for illustrators. The significant majority of architectural presentation drawings and illustrations are made in a digital format. There are several very different methods for digital illustration, and there is significant overlap between these methods. The predominant two architectural illustration formats are computer rendering (e.g., path-tracing, ray-tracing, etc.) and digital painting (e.g., Photoshop, ProCreate, GIMP, etc.) We experiment with both modalities over the course of this book. For the moment we will focus on digital painting and collage and discuss how this can be combined with computer rendering yielding impressive results.
 
-Since there are many methods for telling a story, the architect and engineer must know a little about the strengths and weaknesses each medium offers. When a business manager is tasked to present the financials for the group, the most common method the manager is likely to employ is a serialized slide deck (e.g., PowerPoint, Keynote, prepared video, etc.) One slide follows another and is tightly bound to a predetermined narrative often compelled to arrive at a deductive conclusion. It is a *telling* presentation style and not an *asking* one. Navigating back and forth between slides, revisiting concepts, and asking questions during someone's presentation is not easy and is sometimes discouraged. In a creative context, it is this author's personal opinion that there is no place for a serialized slide deck presentation. Since proposals *demand* critical attention, those who evaluate and interrogate design projects (i.e., clients, financial backers, your professors!, etc.) benefit most from a composite of several drawings and visual sets assembled together **geographically mapped** in the critique space that encourages reviewers to walk around, touch and engage with your ideas. This collection of drawings we can idiomatically refer to here as a **competition boards**.
+Digital painting and collage techniques borrow an aesthetic from traditional watercolor, goauche and other fluid medium traditions. When searching for online videos about architectural illustration, perusing student digital architectural portfolios or searching professional rendering firm catalogues, it is evident that the fluidity and abstraction available through applying traditional fluid medium techniques offers many advantages over computer rendering. Some of these include savings in resources of both time and expense (e.g., expensive computers dedicated solely to rendering, cloud-based rendering, etc.), abundance of reference images for emulation, abstraction attuned to the level of design, acceptance and enthusiasm of client response, and relative immediacy of brush emulations in digital painting software.
 
-Design drawing illustrates and illuminates your proposed architectural ideas, and the competition board is the most effective mode for telling your story. Whether these boards take the form of digital prints, multimedia video displays, or hand-drawn renderings directly on illustration board, there are several compositional considerations that we must learn to employ that are definitely going to make your proposals stronger. Unless you give careful consideration to how the different visual elements and varying drawings work cohesively and with artistic balance, then your design ideas may be conflated toward unintentional distractions and negative reactions to your designs that you worked so hard to create.
+You will benefit greatly from this step of searching for a reference image, because you will analyze the values, edges, textures, colors and composition, and synthesize these discoveries into your own style. Wholesale invention is not encouraged here for the beginning student, rather it can be helpful to experiment with techniques that you can infer from masterful images. Copying is likewise not encouraged. The middle ground is to *discover* your own "style" through experimentation. In this exercise we start by collecting a photograph from balcony-level view of several people at a cafe table. We will manipulate this file by *bit-crushing* its resolution and fidelity (e.g., blurring, adding noise, texture, etc.), remapping the *color-grading* and adding saturation and transparency to each layer grouping in the digital image file. The goal is to create your rendering style that is loose, flowing, abstracted and exciting by working at this small scale. Ultimately, you will take these learned lessons and your new found rendering style and apply it to a repainting of a computer model output that will include your entourage (i.e., people and cafe table) on the deck of your design for a Workshop in the Woods.
+
+Many may say that the future is solely the domain of a computer rendering output. Others may say that the traditional painterly ways are the most beautiful and appropriate. We will say to them, "Why should I choose, when I can do both, and at the same time with beautiful outcomes?"
 
 ### Materials
 
-* Medium (1.0 mm) black felt tip pen
-* Thick (4.0 x 8.0 mm) gray chisel point felt tip pen
-* "Sign pen" (2.0 mm) black felt tip pen
-* Yellow or buff colored tracing paper (12" x 50')
-* Drawing board or kitchen table
-* Digital camera
+* A "borrowed" image from the internet of people (i.e., actors.)
+* Digital image manipulation program (e.g., Photoshop, Gimp, etc.)
+* Good quality drawing paper
+* Water colors and brushes
+* Digital camera or scanner
 
 ### Steps
 
-1.  Beginning with Exercise Fifteen. Electronic Site Contour Model and Three Proposed Places, we have been working on a series of drawings. The object we have drawn has been the same, "A Workshop for Drawing." **Collect** computer prints (i.e., data) of all of these drawings. Don't worry about scaling the prints for now. We will size each drawing after making some decisions about our composition.
-2.  A composite drawing is an **Ordered** *visual set of information. [@chingJuroszek1998, 330] Because your composite ". . . presentation consists of more than a series of drawings . . . [, you] also require diagrams, graphic symbols, titles and text." [@chingJuroszek1998, 326] On a large table lay out all of your drawings, quickly hand letter titles and text and organize all information in *visual sets*. Using tracing paper, outline each set with a contoured two-dimensional closed shape.
-3.  Your **Montage** combines disparate visual sets in order to form a unified composition. Experiment with various compositional ideas.  Draw several (i.e., no fewer than five) thumbnail sketches: each sketch includes all of your shape contours from the previous step at varying scales inside a rectangle measuring roughly 3" x 4" (75 x 100 mm.) Refer to the Tips section below for a listing of several compositional ideas.
-4.  **Positive-negative** space is an important compositional decision, and therefore we should give this factor special consideration. Using tracing paper, overlay each of the montage thumbnail sketches and diagram a positive-negative space analysis of each compositional idea. Each diagram should illustrate a unified and balanced image.
-5.  Select one of the thumbnail sketch compositions that you prefer. You will develop this idea for your composite drawing. Translate each shape contour (i.e., visual set) relative to your new one-half size mockup tracing paper sheet (i.e., 12" x 16") from the original 3" x 4" thumbnail sketch. Tone the positive-negative space on the front of the tracing paper using the gray felt tip pen.  **Overlay** the tracing paper mockup on copies of your drawings scaled to fit the visual sets; therefore, attach the drawings to the back of the tracing paper so that we can read your drawings through the tracing paper.
-6.  Photograph your mockup on a table or pinned flat on a wall and download the digital file to a computer. From within your favorite image processing program (e.g., Photoshop and GIMP) **Scale** the image so that the "drawing" measures 24" x 32." (i.e., at 72 dpi the image would be 1728 x 2304 pixels.) Print the image at full scale.  This will result in several 8-1/2" x 11" sheets (i.e., 12 sheets when printed in "landscape" format.)
-7.  Tape the computer prints together to form the full-sized base sheet (i.e., 24" x 32".) Overlay the vellum on the base sheet.  **Emphasize** the line work with a black felt tip pen and illustrate the final drawing with contours, textures and tones.
+1. Open saved file in image program. Use a layer mask to "brush" out the unusable parts of the image.
+1. Experiment with filters and adjustments, in order to abstract the image effect. Here is a recipe you can use in GIMP:
+     * Duplicate layer 2 times -> Colors -> Saturation (Scale 0.00)
+     * On top two layers -> Colors -> Posterize (Posterize levels 7)
+     * Dockable Dialogs -> Gradients -> (Choose gradient)
+     * On top layer -> Colors -> Map -> Gradient Map -> (Change layer mode to LCh Color)
+     * On layer below gradient -> Filters -> Artistic -> Waterpixels (Adjust parameters to taste)
+     * Repeat with several layers and differing gradients
+     * Master layer masking and modes
+1. If you are feeling brave, print digital image to paper and use watercolors and a brush to disrupt and paint over the print of color shapes (i.e., make the colors run a bit,) and enhance line work over tracing
+1. Enhance line work with pencil or felt-tip pen
+1. Boost line work and saturation.
 
 ### Tips
 
-1. Professor Ching [@chingJuroszek1998, 304-12] defines what he calls the "drawing field" (i.e., drawing subject, context, title, graphic scale & associated symbols.) He has the following suggestions:
--   Focal point should be off-center but not too close to field edge. Drawing with multiple centers of interest (i.e., visual sets) leads eye through and around field with a balance point (i.e., center of gravity) near center of the drawing field.
--   Eye follows lines of force established by visual sets -- avoid diagonal lines leading to the field corners and avoid placing two centers of interest close to opposite field edges; rather, establish concentric lines of force.
--   Lower dominant field emphasis leads to reading of stability and grounding. Upper dominant field emphasis leads to reading of levity and weightlessness. Avoid dividing field into equal halves. Viewer expects a left to right reading progression, and placing focus on right of field creates a tension. Allowing graphic elements to break drawing field enhances dynamic qualities.
--   Figure-ground relationships can be described by drawing size relative to field size. A "vignette" is created when a small drawing (i.e., figure) is situated in a large field (i.e., ground) emphasizing individuality. On a continuum where the drawing size increases and the field decreases relative to each other, the two begin to interact -- the background field can be read with a shape of its own. At the other end of the interaction scale from vignette is "ambiguous" figure-ground, where background field elements are read as "figures."
--   Graphic ordering principles (i.e., see Tip 2 from Professor Uddin below) can be used to promote a sense of order and unity. Ordering is a prioritizing of emphasis. The eye is attracted to exceptional size/proportion, contrasting/unusual shape, contrast and fine detail.
--   Balancing mixed drawings and elements (i.e., ordering elements: symmetric or asymmetric) involves harmonious equilibrium (i.e., selecting elements based on commonalities of size, shape tone, color, orientation and detail) between visual forces of weight, compression and tension.
+In order to get started it can be helpful to search for reference images that you consider artistically successful. To get you started let's name a few rich resources to begin your search.
+* Google search engine -> select "Image" tab
+* Pinterest, Issuu, Instagram, Architizer, etc.
+* Watercolor Artists
+    - Thomas W. Schaller
+    - Joseph Zbukvic
+    - Alex Hillkurtz
+    - Moh'd Bilbeisi
+* Architectural Illustration
+    - Visualizing Architecture by Alex Hogrefe
+    - Jim Leggitt
+    - Robert Becker
 
-2. Professor Uddin  [@uddin1997, 51-64] does not prescribe specific rules for composition, but he does refer to simple laws of arrangement:
-* Frame of Reference/ Figure-ground                      
-* Layout emphasis                                        
-    - Dominant top
-    - Dominant base
-    - Dominant side
-    - Horizontal
-    - Vertical
-    - Central focus      
-    - Diagonal                                               
-* Scale variation                                        
-* Background                                             
-* Design element                                         
-* Presentation Motif                                     
-    - Repetition
-    - Radiation
-    - Gradation
-    - Concentration
-    - Contrast
-    - Anomaly
-  Similarity                                             
-* Grid                                                   
+### Criteria
 
-3. Professor Cullen [@cullen2005, 77] writes, "The harmonious integration of multiple factors plays a critical role when shaping the page. The designer must experiment and determine which factors effectively contribute to and define the ordered presentation of textual and visual information." She goes on to identify the following compositional factors: contrast, orientation, scale, quantity, linear elements, depth, perspective, position, color, graphic shapes, dimension, tension, typography, space and repetition. In her Layout Workbook, she provides several examples of structural grids. I have interpreted her descriptions in the following graphic:
-
-![](https://mydraftingroom.com/product_images/090403.01.png)
-
-Figure 3.2 Structural Grid for Compositional Layout
-
-4. Lisa Kolber Inglert [@inglert1991] won second place in the Paris Prize in 1991 with this set of three presentation boards. The boards each measured 30" x 40" and were rendered in black colored pencil (i.e., Prismacolor.) 
+  DLO               Advanced (4 pts)                                                                                                                                                                                                                                  Proficient (3 pts)                                                                                                                                                           Developing (2 pts)                                                                                                                                                         Beginner (1 pt)                                                                                                                               
+  ----------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------- --
+  Craft             Illustrator demonstrates exemplary attention to work product and excellence.                                                                                                                                                                      Illustrator demonstrates good attention and care towards work product.                                                                                                       Illustrator completes work, but the product seems rushed to completion.                                                                                                    Illustrator demonstrates attention towards work product, but work quality is                                                                  
+  Rendering         Illustrator uses tone value to represent the interplay of light on volumetric forms. Image is controlled and evokes both power and subtlety. Image is descriptive and/or symbolic and supports compositional goals.                               Illustrator\'s tone value work demonstrates several professional attributes. Rendering style does not distract the viewer and generally supports compositional objectives.   Illustrator\'s use of tone value is somewhat effective. Rendering style is consistent and competent. There are some non-contributing attributes.                           Illustrator attempts to use tone value descriptively. Rendering is inconsistent and lacks attention to craft.                                 
+  Technical         Modeler observes and analyzes object data and translates it to a meaningful electronic model representation. Professional conventions are followed, inclusive of view selection, accurate translation of field notes and light source selection   Modeler observes and analyzes object data and translates it to a meaningful electronic model. Most professional conventions are followed, and some information is missing.   Modeler is challenged to observe and analyze field sketch correctly in the electronic model. Few professional conventions are followed, and some information is missing.   Modeler attempts to observe and analyze field sketch and representation is inconsistent. Professional drawing conventions are not followed.   
+  Professionalism   Student completes the work on time. Work demonstrates exemplary attention to learning objectives.                                                                                                                                                 Student completes the work on time and demonstrates a good work ethic.                                                                                                       Student generally completes the work at a minimum level of expectation.                                                                                                    Student is missing parts of the work and makes a plan for completion of the remaining assignment.                                             
 
 ### Related Assignments
-
-* Exercise Fifteen. Electronic Site Contour Model and Three Proposed Places
 * Sketch J. Watercolor Storyboard of Twelve Site Context Vignettes
-* Exercise Nineteen. Discovering a Rendering Style with Entourage
 * Exercise Twenty. Rendered Exterior Perspective
+
+
+<!-- save for later
 
 ## Student Examples
 
@@ -98,3 +93,5 @@ Figure 3.2 Structural Grid for Compositional Layout
 ![Uchiyama](images/UchiyamaK_ex18.png)
 
 ![Godorhazy](images/GordorhazyR_ex18.png)
+
+-->

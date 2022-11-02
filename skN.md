@@ -1,14 +1,19 @@
-[Today\'s Agenda](221102-3_agenda.html)
-
 ## Sketch N. Interior Perspective Vignette
 
-<img src="https://lh5.googleusercontent.com/-OikzZ6gZ4hI/UmmQxEuqqRI/AAAAAAAAA4M/WxS9bfJBzzk/w1008-h720-no/2013-10-24-17-01-19-copy2.png" alt="Sketch N. Interior Perspective Vignette">
+\<Insert Figure 3.1.4\>
 
 Figure 3.4 Sketch N. Interior Perspective Vignette
 
 ### Introduction
 
-This assignment asks you to explore a sketch language of minimal line work and "unbounded" or frameless vignettes. This assignment helps you to prepare interior perspectives that explain the user experiences of your design project. Several minimalist sketch styles are exemplified in the work of Francis Ching, Leon and Rob Krier, Michael Graves, etc. In studio we will analyze the implied object shapes of several sketch *vignettes* (i.e., not rectangle frames.) Here is what the author of your textbook said about the sketch vignette?
+This assignment asks you to explore a sketch language of minimal line
+work and "unbounded" or frameless vignettes. This assignment helps you
+to prepare interior perspectives that explain the user experiences of
+your design project. Several minimalist sketch styles are exemplified in
+the work of Francis Ching, Leon and Rob Krier, Michael Graves, etc. In
+studio we will analyze the implied object shapes of several
+sketch *vignettes* (i.e., not rectangle frames.) Here is what the author
+of your textbook said about the sketch vignette?
 
 > ...the drawing fades from its detailed central image. Where there is
 > less detail, there is a hint as to how the image might continue. (Yee
@@ -16,19 +21,46 @@ This assignment asks you to explore a sketch language of minimal line work and "
 
 ### Learning
 
-This assignment module contributes to the following design learning outcomes, which finish the sentence "As a successful student in this course, I am now able..."
+This assignment module contributes to the following design learning
+outcomes, which finish the sentence "As a successful student in this
+course, I am now able..."
 
-... to directly observe shape and forms and measure and translate the spatial scene accurately from an implied image plane to a proportionally scaled drawn surface.
+... to directly observe shape and forms and measure and translate the
+spatial scene accurately from an implied image plane to a proportionally
+scaled drawn surface.
 
-... to control line weight and consistency (e.g., width, continuity, and control.)
+... to control line weight and consistency (e.g., width, continuity, and
+control.)
 
 ### Scenario
 
-Architects and engineers focus on several elements of design including site, context, form, user needs, materials, comfort, etc. The entry points for architectural experimentation are many and can overwhelm a new student. One effective technique professionals use to clarify design ideas is to filter out parameters that are not in focus now. While it is evident that all architectural elements must ultimately synthesize, evolve, and interrelate together, our comprehensive designs are often built-in iterations from the general to the specific and over time.
+Architects and engineers focus on several elements of design including
+site, context, form, user needs, materials, comfort, etc. The entry
+points for architectural experimentation are many and can overwhelm a
+new student. One effective technique professionals use to clarify design
+ideas is to filter out parameters that are not in focus now. While it is
+evident that all architectural elements must ultimately synthesize,
+evolve, and interrelate together, our comprehensive designs are often
+built-in iterations from the general to the specific and over time.
 
-The experience of the user and interactions within the volumetric space are a significant element we should explore. Our area of study here challenges us to create a quick interior vignette sketch from within an important space in our design. Consider a couple of alternates before you settle on the view you will draw. Examples could include a view looking across the main work studio through the large sliding glazed wall system and to the outside and the lake view. Alternatively, a meeting room with client drawings spread over a large conference table may be your *money* space to show.
+The experience of the user and interactions within the volumetric space
+are a significant element we should explore. Our area of study here
+challenges us to create a quick interior vignette sketch from within an
+important space in our design. Consider a couple of alternates before
+you settle on the view you will draw. Examples could include a view
+looking across the main work studio through the large sliding glazed
+wall system and to the outside and the lake view. Alternatively, a
+meeting room with client drawings spread over a large conference table
+may be your *money* space to show.
 
-Simulation of the user experience through drawings, models, and animations are the predominant ways we engage with our clients. This is because it takes years of specialized training to read technical, made-for-construction drawings and to have the facility to imagine (i.e., from a floor plan) how it would feel to move around in a space.  Especially during the design phase of a project, we draw make presentations that allow our clients to enter the imaginative world of "what could be."
+Simulation of the user experience through drawings, models, and
+animations are the predominant ways we engage with our clients. This is
+because it takes years of specialized training to read technical,
+made-for-construction drawings and to have the facility to imagine
+(i.e., from a floor plan) how it would feel to move around in a space.
+Especially during the design phase of a project, we draw make
+presentations that allow our clients to enter the imaginative world of
+"what could be."
 
 ### Materials
 
@@ -58,11 +90,20 @@ Simulation of the user experience through drawings, models, and animations are t
 
 ### Tips
 
-1.  Electronic modeling programs have several render output formats (e.g., raster image, vector image, animation, etc.) Which format you choose is dependent on how you want to use the render. For our purposes here either a "png" raster file or "svg" vector file will work. Even a screen capture direct to inkjet printer is adequate for this rapid workflow.
+1.  Electronic modeling programs have several render output formats
+    (e.g., raster image, vector image, animation, etc.) Which format you
+    choose is dependent on how you want to use the render. For our
+    purposes here either a "png" raster file or "svg" vector file will
+    work. Even a screen capture direct to inkjet printer is adequate for
+    this rapid workflow.
 
-2.  Saving multiple camera views within the electronic model program can aid in image selection.
+2.  Saving multiple camera views within the electronic model program can
+    aid in image selection.
 
-3.  Using a layer mask from within an image editing program can facilitate the *design* of the vignette polygon boundary. Recall that we are trying to break out of the *postcard* rectangle box and simulate a fading vignette effect.
+3.  Using a layer mask from within an image editing program can
+    facilitate the *design* of the vignette polygon boundary. Recall
+    that we are trying to break out of the *postcard* rectangle box and
+    simulate a fading vignette effect.
 
 ### Criteria
 
@@ -75,18 +116,8 @@ Simulation of the user experience through drawings, models, and animations are t
 
 ### Related Assignments
 
--   Exercise Fifteen. Electronic Site Contour Model and Three Proposed Places
+-   Exercise Fifteen. Electronic Site Contour Model and Three Proposed
+    Places
 
 -   Exercise Sixteen. An Aerial Flyover Animation of Your Selected Place
 
-<!-- save for later
-
-## Student Examples
-
-![WirthT](images/08-2_repViewsWirth.png)
-
-![PapeL](images/08-2_repViewsPape.png)
-
-![CourtneyE](images/08-2_repViewsCourtney.png)
-
--->

@@ -1,44 +1,10 @@
-[Today\s Agenda](221116-7_agenda.html)
+[Today\s Agenda](221121-2_agenda.html)
 
 ## Exercise Twenty-two. Final Presentation Board
 
 ![ParisPrize1990](images/1990_ParisPrize_Inglert.png)
 
 Figure 4.1 Exercise Twenty-two. Final Presentation Board
-
-### Introduction
-
-When you develop the final presentation of an architecture project, you should consider both the technical and artistic concepts we discussed during this course. Technical illustration skills, both digital and analog, are helpful. Consider too the ideas of the artist Francis Bacon, who said that art is a method of opening areas of feeling, and our work should be a recreation of an event rather than a simple illustration of an object. How does it feel to be inside the environment you have created? The final presentation project simulates a most useful architectural skill. For the remainder of your architectural engineering study and professional career, you will no doubt be doing final presentations. The content for your final presentation shall be developed from the collection of your existing drawings and models of your design project, a workshop for drawing. Additionally, you may find it important to create several more drawings to tell the story of your design (e.g., line drawings of interior vignettes, sketches from your sketchbook, and other such easy to produce images for your board.)
-
-### Learning
-
-This assignment module contributes to the following design learning outcomes, which finish the sentence "As a successful student in this course, I am now able..."
-
-> ... to composite several individual drawings into an integrated
-> presentation of the overall design.
-
-### Scenario
-
-In Exercise Eighteen Designing the Composite Drawing you made a roadmap for your final composition board. At this point you have a good sense of direction for your compositional layout principles you want to explore.  You have a collection of all the illustration work you have done for the Workshop in the Woods project. You may not yet have a list of captions or names for each drawing. You will need to develop a short 100-word text narrative to address how your integrated your project to the site constraints, an approach for handling the environmental control systems, accessibility, and an overall design approach. The following is a generic example that you may modify to fit your project:
-
-> The project is a workshop for drawing. Set on a steeply sloping and
-> wooded lakeside site, the workshop houses three young professionals
-> who work on models and illustrations for other professionals. The site
-> development package included a full systems solution for mechanical,
-> electrical, and plumbing requirements. The project meets accessibility
-> guidelines. The design concept included ideas about sustainable
-> materials and siting considerations, to minimize the impact on the
-> natural setting and reduce demand on fossil fuels. The resulting
-> project sits quietly on the site and provides a dynamic work
-> environment for the young professionals.
-
-Whenever architects and engineers put together presentations there seem to be three primary modes to communicate our designs. A serial slide deck like PowerPoint has advantages and disadvantages we have discussed.  A video and/or animation file leverages many of our tools and may allow for expanding the limits of the slide deck. It too is a fundamentally serialized and controlled explanation. The composite presentation board is more interactive, less constrained by time and sequence, and presentation boards promote dialogue and conversation. Therefore, when architect and engineers choose to use either a slide deck and/or animation we should additionally provide an overview and composite presentation board. The dialogue between client/professor and designer is the most important outcome of the process. Design without pushback and revisions is no longer recognizable to most architects and engineers. There is a special case where the dialogue may not include the designer. The architectural competition is often characterized by the submission of several competing and anonymous presentation board submissions. This underscores how important it is, *really always*, to make a presentation board that can *speak for itself*.
-
-### Materials
-
--   Image editing tool (e.g., Photoshop, GIMP, InDesign, Scribus, etc.)
-
--   Collection of your archived work
 
 ### Steps
 
@@ -70,14 +36,6 @@ Whenever architects and engineers put together presentations there seem to be th
 
 3.  Only the foolhardy would keep this large file in one place. If you remember nothing else from this text, remember that digital work shall be backed up early and often. A suggested method: 1.) a working copy on your hard drive; 2.) an archive of your working directory each day to external thumb drive or other device; 3.) an automated continuous backup to the cloud (e.g., iCloud, Dropbox, OneDrive, etc.) There really is no excuse for a lost or corrupted file. Professionals backup their work, amateurs blame their computer.
 
-### Criteria
-
-  DLO               Advanced (4 pts)                                                                                                                                     Proficient (3 pts)                                                                                            Developing (2 pts)                                                        Beginner (1 pt)                                                                              
-  ----------------- ---------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------- -------------------------------------------------------------------------------------------- --
-  Communication     Student demonstrates a professional communication aptitude                                                                                           Student demonstrates a competent level of communication skills                                                Student demonstrates a limited competency in communicating ideas          Student does not demonstrate competency in communicating ideas                               
-  Craft             Illustrator demonstrates exemplary attention to work product and excellence.                                                                         Illustrator demonstrates good attention and care towards work product.                                        Illustrator completes work, but the product seems rushed to completion.   Illustrator demonstrates attention towards work product, but work quality is inconsistent.   
-  Composition       Illustrator demonstrates exemplary understanding of compositional principles from the reading and translates concepts to an excellent drawing plan   Illustrator demonstrates good attention of compositional principles from the reading and has a drawing plan   Illustrator demonstrates a few compositional principles                   Illustrator does not demonstrate competency of compositional principles                      
-  Professionalism   Student completes the work on time. Work demonstrates exemplary attention to learning objectives.                                                    Student completes the work on time and demonstrates a good work ethic.                                        Student generally completes the work at a minimum level of expectation.   Student is missing parts of the work and plans for completion of the remaining assignment.   
 
 ### Related Assignments
 
@@ -106,3 +64,15 @@ Whenever architects and engineers put together presentations there seem to be th
 -   Sketch N. Interior Perspective Vignette
 
 -   Exercise Twenty. Rendered Exterior Perspective
+
+![Gordorhazy, ex. 18](images/GordorhazyR_ex18.png)
+
+![Gordorhazy, ex. 22](images/GordorhazyR_ex22.png)
+
+![Padovani, ex. 18](images/PadovaniS_ex18.png)
+
+![Padovani, ex. 22](images/PadovaniS_ex22.png)
+
+![Uchiyama, ex. 18](images/UchiyamaK_ex18.png)
+
+![Uchiyama, ex. 18](images/UchiyamaK_ex22.png)

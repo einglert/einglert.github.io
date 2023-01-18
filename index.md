@@ -130,14 +130,12 @@ Procedure for the open-source application Inkscape ver. 1.0
 
 -   Exercise One. Breathing Lines
 
-<!-- comment
 
 ## Student Examples
 
-![Mahan ex. 1](images/x1_madimahan.png)
+![Vargeson ex. 2](images/EX2_VARGESONM.png)
 
-![Haney ex. 1](images/Ex1_SnortumHaneyT.png)
+![Haney ex. 2](images/Ex2_SnortumHaneyT.png)
 
-![Means ex. 1](images/20220120_BreathingLines_oliviameans.png)
+![Staley ex. 2](images/Ex2_staleyI.png)
 
--->

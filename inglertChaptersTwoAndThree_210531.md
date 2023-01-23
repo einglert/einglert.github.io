@@ -1,10 +1,8 @@
-![Today's Agenda](images/230123-4.031.png)
-
 ## Exercise Three. Contour Drawing of Still Life from Direct Observation
 
 ### Introduction
 
-![](images/02041contDwgStillLife.png)
+\<Insert Figure 2.4\>
 
 Figure 2.4: Exercise Three. Contour Drawing of a Still Life
 
@@ -163,15 +161,3 @@ either textural or define two materials that are flush are thin
 ### Related Assignments
 
 -   Exercise Two. One Hundred Lines
-
-<!-- begin comment
-
-## Student Examples
-
-![Vargeson ex. 2](images/EX2_VARGESONM.png)
-
-![Haney ex. 2](images/Ex2_SnortumHaneyT.png)
-
-![Staley ex. 2](images/Ex2_staleyI.png)
-
-end comment -->

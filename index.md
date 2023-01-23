@@ -175,3 +175,7 @@ either textural or define two materials that are flush are thin
 ![Staley ex. 2](images/Ex2_staleyI.png)
 
 end comment -->
+
+### Links for Next Lecture
+
+[@ModernDayJames:DRAWING THE HAND: DECIPHERING BRIDGMAN PT. 4](https://www.youtube.com/watch?v=I0iZCGtVa8I)

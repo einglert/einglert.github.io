@@ -1,46 +1,32 @@
-## Exercise Three. Contour Drawing of Still Life from Direct Observation
+## Sketch A. 50 Contour Drawings of Hands and Feet
 
 ### Introduction
 
-\<Insert Figure 2.4\>
+\<Insert Figure 2.4.4\>
 
-Figure 2.4: Exercise Three. Contour Drawing of a Still Life
+Figure 2.4.4: Sketch A. Contour Line Drawings of Fifty Hands and Feet
 
-A contour drawing is an outline that describes the mass and shape of
-objects. In our usage the primary outline is called the silhouette, and
-it circumscribes the outermost shape of the composite of objects. In
-Sketch A. Contour Line Drawings of Fifty Hands and Feet we started with
-five "Blind" contour drawings where we focused only on the object and
-never looked at the drawing. Modified contour drawings are freehand
-drawings that split time between looking at the object and looking at
-the drawing.
+Draw 50 contour drawings of hands and feet. Each should be done from a
+different viewpoint and with different hands/feet. The first five
+sketches will be blind-contour drawings of hands as a warm-up for the 45
+modified contour drawings. Each drawing should take approximately 3
+minutes (i.e., 2.5 hours for 50 dwgs.)
 
-> "Drawing is the key to effective seeing, and seeing is the key to
-> effective drawing." (Laseau 2004, 10)
+> In the hand are four bones, continuous with those of the fingers,
+> called metacarpals (meta, beyond, carpus, wrist). They are covered by
+> tendons on the back and on the front by tendons, the muscles of the
+> thumb and little finger, and skin pads. (Bridgman 2017, 209)
 >
-> "There is only one way to learn to draw and that is a perfectly
-> natural way. It has nothing to do with artifice or technique. It has
-> nothing to do with aesthetics or conception. It has only to do with
-> the act of correct observation and by that I mean a physical contact
-> with all sorts of objects through all the senses.... Learning to draw
-> is really a matter of learning to see -- to see correctly -- and that
-> means a good deal more than merely looking with the eye. The sort of
-> seeing I mean is an observation that utilizes as many of the five
-> senses as can reach through the eye at one time." (Nicolaides 1969,
-> xiii & 5)
->
-> "You have to measure, first of all, with your eyes; and by studying
-> the model judge the comparative measurements of its several masses.
-> Then measure mechanically. When measuring mechanically, hold your
-> charcoal or pencil between the thumb and fingers and use the first
-> finger and the tip of your charcoal to mark the extremities of the
-> measurement you are taking." (Bridgman 2017, 12)
+> Repetition serves as a handprint of human intent. A phrase that might
+> have sounded arbitrary the first time might come to sound purposefully
+> shaped and communicative the second. (Margulis 2014)
 
-In this drawing select a personal object of a relatively small scale
-(bag, shoe, etc.) and draw a modified contour drawing of the object on a
-9x12 sheet of quality drawing paper. Do not shade or render. Focus on
-observation, clean, crisp lines, and composition of the drawing on the
-page.
+The main purpose of this assignment is to gain facility with direct
+observation through deliberate practice. That said, as an experiment you
+may emulate no more than five "drawings" from a master artist from
+source material. It can also be useful to learn to draw from other's
+drawings. May I suggest the image tab from a Google search such as
+drawings anatomy hands?
 
 ### Learning
 
@@ -52,93 +38,109 @@ course, I am now able..."
     the spatial scene accurately from an implied image plane to a
     proportionally scaled drawn surface.
 
--   ... to control line weight and consistency (e.g., width, continuity
-    and control.)
-
 ### Scenario
 
-As we learned in *Exercise One: Breathing Lines* a common anxiety many
-of us share is an inaccurate belief about our ability to draw. We
-learned that it was really a problem of how we *see*. When we
-concentrate on drawing what we observe rather than what we think
-something should look like, we are then better able to draw accurately.
+Gaining confidence in drawing from observation has more to do with
+learning to see effectively than it does with the mechanics of drawing
+well. It may be confusing for a new student to parse that line of text,
+because the connection between seeing and drawing is underappreciated.
+You proved in **Exercise One. Breathing Lines** that you can easily
+master the mechanics of drawing lines after a relatively short amount of
+practice.
 
-In *Exercise Two: One Hundred Lines*, we learned that it was possible to
-convey spatial depth with depth cues. These ideas can be strengthened
-through a system of line weight or thickness. If you have had studied
-mechanical drafting, then you are aware of the line weight system for
-making a drawing look more professional. When we study architectural
-floor plans and building sections, then we will learn a similar line
-weight system. Unless you are drafting such an architectural drawing,
-let's propose to follow a simple heuristic for line weight with three
-rules with one special condition: 1. Lines that define the boundary
-between space and object are heavy/thick. (0.7mm.) 1. Lines that mark
-the boundary between two planes are medium (0.5mm.) 1. Lines that are
-either textural or define two materials that are flush are thin
-(0.25mm.)
+Drawing from memory can be a great creative activity for a practiced
+artist. For someone who is new to this, drawing from memory can be the
+greatest hindrance to our development. The reason for this involves
+a *perception prejudice*. It is easier for the brain to prejudge what a
+hand is *supposed* to look like, than it is to actually perceive
+it *correctly* enough to draw well. Close your eyes and imagine a
+square. Open your eyes and draw that square. No problem, right? Close
+your eyes again and imagine an eye in someone's face. Open your eyes
+again and draw the eye. Does it look real? Not sure? Let's try again.
+Close your eyes and imagine a town square teeming with people on market
+day with tables set up with fruits and vegetables. Draw what you see.
+Stressed yet?
 
--   Special condition: If it looks good, then consider making the
-    silhouette discussed above the thickest line of all (i.e., 0.9mm)
+A learned signifier for a square shape presents us with very few
+differences between an actual shape that we perceive and the drawing we
+made. A square is a generalization. A human eye contains relatively
+fewer attributes than a crowded town square. Our generalization about an
+eye may be good enough most days to make our drawing believable. On the
+other hand, a crowded town square is not easily generalized with our
+library of signifiers in our head. It therefore seems much more
+difficult to draw.
+
+If an artist draws directly from observation, then the square shape, the
+human eye and the town square are really the same problem. The
+difference in complexity of course means that the town square drawing
+may take longer to complete. Technically it is no more difficult! You
+probably don't believe me yet. That's OK.
+
+> "...drawing is always the same task: to see clearly what is before
+> your eyes. Sighting is an apt renamed skill. You take a sight;
+> you see the thing-as-it-is..." (Edwards 1979, 130)
+
+This assignment reminds us of playing our scales on the piano. If you
+had lessons when you were young, then you remember that after several
+repetitions, your hands knew where to move. The sounds you made become
+more confident. While not a beautiful sonata or Broadway show tune, your
+scales resembled music. You may have understood how you could *scale
+up* this activity to making real music.
+
+Let's learn how to see better. It is not an easy process to master and
+has taken this author a lifetime of practice to develop confidence.
+Let's remember that our goal is not mastery; rather, we intend to build
+confidence and professionalism in our skills.
 
 ### Materials
 
--   Pencil or felt-tip pen (0.25, 0.50mm, 0.70mm or 0.9mm)
+-   Pencil
 
--   11\" x 14\" (279x356mm) sheet
-
--   drafting tape
+-   9\" x 12\" (229x304mm) sketchbook
 
 ### Steps
 
-1.  Since you are going to be looking very closely at your still life,
-    find objects that interest you personally. Assemble your composition
-    with overlapping shapes and take time to *create a
-    narrative* between the objects. Creating a story can mean setting up
-    several *episodes* of tension-and-release. Hard objects and soft.
-    Textural and smooth. Geometric shapes and natural.
+1.  Warm up: For your first five drawings, use the blind-contour method.
+    Look only at the hand or foot you are drawing. Slowly circumscribe
+    your subject first in your mind's eye and then on the paper. Never
+    look at your paper to check your progress. This will instill a deep
+    focus for observation, and maybe a little embarrassment! That is
+    OK...keep going!
 
-2.  Setup your drawing in a place both where it can stay for the
-    duration of this long drawing and where you have a good view of the
-    still life. Since this is a contour drawing, then even lighting is
-    best. No shade and shadow shall be rendered.
+2.  The next 45 drawings use a modified contour drawing method. Look at
+    your object for about 90% of your time and check your progress by
+    looking at your sketchbook for only 10% of your drawing time. Each
+    drawing should be a quick sketch and take between 3-5 minutes to
+    complete.
 
-3.  Begin by closing one eye to remove stereoscopic vision, hold your
-    pencil or pen at arm's length, first vertical and then horizontal,
-    and locate the *centroid* of your composition. Since your paper is a
-    rectangle, then take your long metal ruler and lightly draw two
-    diagonals to geometrically locate the center of your paper. Finish
-    this step by drawing in freehand and very lightly a vertical line
-    that passes through this center and a light horizontal through the
-    same center. These are measuring lines for the following steps. Each
-    one a datum of reference.
+3.  Keep moving your hands and feet into new poses: back of hand, fist,
+    palm, holding an object, top of foot, and if flexible enough, bottom
+    of foot. Use a mirror.
 
-4.  Continue by concentrating on the circumscribing simple shape.
-    Challenge yourself to draw a descriptive polygon of the fewest
-    essential sides and focus on getting the proportion right. This is
-    the most important step, because all measurements are derived from
-    relationships to this shape and the centerlines.
+4.  Are you right or left-handed? Draw one of your dominant hands with
+    your non-dominant hand. Is it shaky? Does it look better than your
+    blind contour?
 
-5.  Take your time and, still with light lines, define the sub shapes of
-    each object remembering to check your measurements against your
-    centerlines and your circumscribing polygon. If you are comfortable
-    with what you have through hard work and close observation
-    transferred to the page, then you are ready to render.
+5.  Compose two or three hands to each sketchbook page. Allow them to
+    overlap. Draw larger than you would initially think.
 
-6.  Rendering linework in a contour line drawing is surprisingly the
-    easiest part, because we have defined a heuristic above and a
-    language of line type: heavy, medium and light. Enjoy the process
-    and aim for consistency.
+6.  When completed with your sketchbook pages, photograph each page and
+    import them into an Inkscape file with "Document Properties" set to
+    an 11\" x 17\" (279mm x 432mm) page. Compose and scale all your
+    drawings to fit together on this one page.
 
-7.  One final step is defining and scribing the silhouette line.
-    Silhouette is the most important reading of shape and form from the
-    perspective of the viewer. This thickest of lines should be bold and
-    confident in its rendering. Oftentimes it also can appear as a
-    continuous line around the still life.
+7.  Export the drawing as a PNG file at 72 ppi for submission.
+
+### Video
+
+\<Insert Figure 2.4.4_fiftyHandsFeet\>
+
+Figure 2.4.4: Video Still. How to Draw Fifty Hands and Feet
 
 ### Tips
 
--   The described method borrows much from a technique called *Sight
-    Sizing*. It differs in one important respect, although this
+-   The described method borrows much from a technique called Sight
+    Sizing. It differs in one important respect, although this
     assignment could be done as a true sight sizing exercise. Our
     modified version is more accurately thought of as a relative sizing
     method.
@@ -151,13 +153,14 @@ either textural or define two materials that are flush are thin
 
 ### Criteria
 
-  ----------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------
   DLO               Advanced (4 pts)                                                                                                                                                                        Proficient (3 pts)                                                                                                                                                     Developing (2 pts)                                                                                                                           Beginner (1 pt)
+  ----------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------
   Craft             Illustrator demonstrates exemplary attention to work product and excellence.                                                                                                            Illustrator demonstrates good attention and care towards work product.                                                                                                 Illustrator completes work, but the product seems rushed to completion.                                                                      Illustrator demonstrates attention towards work product, but work quality is
   Rendering         Illustrator uses line to hold the viewer\'s attention. Image is controlled and evokes both power and subtlety. Image is descriptive and/or symbolic and supports compositional goals.   Illustrator\'s line work demonstrates several professional attributes. Rendering style does not distract the viewer and generally supports compositional objectives.   Illustrator\'s use of line is somewhat effective. Rendering style is consistent and competent. There are some non-contributing attributes.   Illustrator attempts to use line descriptively. Rendering is inconsistent and lacks attention to craft.
   Professionalism   Student completes the work on time. Work demonstrates exemplary attention to learning objectives.                                                                                       Student completes the work on time and demonstrates a good work ethic.                                                                                                 Student generally completes the work at a minimum level of expectation.                                                                      Student is missing parts of the work and makes a plan for completion of the remaining assignment.
-  ----------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------
 
 ### Related Assignments
 
--   Exercise Two. One Hundred Lines
+-   Exercise One. Breathing Lines
+
+-   Exercise Three. Contour Drawing of a Still Life

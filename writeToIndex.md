@@ -1,5 +1,3 @@
-![Today's Agenda](images/230130-1.041.png)
-
 ## Sketch B. Field Sketch of a Chair
 
 ### Introduction
@@ -153,11 +151,3 @@ document drawing.
 
 -   Exercise Seven. Interior Construction Drawing. Floor Plan and
     Interior Elevations
-
-### Student Examples
-
-![Weber](images/SkB_WeberF.jpg)
-
-![Haney](images/SkB_SnortumHaneyF.png)
-
-![Staley](images/SkB_staleyI.png)

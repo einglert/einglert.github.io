@@ -1,10 +1,8 @@
-![Today's Agenda](images/230201-2.042.png)
-
 ## Exercise Four. Hand Drafting an Orthographic Multi-view Projection of Complex Chair
 
 ### Introduction
 
-![Exercise Four](images/03311exFourOrthoChair_2.png)
+\<Insert Figure 3.3\>
 
 Figure 3.3: Exercise Four. Hand Drafting an Orthographic Multi-view
 Projection of Complex Chair
@@ -134,11 +132,3 @@ Steps
 
 -   Exercise Seven. Interior Construction Drawing. Floor Plan and
     Interior Elevations
-
-### Student Examples
-
-![Makayla](images/EX4_VargesonM.png)
-
-![Tory](images/Ex4_SnortumHaneyT.png)
-
-![Owen](images/Ex4_FrostO.png)

@@ -1,6 +1,6 @@
-![Today's Agenda](images/230201-2.042.png)
+![Today's Agenda](images/230206-7.051.png)
 
-## Exercise Four. Hand Drafting an Orthographic Multi-view Projection of Complex Chair
+## Continuation of Exercise Four. Hand Drafting an Orthographic Multi-view Projection of Complex Chair
 
 ### Introduction
 

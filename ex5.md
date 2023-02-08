@@ -1,10 +1,6 @@
-![Today's Agenda](images/230208-9_052.png)
-
 ## Exercise Five. Axonometric Projection Contour Model of a Small Guest House
 
 ### Introduction
-
-![Exercise Five](images/03411axonContGuestHouse.png)
 
 Figure 3.4: Exercise Five. Axonometric Projection Contour Model of a
 Small Guest House
@@ -162,15 +158,3 @@ the page and render the linework with line weight.
 
 -   Exercise Seven. Interior Construction Drawing. Floor Plan and
     Interior Elevations
-
-<!-- comment
-
-### Student Examples
-
-![Makayla](images/EX4_VargesonM.png)
-
-![Tory](images/Ex4_SnortumHaneyT.png)
-
-![Owen](images/Ex4_FrostO.png)
-
--->

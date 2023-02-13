@@ -1,176 +1,235 @@
-![Today's Agenda](images/230208-9_052.png)
+![Today's Agenda](images/230213-4_061.png)
 
-## Exercise Five. Axonometric Projection Contour Model of a Small Guest House
+### Geometric Transformation Two: Perspective Projection
 
-### Introduction
+In chapter three we learned about geometric transformation one:
+**parallel projection**. In order to draw the upcoming *Exercise Six.
+Perspective Projection and Tone Value Render of a Small Guest House*, we
+will need to learn more about perspective projection. Two systems will
+be presented here, and one is analog, the other is digital. You will
+learn later in this book that these two methods can be combined for the
+sake of efficiency. Before we do that, let's discuss the foundational
+principles that underly perspective projection.
 
-![Exercise Five](images/03411axonContGuestHouse.png)
+It is unlikely that you will ever learn the mathematical formula that
+underpins perspective projection. For our purposes it is enough to know
+there are four inputs. The first input is the three-dimensional (3D)
+coordinate position of a point that is projected onto a flat planar
+surface. A second input is the 3D position of a "camera." The third
+input is the orientation or viewing angle of the camera. Finally, there
+is the 3D location of the flat planar surface relative to the camera.
+Confused yet? We have learned before that a complex system can be drawn
+and diagrammed to provide clarity.
 
-Figure 3.4: Exercise Five. Axonometric Projection Contour Model of a
-Small Guest House
+![Orthographic Diagram of Setup for Four Perspective Inputs](images/04031_orthoDiagramPerspective.png)
 
-An "axonometric" is an orthographic paraline drawing. "Axons" are used
-to describe three-dimensional characteristics of an object or spatial
-relationship. Parallel lines don't converge to a vanishing point as in a
-perspective drawing; rather, each line is drawn parallel. These drawings
-are useful during the early visualization process of design and are
-easily constructed with our studio drafting kit and a provided isometric
-grid. Lines that are parallel in space are drawn parallel in the
-illustration. You can measure dimensions for all axial lines -- those
-parallel to any of the three principal axes. In order to draw non-axial
-lines, first locate endpoints using axial measurements, then connect the
-points together -- remember, non-axial lines are not measurable.
+Figure 4.3.1: Orthographic Diagram of Setup for Four Perspective Inputs
 
-### Learning
+#### Thumbnail Perspective Method
 
-This assignment module contributes to the following design learning
-outcomes, which finish the sentence "As a successful student in this
-course, I am now able..."
+What may surprise you is that you have a lot of experience working this
+complex system out in a more direct method in your head. You probably
+are already pretty good at thinking and ultimately drawing in
+three-dimensional perspective. What follows is an adaptation of William
+Kirby Lockard's "Direct Perspective Method."
 
-> ... to analyze the built environment and apply measured drawing skills
-> that include plans and elevations, illustrating line quality, drawing
-> notation and dimensioning.
-
-### Scenario
-
-For many students who struggle to effectively represent their
-architectural design ideas in three-dimensional perspective drawings, it
-is tempting to instead build a physical model or learn an electronic
-modeling computer program. In this course we will learn all three of
-these skills. Each has its place. A perspective drawing is the most
-efficient and effective design tool due to its relative speed to draw
-and also for its ready acceptance to our clients. It more closely
-resembles what we see with our eyes and in photographs. It also requires
-the greatest amount of skill and sustained practice from a student, in
-order for your drawing to be an effective representation of your design
-idea. Perspective drawing is intimidating for the new architecture
-student.
-
-Physical models are well loved by students and our future clients alike.
-Building a physical model rewards our patience and close scrutiny of the
-design, due to it being the slowest and most resource intensive of all
-the representation skills. Electronic modeling is both the current
-state-of-the-art and the most common activity of a designer in the
-studio. Students spend many late hours building beautiful models to
-study in multiple views and to render in light-ray tracing programs.
-These electronic models are very satisfying, rewarding and also...very
-slow to produce.
-
-As a student and before a time of computer modeling, I was introduced
-early to an easy to produce and highly prized drawing in the academic
-studio: the axonometric projection. These three-dimensional
-representations did not exactly look like a perspective, and yet were as
-easy to reproduce as straight-line plans, elevations and sections that
-we were already doing. It was empowering!
-
-> Paraline axonometrics...exhibit projectors that are perpendicular to
-> the picture plane and parallel to each other...vertical front edge and
-> nonconverging side planes. (Yee 2013, 175)
+> The method put forward here is intended as a lightning-fast freehand
+> study method. Rigid drawings are used only to show the method clearly.
+> If you get into ticking off and ruling lines you would be better
+> actually to project the perspective. It will be more accurate and take
+> only a little longer.
 >
-> Other schematic drawing types include the "paraline" pictorial
-> drawings: axonometric (isometric, dimetric, trimetric) and various
-> versions of oblique. Of these, the isometric is probably the most
-> popular design and presentation device -- especially for small objects
-> such as products and for schematized views of larger projects. (Oles
-> 1979, 15)
+> Students often take this simple method as a great new all-purpose
+> perspective method, and use it to attempt the construction of
+> city-scapes, or complex interiors. This is like attempting to play
+> Beethoven's Ninth on the harmonica. It is meant to b e a simple,
+> relatively accurate, study tool, not a precise technique. (Lockard
+> 1977, 16)
 
-As mentioned above, axonometric drawings are highly regarded in an
-academic setting such as the architectural studio. Relationships between
-architectural elements can be measured directly, unlike a perspective
-drawing due to convergence and distortion. In particular, the isometric
-exhibits a 1:1:1 measured relationship between the three axes (x, y &
-z). Another valued attribute of axonometrics is the schematic and
-three-dimensional diagram quality. These types of drawings are about big
-ideas, and axonometrics can variously clarify problematic formal and
-organizational issues and amplify the essential qualities of your
-projects. As we will see in a later exercise, these drawings can be made
-as exploded axonometrics and further describe the schematic qualities of
-our designs. These are truly working drawings.
+The Thumbnail Perspective Method involves at least three drawings. The
+method is self-correcting and depends on iterative redrawn perspective
+images. Each drawing is progressively larger and builds on a concept of
+mapping an architectural space onto an imaginary framework. This is the
+kind of book where it is OK to skip around. Please, look ahead to
+chapter eight and *Sketch K. Formal Precedent Study. Thumbnail Sketch to
+Contour Drawing*. It is important before proceeding to the electronic
+modeling method to read through Sketch K, so that you understand the
+analog process.
 
-The 1:96 Isometric Grid Paper provided as a guide in this exercise will
-allow you to draw directly in an iterative way and follow the forms
-around until you have an accurate representation of your project. Like a
-puzzle, it is a relaxing journey with a very satisfying finish. Take
-your time, check yourself with an architect's scale often, and work the
-problem until you have a correct axonometric projection. Once you are
-satisfied, place the image underneath and centered in the left half of
-the page and render the linework with line weight.
+The imaginary framework is very simply stated: you are viewing another
+person or persons in front of you who is/are standing in front of and
+next to the leading edge (i.e., measuring line) of a cubic volume that
+measures ten feet (3 meters) square on all three axes. You are viewing
+the cube at an oblique angle, such that one face is more predominant
+than the other. This is known as a two-point eye-level perspective.
 
-### Materials
+On a small piece of paper or in the center of your sketchbook draw a
+two-inch (50mm) square to mark the bounds of this small thumbnail sketch
+drawing. Somewhere near one third from the bottom edge and near one
+third of either the right or left side draw a silhouette of a small
+human figure, perhaps only ¼" (6mm) high. Draw a horizontal line through
+the eyes of your scaled figures and across the page at zero degrees and
+label this the horizon line. Assume this is five feet (1.5 m) above the
+ground. Double this height using your pencil or pen as a measuring
+device, and it yields the height of your cube at the measuring line. The
+predominant face of the cube will have a top line and bottom line with
+shallow angles that converge probably off the page. The subdominant face
+has top and bottom lines with slightly steeper angles that converge. In
+the dominant face, estimate that back edge line that *looks* like it
+would complete a square. Repeat this process for the subdominant face
+and understand that the subdominant back edge will be closer to the
+measuring line than the back edge of the predominant face due to
+different rates of convergence. If this is confusing, then let's diagram
+this together in our sketchbooks.
 
--   Mechanical Pencils (0.25mm), (0.5mm) and (0.7mm)
+![Thumbnail Perspective Method Setup: Drawing One of Three](images/04032_thumbPerspOne.png)
 
--   Architect's scale
+Figure 4.3.2: Thumbnail Perspective Method Setup: Drawing One of Three
 
--   12x18 sheet
+Let's call this first drawing a thumbnail. When completed, the cubic
+volume will be lightly drawn. As a reference measuring tool, an estimate
+of the scene of interest should be drawn to a resolution that clearly
+identifies the overall silhouette and additionally the major inner
+shapes of the architectural subject. Do not be too concerned if the
+proportions of shapes do not match perfectly what you see. We will build
+confidence and correction in the second drawing of the trio. The last
+step of the first thumbnail drawing is to identify the preferred
+compositional framing, presuming that you do not settle on the beginning
+square. With a red pen or pencil, lightly divide this compositional
+frame rectangle into three horizontal rows and three vertical columns.
+Like a muralist, we will use this nine-rectangle grid framework to
+transfer our shapes to the larger doubled size of 4"x4" (50mm x 50mm.)
 
--   1:96 Isometric Grid Paper
+In the second drawing we will redraw with any needed corrections and
+seek to resolve the proportioning of the major shapes, add the interior
+minor shapes and work on a tone-value shading of the scene in light. It
+is your choice to whether to repeat the cubic framework. I would
+continue to place human-scaled figures or silhouettes in this second
+drawing. The light and shadow study we do here will be intuitive. We
+will pick a direction of the light source, the sun, and identify planes
+that face toward the light (highlights) away from the light (shades) and
+planes that have a cast shadow onto them. This is still a relatively
+small drawing and won't allow much detail or texture.
 
--   Design Sketch
+![Thumbnail Perspective Method Setup: Drawing Two of Three](images/04033_thumbPerspTwo.png)
 
-### Steps
+Figure 4.3.3: Thumbnail Perspective Method Setup: Drawing Two of Three
 
-1.  Begin by creating a 1\" border around your drawing sheet. Divide the
-    sheet into two halves. Begin drawing 4.1 in the left half. Construct
-    the view from the provided sketch and using the isometric grid you
-    downloaded for this assignment.
+The third drawing is in principle very similar to the second. Once
+again, we will redraw at a larger size. This time at roughly a 6"x6"
+(75mm x 75mm) bounding area. In the preceding drawings we settled on a
+composition, and so this bounding area will match the larger of the two
+rectangle dimensions. The final drawing should be considered a
+rendering. While it is desirable to have very light "lines" to layout
+the silhouette, major and minor proportional shapes, our rendering will
+make these lines disappear as we solely render the tone-value shapes.
+Select either the linear or Lambert tone value scale that we discussed.
+Map no more than seven different tone values from black for cast shadows
+through middle grays for planes in varying orientations away from the
+light source and to a highlight of white. Concentrate on your best
+rendering technique that minimizes texture in favor of flat soft washes
+of colored pencil.
 
-2.  With the provided measurements draw the complex form. Use a
-    hierarchy of line weights to distinguish spatial, planar and surface
-    lines. Keep the drawing space empty in the right half. This area
-    will be used in the next Exercise.
+The preceding three steps are specific to the tone value rendering
+method. It is no doubt easy to see how this three-step process would
+work for all perspective drawings including a contour line rendering.
+The only step that varies for this method is the third rendering step,
+which is dependent on your desired result. A color wash as the final
+rendering also can apply this direct perspective method.
 
-3.  All lines that are axial (x, y or z) may be directly measured either
-    by counting grid squares or by using your architect's scale.
-    Non-axial lines shall be inferred from endpoint relationships with
-    other axial elements. The two roofs are good examples of this
-    principle, because each is made up of constructed non-axial lines.
+![Thumbnail Perspective Method Setup: Drawing Three of Three](images/04034_thumbPerspThree.png)
 
-4.  Once the sketch is completed on the grid paper, you can slide the
-    sketch underneath your final tracing paper. This is the rendering
-    stage when you concentrate on line weight: spatial lines are thick
-    (0.7mm,) planar lines are medium (0.5mm) and flush texture lines are
-    thin (0.25mm.)
+Figure 4.3.4: Thumbnail Perspective Method Setup: Drawing Three of Three
 
-5.  Photograph or scan the full sheet when completed. The final
-    submission should be saved as a raster image with pixel dimensions
-    1296 px by 864 px.
+#### Electronic Modeling Method
 
-### Criteria
+One of the best tools for three-dimensional visualization is an
+electronic digital model. Some of these models can be created very
+intuitively and quickly. Others require painstaking and arduously long
+hours at the computer. The requirements for selecting one over the other
+are often a function of both the stage of the architectural design and
+client requirements for a presentation of the design. It is important
+for guarding your precious time that you do not fall in the trap of
+building a detailed computer model too soon. A much better use of your
+time on the computer is to build the very basics of a three-dimensional
+framework that allows you to do some previsioning and manipulation of
+the model to generate your preferred view. After this very quick
+modeling session it can be beneficial to "print" the framework to a
+reasonable size on paper and use an overlay technique of tracing paper
+refinements like the thumbnail perspective method. While it can be
+immensely enjoyable to create new virtual worlds like in a Minecraft
+(2021) game, you are well advised to avoid the indulgence of modeling
+too much detail and progress quickly to the rendering and visioning
+stages of architectural design.
 
-  ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------ --
-  DLO               Advanced (4 pts)                                                                                                                                                                                                     Proficient (3 pts)                                                                                                                                                                     Developing (2 pts)                                                                                                                                    Beginner (1 pt)                                                                                                                                  
-  Craft             Illustrator demonstrates exemplary attention to work product and excellence.                                                                                                                                         Illustrator demonstrates good attention and care towards work product.                                                                                                                 Illustrator completes work, but the product seems rushed to completion.                                                                               Illustrator demonstrates attention towards work product, but work quality is                                                                     
-  Rendering         Illustrator uses line to hold the viewer\'s attention. Image is controlled and evokes both power and subtlety. Image is descriptive and/or symbolic and supports compositional goals.                                Illustrator\'s line work demonstrates several professional attributes. Rendering style does not distract the viewer and generally supports compositional objectives.                   Illustrator\'s use of line is somewhat effective. Rendering style is consistent and competent. There are some non-contributing attributes.            Illustrator attempts to use line descriptively. Rendering is inconsistent and lacks attention to craft.                                          
-  Technical         Illustrator observes and analyzes object data and translates it to a meaningful graphic representation. Professional conventions are followed, inclusive of line weight, orthographic and dimensional information.   Illustrator observes and analyzes object data and translates it to a meaningful graphic representation. Most professional conventions are followed, and some information is missing.   Illustrator is challenged to observe and analyze object data correctly. Few professional conventions are followed, and some information is missing.   Illustrator attempts to observe and analyze object data and representation is inconsistent. Professional drawing conventions are not followed.   
-  Professionalism   Student completes the work on time. Work demonstrates exemplary attention to learning objectives.                                                                                                                    Student completes the work on time and demonstrates a good work ethic.                                                                                                                 Student generally completes the work at a minimum level of expectation.                                                                               Student is missing parts of the work and makes a plan for completion of the remaining assignment.                                                
-  ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------ --
+One of the best pieces of advice about electronic modeling you can
+follow is the idea to work as "flat" as possible for as long as
+possible. What does this mean? Often the designer proceeds from a
+two-dimensional multi-view orthographic drawing such as a plan, section,
+or elevation. Working flat is the process of drawing rectangles, lines,
+and shapes without a "Z" dimension. This process is useful because most
+electronic modeling programs are *sticky* and ambiguous in the
+representation of depth! What does that mean? Geometries are welded
+together at vertices. When you try to move a line segment to a new
+position, it can have many unintended stretching consequences.
+Additionally, when we view space from a non-orthographic *perspective*
+our relationship to the depth that we see may be intuitively obvious to
+us, and the computer does not share our intuition. The software
+developers have embedded inferences about intersecting geometries that
+can sometimes be helpful. On the other hand, it can be exceptionally
+frustrating when the computer gets it *wrong*! Therefore, work for as
+long as possible while managing only two dimensions. When it is time to
+push and pull your geometries into the z-axis, then it will be an
+exceptionally satisfying experience. But wait...there's another thing to
+do before that.
 
-### Related Assignments
+Since geometries tend to be joined at vertices resulting in unintended
+stretching, each program you will encounter has some method of grouping
+elements together into systems. You are well advised to be profligate in
+your use of these groups. This is powerful modeling, and the pros make
+excellent use of this kind of *templating* of components. The following
+table is a guide to some common terminology for you to research and
+learn the basics of making groups or components:
 
--   Sketch B. Field Sketch of a Chair
+  -------------- ------------------
+  Program Name   Element Name
+  AutoCad        Block
+  REVIT          Family
+  SketchUp       Group, Component
+  Blender        Group
+  Maya           Group
+  -------------- ------------------
 
--   Sketch C. Field Sketches of Floor Plans of Five Large Rooms
-
--   Sketch D. Field Sketches of Two Exterior Elevations of Large
-    Buildings
-
--   Sketch E. Field Sketches of Two Interior Elevations of Large Rooms
-
--   Sketch F. Field Sketches of Five Partial Interior Sections of Large
-    Room
-
--   Exercise Seven. Interior Construction Drawing. Floor Plan and
-    Interior Elevations
-
-<!-- comment
+Here are some final thoughts about the electronic modeling method. It is
+much easier to create any view that you desire, and this can have some
+unintended consequences. Extreme perspective distortion can be very
+exciting, and when it is not a deliberate choice of the designer, it can
+also be very distracting to your focus on the design. Here are a few
+reminders from an earlier discussion about photography. Our most
+frequent view of an object is from a standing eye-level perspective,
+usually about five feet (1.5 meters) above the ground and with a 50mm
+lens. This view will challenge you, because it often does not allow you
+to include *everything* that you have modeled. Maintaining this view is
+a good discipline, and if you are wanting to show more distortion, then
+have a very good reason for that view and be deliberate in your purpose
+(e.g., contrast, tension, dynamics, juxtaposition, etc.) Additionally,
+use the computer as a tool. Model only the bare basics of what you need
+for the purpose. As an example, in the next assignment you will be asked
+to model a guest house electronically. Our main purpose here is to use
+the computer as a tool to define and *design* the sun and shade
+patterns. You only need the basic cubic volumes. No materials are
+needed. No textures are needed. This is often referred to as a clay
+model rendering, which owes its namesake to the physical modeling
+material clay. Two main advantages come from this decision to be
+minimalistic in your approach: it takes far less time for you to model,
+and it takes far fewer resources for the computer to render the desired
+image. Always remember that the goal is a tone value rendering. The
+software can make this task both harder and easier. The choice is yours!
 
 ### Student Examples
 
-![Makayla](images/EX4_VargesonM.png)
+![Pham](images/Ex5_phamT.png)
 
-![Tory](images/Ex4_SnortumHaneyT.png)
+![Peats](images/Ex5_peatsA.png)
 
-![Owen](images/Ex4_FrostO.png)
-
--->
+![Johnson](images/EX5_johns6d44.png)

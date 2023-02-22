@@ -1,10 +1,8 @@
-![Today's Agenda](images/230222-3_072.png)
-
 ### Sketch D. Field Sketches of Two Exterior Elevations of Large Buildings
 
 #### Introduction
 
-![](images/050104fieldSketchExtElevs.png)
+\<Insert Figure 5.1.3\>
 
 Figure Sketch D. Field Sketches of Two Exterior Elevations of Large
 Buildings
@@ -114,12 +112,3 @@ Figure 5.1.4: Video Still. Field Sketch of Exterior Elevations
 
 -   Exercise Seven. Interior Construction Drawing. Floor Plan and
     Interior Elevations
-
-
-### Student Examples
-
-![Vargeson](images/SkD_VargesonM.png)
-
-![Peats](images/SkD_peatsA.png)
-
-![Staley](images/SkD_staleyI.png)

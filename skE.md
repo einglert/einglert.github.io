@@ -1,10 +1,8 @@
-![Today's Agenda](images/230227-8_081.png)
-
 ### Sketch E. Field Sketches of Two Interior Elevations of Large Rooms
 
 #### Introduction
 
-![Sketch E](images/050105fieldSketchIntElevs.png)
+\<Insert Figure 5.1.5\>
 
 Figure Sketch E. Field Sketches of Two Interior Elevations of Large
 Rooms
@@ -104,11 +102,3 @@ that assignment for more information.
 
 -   Exercise Seven. Interior Construction Drawing. Floor Plan and
     Interior Elevations
-
-### Student Examples
-
-![Haney](images/SkE_SnortumHaneyT.png)
-
-![Hurst](images/SkE_hurstC.png)
-
-![Staley](images/SkE_staleyI.png)

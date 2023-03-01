@@ -1,10 +1,11 @@
-![Today's Agenda](images/230301-2_082.png)
-
 ### Sketch F. Field Sketches of Five Partial Interior Sections of Large Rooms
 
 #### Introduction
 
-![Sketch F. Field Sketches of Five Partial Interior Sections of Large Rooms](images/050107fieldSketchSects.png)
+\<Insert Figure 5.1.7\>
+
+Figure Sketch F. Field Sketches of Five Partial Interior Sections of
+Large Rooms
 
 Sketch five sections of buildings and/or spaces of a large building.
 Sketch loosely using your choice of media. Focus on proportion and
@@ -88,11 +89,3 @@ assignment for more information.
   Professionalism   Student completes the work on time. Work demonstrates exemplary attention to learning objectives.                                                                                                                    Student completes the work on time and demonstrates a good work ethic.                                                                                                                 Student generally completes the work at a minimum level of expectation.                                                                               Student is missing parts of the work and makes a plan for completion of the remaining assignment.                                                
   ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------ --
 
-
-### Student Examples
-
-![Means](images/means_olivia4128252_question_65413034_154297907_20220325_FieldSketchF_oliviameans.png)
-
-![Hopkins](images/hopkins_ethan4131686_question_65413022_154320871_SketchF_HopkinsE.png)
-
-![Keller](images/keller_emma4133386_question_65413022_154260911_sketchF_kellere.png)

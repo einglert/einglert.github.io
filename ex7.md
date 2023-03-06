@@ -1,5 +1,3 @@
-![Today's Agenda](images/230306-7_091.png)
-
 ### Exercise Seven. Interior Construction Drawing. Floor Plan and Interior Elevations
 
 #### Introduction
@@ -20,7 +18,7 @@ information about the space, relationships, and its basic design. The
 final drawing will have one drafted plan four drafted interior
 elevations one plan diagram.
 
-![Exercise Seven. Interior Construction Drawing. Floor Plan and Interior Elevations](images/050202interiorConstDwg.png)
+\<Insert Figure 5.2.2_exerciseSeven\>
 
 Figure 5.2.2: Exercise Seven. Interior Construction Drawing. Floor Plan
 and Interior Elevations
@@ -147,6 +145,12 @@ office and they could be productive in a very short time.
     phase, add linework for clarification as well as dimensions and
     notes and captions.
 
+#### Video
+
+\<Insert Figure 5.2.3_interiorConstDwg\>
+
+Figure 5.2.3: Video Still. Interior Construction Drawing
+
 #### Criteria
 
   ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------ --
@@ -186,10 +190,3 @@ office and they could be productive in a very short time.
 
 -   Sketch E. Field Sketches of Two Interior Elevations of Large Rooms
 
-<!-- comment
-
-### Student Examples
-
-![]()
-
-end comment -->

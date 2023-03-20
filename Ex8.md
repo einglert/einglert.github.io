@@ -1,5 +1,3 @@
-![Today's Agenda](images/230320-1_101.png)
-
 ### Exercise Eight. Rendered Section. Hybrid Drawing
 
 #### Introduction
@@ -34,7 +32,7 @@ final drawing should have:
 
 -   1 scale figure, minimum
 
-![Exercise Eight. Rendered Section. Hybrid Drawing](images/050301renderSectionHybrid.png)
+\<Insert Figure 5.3.1_exerciseEight\>
 
 Figure 5.3.3: Exercise Eight. Rendered Section. Hybrid Drawing
 
@@ -182,15 +180,3 @@ descriptive architectural illustrations.
 
 -   Exercise Seven. Interior Construction Drawing. Floor Plan and
     Interior Elevations
-
-<!-- comment
-
-### Student Examples
-
-![Lavigne](images/lavigne_barrett4127598_question_65463554_154553615_Ex7_LavigneB.png)
-
-![Osborne](images/osborne_megan4130794_question_65463554_154569639_Ex7_osborneM.png)
-
-![Peats](images/peats_alexis4136662_question_65463542_154551823_Ex7_peatsA.png)
-
-end comment -->

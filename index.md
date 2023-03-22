@@ -1,4 +1,4 @@
-![Today's Agenda](images/230320-1_101.png)
+![Today's Agenda](images/230322-3_102.png)
 
 ### Exercise Eight. Rendered Section. Hybrid Drawing
 
@@ -37,47 +37,6 @@ final drawing should have:
 ![Exercise Eight. Rendered Section. Hybrid Drawing](images/050301renderSectionHybrid.png)
 
 Figure 5.3.3: Exercise Eight. Rendered Section. Hybrid Drawing
-
-#### Learning
-
-This assignment module contributes to the following design learning
-outcomes, which finish the sentence "As a successful student in this
-course, I am now able..."
-
-\* ... to analyze the built environment and apply measured drawing
-skills that include plans and elevations, illustrating line quality,
-drawing notation and dimensioning.
-
-#### Scenario
-
-> At the turn of the twenty-first century a gap widened between "high
-> tech" younger designers and the hands-on "low tech" veteran designers.
-> Designers positioned between the two groups were the first to take
-> notice and began searching for ways to integrate...new methods that
-> merge traditional drawing techniques with high-tech digital tools.
-> (Leggitt 2010, 8)
-
-Artists and illustrators can leverage the speed of direct-to-paper
-linework and combine it with the convenience of layering and the
-powerful editing tools and filters of digital painting programs. The
-hybrid nature of this drawing is two-fold: it is a construction drawing
-and an illustrative rendering; and it is made using digital and analogue
-drawing techniques. Whenever you can illustrate multiple design
-considerations within a single drawing, we may say that it is rich and
-dense with information. The drawing is suggestive of important
-interrelationships. The relationships between construction, user
-experience, utility and aesthetic are made evident in a rendered section
-drawing, because the viewer apprehends these concepts and design
-elements all at once. Therefore, when planning such a multi parameter
-exposition the designer makes certain implicit claims about important
-architectural juxtapositions that can be aided by such a collage
-approach. The digital collage of layers is very efficient and open to
-several iterations and overlays. Unless the choices of materials, colors
-and textures is deliberately and carefully considered, then the collage
-of design elements can seem arbitrary and unbalanced. On the other hand,
-as the designer gains more confidence in this technique the rendered
-interior section drawing can be one of the most influential and
-descriptive architectural illustrations.
 
 #### Materials
 
@@ -166,31 +125,11 @@ descriptive architectural illustrations.
     with layer modes such as "multiply" and "overlay." The main point of
     this exercise is to experiment!
 
-#### Criteria
-
-  DLO               Advanced (4 pts)                                                                                                                                                                                                                                  Proficient (3 pts)                                                                                                                                                           Developing (2 pts)                                                                                                                                                         Beginner (1 pt)                                                                                                                               
-  ----------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------- --
-  Craft             Illustrator demonstrates exemplary attention to work product and excellence.                                                                                                                                                                      Illustrator demonstrates good attention and care towards work product.                                                                                                       Illustrator completes work, but the product seems rushed to completion.                                                                                                    Illustrator demonstrates attention towards work product, but work quality is                                                                  
-  Rendering         Illustrator uses tone value to represent the interplay of light on volumetric forms. Image is controlled and evokes both power and subtlety. Image is descriptive and/or symbolic and supports compositional goals.                               Illustrator\'s tone value work demonstrates several professional attributes. Rendering style does not distract the viewer and generally supports compositional objectives.   Illustrator\'s use of tone value is somewhat effective. Rendering style is consistent and competent. There are some non-contributing attributes.                           Illustrator attempts to use tone value descriptively. Rendering is inconsistent and lacks attention to craft.                                 
-  Technical         Modeler observes and analyzes object data and translates it to a meaningful electronic model representation. Professional conventions are followed, inclusive of view selection, accurate translation of field notes and light source selection   Modeler observes and analyzes object data and translates it to a meaningful electronic model. Most professional conventions are followed, and some information is missing.   Modeler is challenged to observe and analyze field sketch correctly in the electronic model. Few professional conventions are followed, and some information is missing.   Modeler attempts to observe and analyze field sketch and representation is inconsistent. Professional drawing conventions are not followed.   
-  Professionalism   Student completes the work on time. Work demonstrates exemplary attention to learning objectives.                                                                                                                                                 Student completes the work on time and demonstrates a good work ethic.                                                                                                       Student generally completes the work at a minimum level of expectation.                                                                                                    Student is missing parts of the work and makes a plan for completion of the remaining assignment.                                             
-
-#### Related Assignments
-
--   Sketch F. Field Sketches of Five Partial Interior Sections of Large
-    Rooms
-
--   Exercise Seven. Interior Construction Drawing. Floor Plan and
-    Interior Elevations
-
-<!-- comment
-
 ### Student Examples
 
-![Lavigne](images/lavigne_barrett4127598_question_65463554_154553615_Ex7_LavigneB.png)
+![Giesting](images//giesting_bryce4051970_question_65502026_154776575_Ex8_GiestingB.png)
 
-![Osborne](images/osborne_megan4130794_question_65463554_154569639_Ex7_osborneM.png)
+![Means](images/means_olivia4128252_question_65502026_154752809_20220408_Exercise8_oliviameans.png)
 
-![Peats](images/peats_alexis4136662_question_65463542_154551823_Ex7_peatsA.png)
+![Hurst](images/hurst_cailey4132066_question_65502024_154768671_Ex8_hurstC.png)
 
-end comment -->

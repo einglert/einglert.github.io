@@ -1,135 +1,141 @@
-![Today's Agenda](images/230322-3_102.png)
+![Today's Agenda](images/230327-8_111.png)
 
-### Exercise Eight. Rendered Section. Hybrid Drawing
+### Exercise Nine. Monochrome Rendering of Architectural Detail
 
 #### Introduction
 
-Select one of the sections that you drew in Sketch F. Field Sketches of
-Five Partial Interior Sections of Large Rooms. The section must show an
-opening from interior space to exterior space (door, window, balcony,
-etc.) Manually draft the section on an Arch B, 12\" x 18\" (A3, 297mm x
-420mm) sheet. Draft to an appropriate scale for your space. (i.e., An
-example room 18' wide, or 6m, and 12' high, or 4m, would fit well at
-1/2"=1'-0" (1:20 SI units.)
+*Trompe-lʼoeil*, or "fool the eye," is an artistic technique of making a
+highly realistic rendering to convince of viewer of three-dimensional
+space or texture on a 2d surface. It is often used in built environments
+to create textures or architectural elements. In drawing, trompe-lʼoeil
+is used to create the illusion of reality or depth within the drawing
+frame.
 
-Scan the drawn room section and bring it into a raster-image editor
-program. Render the section using the program to illustrate the space.
-Include both interior and exterior in the rendering and include scale
-figures. Do not worry about perspective, construction details, or
-details that do not add to the basic shape and/or character of the
-space. The section only needs to show the basic profile of the space or
-room. The intent is to use digital graphics combined with hand drafting
-to document the character of a space. The final composition can be
-assessed upon the quality of the drafted section and the ability to use
-a raster-image editing program to illustrate an architectural space. The
-final drawing should have:
+Select an architectural detail from Sketch G. Field Sketches of Five
+Architectural Details. Take good photographs of the material to be used
+as a guide for the final drawing. Select an appropriate detail and
+composition for the view. Your detail drawing should contain/be:
 
--   hand drafted section
+-   A joint between three or more materials
 
--   scanned and imported into Photoshop
+-   Full scale or larger
 
--   rendered interior
+-   Perspective view
 
--   rendered exterior
+-   One inch (25mm) border on drawing sheet
 
--   1 scale figure, minimum
+On a sheet of Bristol board, draw your detail at full scale. Render the
+drawing to show realistic textures, light and shadow. Make the drawing
+as convincing as possible. The final drawing will be assessed on
+accuracy of rendering technique, quality and creativity of composition,
+and technical ability to render different textures, light, and shadow.
 
-![Exercise Eight. Rendered Section. Hybrid Drawing](images/050301renderSectionHybrid.png)
+![Exercise Nine. Monochrome Rendering of Architectural Detail](images/060101renderArchDetail.png)
 
-Figure 5.3.3: Exercise Eight. Rendered Section. Hybrid Drawing
+Figure 6.1.1: Exercise Nine. Monochrome Rendering of Architectural Detail
+
+#### Learning
+
+This assignment module contributes to the following design learning
+outcomes, which finish the sentence "As a successful student in this
+course, I am now able..." \* ... to analyze a field sketch of a built
+environment condition and simulate the influence of highlight, shade and
+shadow and render materials with a photorealistic effect.
+
+#### Scenario
+
+> As the drawings are enlarged from scale to scale the proportions of
+> smaller parts are studied, and the arrangement and disposition or
+> ornament, until finally the details are considered: the profile of
+> mouldings, the detail of ornament, the arrangement of the drawings on
+> the sheet, and the presentation -- the actual drawing and rendering of
+> the problem. (Harbeson 1927, 24)
+
+Students of architecture have investigated architectural details of
+well-known buildings since the beginnings of formalized study. At the
+Ecole des Beaux-Arts this study was known as an *Analytique*. While
+these drawings were often orthographic elevations, sections and plans
+rendered in beautiful watercolor washes, *Exercise Nine* is a
+perspective study rendered in monochromatic tone values with a wax-based
+color pencil.
+
+Whenever we study architecture at different scales, we develop a deeper
+appreciation for the complexities of our profession and craft. When we
+draw these complex assemblages of details, we simulate how objects in
+the real world are connected and how materials interact with one another
+through the interplay of light, shadow, and edge.
+
+We can confidently predict that the student who methodically
+investigates an exemplary detail connection by drawing the assembly at a
+full scale or larger will gain a deep understanding of the system. While
+this process can seem time consuming, it has a high reward for the
+investment of effort.
+
+The design of an environment does not progress logically, efficiently,
+or in a linear path from one idea to a solution. Architectural design is
+slow, sometimes messy and rewarded by focus and attention on the details
+and, at the same time, on the big picture view. From sketch to rendering
+and all the implied steps in between have confidence that the process of
+drawing will reveal greater understanding.
+
+> In his 2019 Tony acceptance speech, the then 73-year-old inspired
+> viewers with his acceptance speech, where he laid out his cardinal
+> rules for success: "Surround yourself with people whose eyes light up
+> when they see you coming," and, "Slowly is the fastest way to get to
+> where you want to be." \
+> --André De Shields (NPR 2021)
 
 #### Materials
 
 -   Pencil
 
--   Architect's scale
-
--   Grid paper and triangles
-
--   Arch B, 12\" x 18\" (A3, 297mm x 420mm) sheet
-
--   Raster-image editor (e.g., GIMP, Photoshop, etc.)
+-   Bristol board, 11\" x 17\" (279mm x 432mm)
 
 #### Steps
 
-1.  Plan for a vellum drafting sheet size of Arch B which is 12"x18"
-    (A3, 297mm x 420mm). The drawing scale is perhaps 1/2"=1'-0" or 1:24
-    (1:20 in SI units.) Draw a larger scaled interior section than in
-    Sketch F. Focus on line weight differentiation, such that all
-    construction elements that are sectioned (i.e., cut-through) are a
-    thick line (0.7+mm) and elements that are visible in elevation are a
-    thinner line (0.35mm.)
+1.  Select an architectural detail from Sketch G. Field Sketches of Five
+    Architectural Details. Compose a perspective view that illustrates a
+    joint between three or more materials.
 
-2.  Place your drawing flat either on the ground, table or taped to the
-    wall and illuminate with even and non-shadow producing light.
-    Photograph with the camera on your phone using the largest physical
-    lens and try to avoid using the pinch feature to zoom (i.e., digital
-    zoom.)
+2.  Layout your sheet so that the detail is represented at full scale or
+    larger. Remember to layout a one inch (25mm) border on drawing
+    sheet.
 
-3.  Import into the digital painting program (i.e., GIMP.) The image is
-    probably larger than you need. As an example, if the original crop
-    of an iPhone 12 Pro Max would result in a photo with a resolution of
-    4032px x 3024px, and perhaps more than 8 Mb file, then it would be
-    larger than we needed and unnecessarily burden the computer during
-    our digital painting phase. A more useful maximum pixel dimension
-    would be 2700 px and a corresponding file size of less than 4 Mb.
+3.  Considerable care should be shown to render very smooth gradients of
+    tone value. Rendering material texture is particularly difficult and
+    requires an objective eye. *Modeling* is how we illustrate depth,
+    and this is defined as transitioning from a hard and contrasty edge
+    to a soft and lost edge.
 
-4.  Using a layering system begin to paint the walls. A common strategy
-    with painters is to build from the background toward the foreground
-    elements. Add another layer to add the window elements. You may want
-    to find a photograph of a window element in elevation to sample and
-    manipulate like an Electronic Dance Music DJ samples drum break
-    beats! Have fun and bring in furniture, plants, and other entourage
-    elements to enliven your scene.
+4.  The illustration has a goal of photorealism. Look around. The real
+    world does not have *lines*. There are of course edges that our mind
+    may want to turn into lines. Resist the urge to use lines. Focus on
+    the subtle transitions between tone values.
 
-5.  One requirement of this assignment is to show the outside
-    environment through an opening in the wall. Use a layer mask to open
-    a view to the layer below where the exterior scene you borrowed from
-    a web image resource resides. Try to blur the outside layer below
-    just a little and slightly desaturate the color intensity. This
-    creates a perception of atmospheric perspective. Another layer
-    should include at least one scale reference human silhouette that
-    does not compete or dominate the architectural materials and finish.
-    Adding significant blur (gaussian or motion blur) or making this
-    silhouette completely gray in color can be effective.
+5.  Take great care when photographing your final artwork. Proper even
+    lighting is key to maintaining the subtle gradations. Whites should
+    be white. Blacks should be black. Too much contrast in the digital
+    file can ruin the image.
 
 #### Tips
 
-1.  Photographing artwork is a challenge. It is far easier to correct
-    for scale and perspective for instance, than it is for uneven light.
-    Seek a high contrast line, a white background, and dark and clear
-    lines. Remember to place a scale reference to use when adjusting in
-    the digital painting program.
+1.  You may remember doing a tone value scale that had seven gradations
+    from black to white. Similarly, we can make an edges scale from the
+    sharpest to the softest most imperceptible edge (i.e., *lost edge*).
+    Before starting your rendering make these two reference scales.
 
-2.  The most useful skill to learn in digital painting is creating a
-    mask. Imagine that you are viewing an interior wall. Draw a smaller
-    rectangle on the wall. In your mind's eye, take some imaginary
-    scissors and cut out the rectangle, so that you can see to the
-    outside. In principle this is a layer mask.
+2.  Architects use line often for symbolic and technical reasons in our
+    illustrations. Painters rarely use line. In this exercise to achieve
+    a more photographic quality let's think more like painters!
 
-3.  Layering is the predominant feature of digital painting. Again, it
-    is useful to use an analogy to enable our understanding. Imagine
-    that you draw a sketch of an existing exterior elevation on a piece
-    of tracing paper. Tear off another sheet and tape directly over your
-    sketch. On this top sheet draw a new porch design. Don't like it?
-    Instead of erasing the undesirable porch design, tear off another
-    sheet of tracing paper and redraw an improved design over the top of
-    the sheets below and repeat this process. In the digital world, each
-    new layer is analogous to each sheet of tracing paper...only MUCH
-    MORE powerful!
-
-4.  Many people love watercolor paintings. A big part of the watercolor
-    aesthetic is the layering of transparent and fluid glazes that allow
-    for a depth of color development over time. You can emulate this
-    technique by reducing the opacity of the layers and experimenting
-    with layer modes such as "multiply" and "overlay." The main point of
-    this exercise is to experiment!
+3.  Take care to protect your drawing from the oils in your hand. If you
+    are right-handed, you may want to plan to render from left to right.
+    If you are left-handed, then draw from right to left.
 
 ### Student Examples
 
-![Giesting](images//giesting_bryce4051970_question_65502026_154776575_Ex8_GiestingB.png)
+![Kremer](images/Kremer.png)
 
-![Means](images/means_olivia4128252_question_65502026_154752809_20220408_Exercise8_oliviameans.png)
+![McClorey](images/mcclorey_grace4127772_question_65544776_154967425_Ex9_mccloreyG.png)
 
-![Hurst](images/hurst_cailey4132066_question_65502024_154768671_Ex8_hurstC.png)
-
+![Laprete](images/laprete_conard4049866_question_61353294_142156241_07-1_Detail.png)

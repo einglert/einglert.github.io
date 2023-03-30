@@ -1,141 +1,108 @@
-![Today's Agenda](images/230327-8_111.png)
+![Today's Agenda](images/230329-30_112.png)
 
-### Exercise Nine. Monochrome Rendering of Architectural Detail
+### Sketch G. Field Sketches of Five Architectural Details
 
 #### Introduction
 
-*Trompe-lʼoeil*, or "fool the eye," is an artistic technique of making a
-highly realistic rendering to convince of viewer of three-dimensional
-space or texture on a 2d surface. It is often used in built environments
-to create textures or architectural elements. In drawing, trompe-lʼoeil
-is used to create the illusion of reality or depth within the drawing
-frame.
+![Figure Sketch G. Field Sketches of Five Architectural Details](images/060103fieldSketchDetls.jpg)
 
-Select an architectural detail from Sketch G. Field Sketches of Five
-Architectural Details. Take good photographs of the material to be used
-as a guide for the final drawing. Select an appropriate detail and
-composition for the view. Your detail drawing should contain/be:
+Figure Sketch G. Field Sketches of Five Architectural Details
 
--   A joint between three or more materials
+> God is in the details. (Van der Rohe 1959)
+>
+> \[Carlo\] Scarpa's work is typically noted for an obsessive
+> relationship with materials and craft, an extreme attention to detail,
+> and a focus on the fragment. (Neveu 2010)
 
--   Full scale or larger
-
--   Perspective view
-
--   One inch (25mm) border on drawing sheet
-
-On a sheet of Bristol board, draw your detail at full scale. Render the
-drawing to show realistic textures, light and shadow. Make the drawing
-as convincing as possible. The final drawing will be assessed on
-accuracy of rendering technique, quality and creativity of composition,
-and technical ability to render different textures, light, and shadow.
-
-![Exercise Nine. Monochrome Rendering of Architectural Detail](images/060101renderArchDetail.png)
-
-Figure 6.1.1: Exercise Nine. Monochrome Rendering of Architectural Detail
+The built environment is composed of materials assembled in various
+patterns and details. An architectural detail is the joint between
+different materials, the articulation of a surface, or the seam in
+construction. It is quite often in the details that a designer can
+express purpose, quality, and attitude of an environment. Sketch five
+architectural details from observation during your architectural walking
+tour. Combine styles of drawing to capture the nature of the detail.
+Each detail should be the joint between three or more materials. You may
+also wish to photograph the detail or revisit the site to draw the
+detail with more accuracy. Your sketches will become the basis for your
+work during assignment Exercise Nine. Monochrome Rendering of
+Architectural Detail, so select details that you find interesting and
+important.
 
 #### Learning
 
 This assignment module contributes to the following design learning
 outcomes, which finish the sentence "As a successful student in this
-course, I am now able..." \* ... to analyze a field sketch of a built
-environment condition and simulate the influence of highlight, shade and
-shadow and render materials with a photorealistic effect.
+course, I am now able..."
+
+-   ... to analyze the built environment and apply measured drawing
+    skills that include plans and elevations, illustrating line quality,
+    drawing notation and dimensioning.
 
 #### Scenario
 
-> As the drawings are enlarged from scale to scale the proportions of
-> smaller parts are studied, and the arrangement and disposition or
-> ornament, until finally the details are considered: the profile of
-> mouldings, the detail of ornament, the arrangement of the drawings on
-> the sheet, and the presentation -- the actual drawing and rendering of
-> the problem. (Harbeson 1927, 24)
-
-Students of architecture have investigated architectural details of
-well-known buildings since the beginnings of formalized study. At the
-Ecole des Beaux-Arts this study was known as an *Analytique*. While
-these drawings were often orthographic elevations, sections and plans
-rendered in beautiful watercolor washes, *Exercise Nine* is a
-perspective study rendered in monochromatic tone values with a wax-based
-color pencil.
-
-Whenever we study architecture at different scales, we develop a deeper
-appreciation for the complexities of our profession and craft. When we
-draw these complex assemblages of details, we simulate how objects in
-the real world are connected and how materials interact with one another
-through the interplay of light, shadow, and edge.
-
-We can confidently predict that the student who methodically
-investigates an exemplary detail connection by drawing the assembly at a
-full scale or larger will gain a deep understanding of the system. While
-this process can seem time consuming, it has a high reward for the
-investment of effort.
-
-The design of an environment does not progress logically, efficiently,
-or in a linear path from one idea to a solution. Architectural design is
-slow, sometimes messy and rewarded by focus and attention on the details
-and, at the same time, on the big picture view. From sketch to rendering
-and all the implied steps in between have confidence that the process of
-drawing will reveal greater understanding.
-
-> In his 2019 Tony acceptance speech, the then 73-year-old inspired
-> viewers with his acceptance speech, where he laid out his cardinal
-> rules for success: "Surround yourself with people whose eyes light up
-> when they see you coming," and, "Slowly is the fastest way to get to
-> where you want to be." \
-> --André De Shields (NPR 2021)
+This assignment is a continuation Sketches C. Field Sketches of Floor
+Plans of Five Large Rooms and D. Field Sketches of Two Exterior
+Elevations of Large Buildings and E. Field Sketches of Two Interior
+Elevations of Large Rooms and Sketch F. Field Sketches of Five Partial
+Interior Sections of Large Rooms. Please review the *Scenario* section
+for those assignments for more information.
 
 #### Materials
 
+-   Phone camera or digital camera
+
 -   Pencil
 
--   Bristol board, 11\" x 17\" (279mm x 432mm)
+-   Sketchbook
 
 #### Steps
 
-1.  Select an architectural detail from Sketch G. Field Sketches of Five
-    Architectural Details. Compose a perspective view that illustrates a
-    joint between three or more materials.
+1.  Select a five exterior or interior details to study through
+    perspective drawing. A good source for your selection is a lecture
+    hall, library reading room, high-rise lobby, etc. This offers the
+    challenge of a mid-sized building that is not too large to be a
+    burden and that is more of a challenge than a residence.
 
-2.  Layout your sheet so that the detail is represented at full scale or
-    larger. Remember to layout a one inch (25mm) border on drawing
-    sheet.
+2.  Photograph your room or exterior detail from various views. These
+    images will be useful to you after you have returned to the studio
+    and wish to add notes and an estimate of furniture locations, etc.
 
-3.  Considerable care should be shown to render very smooth gradients of
-    tone value. Rendering material texture is particularly difficult and
-    requires an objective eye. *Modeling* is how we illustrate depth,
-    and this is defined as transitioning from a hard and contrasty edge
-    to a soft and lost edge.
+3.  Taking our analysis from the general to the specific, note important
+    dimensions and relationships. Include dimensional information and
+    annotations about the materials, elements and details.
 
-4.  The illustration has a goal of photorealism. Look around. The real
-    world does not have *lines*. There are of course edges that our mind
-    may want to turn into lines. Resist the urge to use lines. Focus on
-    the subtle transitions between tone values.
-
-5.  Take great care when photographing your final artwork. Proper even
-    lighting is key to maintaining the subtle gradations. Whites should
-    be white. Blacks should be black. Too much contrast in the digital
-    file can ruin the image.
+4.  Experiment with a style that uses both contour lines (analytical)
+    and tone value (experiential). See the example above for
+    clarification.
 
 #### Tips
 
-1.  You may remember doing a tone value scale that had seven gradations
-    from black to white. Similarly, we can make an edges scale from the
-    sharpest to the softest most imperceptible edge (i.e., *lost edge*).
-    Before starting your rendering make these two reference scales.
+-   Taking a large clipboard to the *field* is useful in providing a
+    mobile and hard surface to draw.
 
-2.  Architects use line often for symbolic and technical reasons in our
-    illustrations. Painters rarely use line. In this exercise to achieve
-    a more photographic quality let's think more like painters!
+-   Photograph everything about the room and your building. You will be
+    glad to have the information when back in the studio.
 
-3.  Take care to protect your drawing from the oils in your hand. If you
-    are right-handed, you may want to plan to render from left to right.
-    If you are left-handed, then draw from right to left.
+#### Criteria
+
+  DLO               Advanced (4 pts)                                                                                                                                                                                                                                  Proficient (3 pts)                                                                                                                                                           Developing (2 pts)                                                                                                                                                         Beginner (1 pt)                                                                                                                               
+  ----------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------- --
+  Craft             Illustrator demonstrates exemplary attention to work product and excellence.                                                                                                                                                                      Illustrator demonstrates good attention and care towards work product.                                                                                                       Illustrator completes work, but the product seems rushed to completion.                                                                                                    Illustrator demonstrates attention towards work product, but work quality is                                                                  
+  Rendering         Illustrator uses tone value to represent the interplay of light on volumetric forms. Image is controlled and evokes both power and subtlety. Image is descriptive and/or symbolic and supports compositional goals.                               Illustrator\'s tone value work demonstrates several professional attributes. Rendering style does not distract the viewer and generally supports compositional objectives.   Illustrator\'s use of tone value is somewhat effective. Rendering style is consistent and competent. There are some non-contributing attributes.                           Illustrator attempts to use tone value descriptively. Rendering is inconsistent and lacks attention to craft.                                 
+  Technical         Modeler observes and analyzes object data and translates it to a meaningful electronic model representation. Professional conventions are followed, inclusive of view selection, accurate translation of field notes and light source selection   Modeler observes and analyzes object data and translates it to a meaningful electronic model. Most professional conventions are followed, and some information is missing.   Modeler is challenged to observe and analyze field sketch correctly in the electronic model. Few professional conventions are followed, and some information is missing.   Modeler attempts to observe and analyze field sketch and representation is inconsistent. Professional drawing conventions are not followed.   
+  Professionalism   Student completes the work on time. Work demonstrates exemplary attention to learning objectives.                                                                                                                                                 Student completes the work on time and demonstrates a good work ethic.                                                                                                       Student generally completes the work at a minimum level of expectation.                                                                                                    Student is missing parts of the work and makes a plan for completion of the remaining assignment.                                             
+
+#### Related Assignments
+
+-   Sketch G. Field Sketches of Five Architectural Details
+
+-   Exercise Six. Perspective Projection and Tone Value Render of a
+    Small Guest House
 
 ### Student Examples
 
-![Kremer](images/Kremer.png)
+![Lavigne](images/lavigne_barrett4127598_question_65544918_155120137_SkG_LavigneB.png)
 
-![McClorey](images/mcclorey_grace4127772_question_65544776_154967425_Ex9_mccloreyG.png)
+![Hurst](images/hurst_cailey4132066_question_65544912_155115261_SkG_hurstC.png)
 
-![Laprete](images/laprete_conard4049866_question_61353294_142156241_07-1_Detail.png)
+![Baxter](images/baxter_isabelle4138196_question_65544912_155128889_Ex9_baxterI.png)

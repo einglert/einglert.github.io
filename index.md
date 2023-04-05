@@ -1,33 +1,26 @@
-![Today's Agenda](images/230403-4_121.png)
+![Today's Agenda](images/230405-6_122.png)
 
-### Exercise Ten. Contour Line Drawing of Eye-level Perspective
+### Sketch H. Field Sketches of Ten Architectural Perspectives
 
 #### Introduction
 
-![Figure 6.1.5: Exercise Ten. Contour Line Drawing of Eye-level](images/060105contourDwgHand.png)
+> When a figure floats isolated in a sea of empty space, its presence is
+> emphasized.... The figure stands out clearly as a positive shape
+> against an empty, diffuse, and shapeless background.... Vignette\[:\]
+> Situating the drawing in a large field emphasizes its individuality.
+> The space between the drawing and the edge of a sheet typically should
+> be similar to or larger than the dimensions of the drawing. (Ching
+> 1998, 32 & 307)
 
-![Figure 6.1.5: Exercise Ten. Contour Line Drawing of Eye-level](images/060106contourDwgDigital.png)
+Using a pen, draw 10 freehand perspectives of architecture from
+observation. Include lines indicating convergence, diminution,
+overlapping, foreshortening, horizon line, and vanishing points. Work
+rapidly, loosely, and at a relatively large scale. Each drawing must be
+on a separate page and be approximately 10-15 minutes.
 
-Figure 6.1.5: Exercise Ten. Contour Line Drawing of Eye-level Perspective
+![Figure Sketch H. Field Sketches of Ten Architectural Perspectives](images/060107fieldSketchPersps.png)
 
-Select one of your drawings from Sketch H. Field Sketches of Ten
-Architectural Perspectives to develop as a finished drawing. Build up
-information in a layered drawing process. Start with lightly drawn
-converging lines and lines to indicate horizon line and vanishing point
-(if they fit on the page). Locate objects and use sighting techniques to
-compare height, width, and angles. Begin to add weight to the outline of
-the object as you become more confident in their size and location.
-Finish the drawing by adding strong, crisp line weights to make the
-drawn objects read. Use a perspective framework, add line weight,
-horizon lines and converging lines.
-
-This drawing is large and should have minimal detail. It is therefore
-important to concentrate attention on line quality. There must be proper
-line weight differentiation and hierarchy. The final drawing shall be
-one 11\" x 14\" (279x356mm) drawing. The drawing will be assessed on
-line quality and perspective and completeness of the drawing. No tone
-value delineation should be included for this assignment. Please see tip
-below about line profiling.
+Figure Sketch H. Field Sketches of Ten Architectural Perspectives
 
 #### Learning
 
@@ -35,102 +28,71 @@ This assignment module contributes to the following design learning
 outcomes, which finish the sentence "As a successful student in this
 course, I am now able..."
 
--   ... to directly observe shape and forms and measure and translate
-    the spatial scene accurately from an implied image plane to a
-    proportionally scaled drawn surface.
-
--   ... to control line weight and consistency (e.g., width, continuity,
-    and control.)
+-   ... to analyze patterns of form and design through observational
+    drawings made *en plein air* and to embed those ideas through a
+    process of re petition, revisioning and redrawing.
 
 #### Scenario
 
-We discussed in a previous chapter and in Exercise Three. Contour
-Drawing of Still Life from Direct Observation the various reasons why a
-contour line drawing is effective at showing formal qualities. Now that
-we are drawing architecture, it is even more evident. It is an important
-analytical tool for architecture. Please refer to that prior discussion
-in Chapter Two. What is interesting and different about Exercise Ten is
-the contribution that linework differentiation makes to the *reading* of
-our drawing. Let's focus in this section on the relationship between the
-different types of edges we observe in nature (hard to soft
-to *lost* edges) and how our contour drawings can reflect this
-phenomenon. By *reading* we are talking about how
-the *composition* leads the viewer's eyes around the page. In his book
-Mastering Composition (Roberts 2008, 112) Ian Roberts describes a useful
-system for controlling the reading of paintings. We can adapt some of
-these ideas:
+> A sketch is the product of a variety of lines assembled to make shapes
+> that resemble realistic forms. Detail is added to these shapes to give
+> them more meaning and identity. A final dimension is achieved by the
+> addition of tones and black to represent differences in light on the
+> various planes and to depict shadows and shades.... One must develop a
+> quick, confident, positive, and accurate stroke of line in order to
+> make convincing shapes, details, and tones. This takes many hours of
+> simple practice. (Oliver 1979, 15)
 
-1.  Working either from life or from a photograph, establish the main
-    lines of influence, he calls *armature*, that lead the viewer to the
-    focus of interest you choose:
-
-    -   verticals such as building edges
-
-    -   horizontals such as the horizon line
-
-    -   curving lines and diagonal lines such as roads, plantings, etc.
-
-2.  Analyze the tonal variations in a thumbnail sketch. These establish
-    the main tonal shapes.
-
-3.  Create an emphasized edge sketch of lines:
-
-    -   High contrast between the tonal variations is darkest
-
-    -   Low contrast and lost edges are the lightest and maybe don't
-        exist as lines at all in the sketch.
-
-4.  With this new analysis and understanding, proceed to construct the
-    contour perspective with the confidence of a very good *road
-    map* based on intention and composition. 5. Refer to the video below
-    where this painting-centric approach *informs* the perspective
-    contour drawing, especially the relative line weights.
+There is a group of architects the author belongs to on social media
+called "Architectural Sketching" where it has been debated what
+constitutes a *sketch*. In this course of study we do technical
+drawings, renderings and illustrations, electronic modeling, and
+sketches. Most architects who were educated before computers have a very
+clear idea of what a sketch is. A collage ethic combined with the ease
+of electronic modeling and layered image editing programs have all
+combined to blur the distinctions for new students. The author considers
+this experimentation a positive development. Nonetheless, there is a
+great benefit to developing the traditional skillset to make a quick
+sketch from direct observation, and *en plein air*. This exercise will
+challenge you to develop these sketching skills.
 
 #### Materials
 
--   Pencil
+-   Felt-tip pen or fine point pen
 
--   Bristol board, 11\" x 14\" (279x356mm)
+-   Sketchbook
 
 #### Steps
 
-1.  Select an architectural perspective from Sketch H. Field Sketches of
-    Ten Architectural Perspectives. Compose a perspective oblique view
-    that shows two sides of a building: a major side that is roughly
-    two-thirds wide and a minor side one-third wide.
+1.  On a single page of your sketchbook and working at a relatively
+    small scale (i.e., 5"x7" or 130x180mm) block out the major shapes
+    and relationships in light construction lines of the architecture as
+    a vignette.
 
-2.  Layout your sheet so that the perspective view mostly fills the
-    drawing area. Remember to layout a one inch (25mm) border on drawing
-    sheet.
+2.  After making adjustments and corrections begin rendering the varying
+    edge types (e.g., sharpest to softest and *lost edges*) with line
+    work.
 
-3.  It is intended that this is a freehand perspective. The emphasis on
-    great line quality is functionally about two qualities: line weight
-    that reflects depth of three-dimensional space and consistency. This
-    is a different challenge than before because you are rendering line
-    with a felt-tipped pen instead of a pencil.
-
-4.  Another option for this drawing is to use a computer and a
-    vector-based drawing program such as Inkscape and Adobe Illustrator.
-    In this case the lines are not freehand. They are more precise,
-    which may appeal to some students.
-
-5.  It is a significant challenge to confirm that the perspective
-    is *perfect and correct*. The second challenge is
-    a *correct* linework mapping. We have practiced this in several
-    exercises and sketches leading up to this exercise.
+3.  Finish rendering and confirm that you have varied the line thickness
+    (e.g., spatial, planar, and textural edges.)
 
 #### Tips
 
-1.  Several iterations may be necessary to make corrections. The best
-    way to do this by hand is to use tracing paper overlays. Once you
-    are confident in the perspective quality, then you can transfer the
-    linework with a light pencil to the finished paper.
+1.  It is important to start from the largest shapes before moving to
+    details. The process starts by finding the major vertical and
+    horizontal lines in the scene. Next you can add the diagonal and
+    curvilinear lines using the vertical and horizontal lines as
+    reference.
 
-2.  The most natural approach that gives a livelier drawing quality is
-    to *build* the perspective over several iterations. A tracing of a
-    photograph is an option; however, the results can seem both
-    distorted by the camera lens and somewhat machine-like. The human
-    touch should not be underestimated.
+2.  Once you are satisfied with the proportions and relationships of the
+    shapes defined by the lines, then block in the tone-value
+    relationships using varying densities of pattern blocks. Because we
+    are using a pen, gradients are formed from varying the density of
+    lines.
+
+3.  Only until you are confident about the shapes, proportions, balance
+    and linework of the composition should you attempt to render any
+    detail.
 
 #### Criteria
 
@@ -144,17 +106,54 @@ these ideas:
 
 #### Related Assignments
 
+-   Exercise Three. Contour Drawing of Still Life from Direct
+    Observation
+
 -   Sketch G. Field Sketches of Five Architectural Details
 
--   Exercise Six. Perspective Projection and Tone Value Render of a
-    Small Guest House
+-   Exercise Ten. Contour Line Drawing of Eye-level Perspective
+
+## The Role of the Electronic Portfolio in Architecture
+
+![Electronic Portfolio Cover Page](images/060110electronicPort.pdf)
+
+Students of architecture demonstrate professional skills and design
+projects with a portfolio. The author in the 1980's had very large
+leather folio of original works organized with the most accomplished
+work at the front of the collection. It was important to show some
+comprehensive depth, and so several technical drawings were included
+with the renderings and illustrations. Not all the work was included out
+of respect to the viewer, because it was assumed there were time
+limitations. The purpose was to get a job! Students would make phone
+calls and solicit interviews with professional architects. We hoped that
+professionals would take some time to look over what we had so carefully
+catalogued for presentation and discussion. The process today differs
+primarily in media. Portfolios are still the dominant means to getting a
+personal interview in a professional office. Students email hundreds
+more firms than possible with phone calls. Electronic portfolios are
+published as email attachments or as a link on a web site (e.g., social
+media and publishing platforms such as issuu.com.)
+
+> The challenge of proper self-promotion through portfolio design is to
+> be able to objectively assess your strengths and accomplishments.
+> Preparing a portfolio requires you to take a step back from your own
+> design work and to make an evaluation as unemotionally as possible....
+> Planning a portfolio presentation also requires a keen sense of
+> organization and an ability to arrange various written and visual
+> materials into a unified graphic package.... Those who review your
+> portfolio will be looking for a businesslike attitude and a pragmatic
+> "soundness" in your work, as well as creativity and pure grace and
+> beauty. (Linton 2003, 26)
+
+It is a golden age of architectural portfolios! A critical review of
+other architecture portfolios can help you *design* your own. We can
+distinguish the professional portfolio from a learning portfolio.
 
 
 ### Student Examples
 
-![Belegrin](images/belegrin_zach4128910_question_65582422_155210431_Ex10_belegrinZ.png)
+![Hurst](images/hurst_cailey4132066_question_65582438_155189003_skH_hurstC.png)
 
-![Vargeson](images/vargeson_makayla4129462_question_65582422_155126713_EX10_VargesonM.png)
+![McClorey](images/mcclorey_grace4127772_question_65582438_155216703_skH_mccloreyG.png)
 
-![Holdren](images/holdren_zack4139402_question_65582424_155219769_Ex10_HoldrenZ.png)
-
+![Billman](images/billman_mitchell4136464_question_65582540_155208375_SkH_billmanM.png)

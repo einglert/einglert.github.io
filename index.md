@@ -1,183 +1,4 @@
-![Today's Agenda](images/230823-4_01-2.png)
-
-## Drawing: The Language of Architectural Design
-
-![Villa Capra](images/01011villaCapra.png)
-
-## Introduction
-
-If we define a process of making the built environment (i.e.,
-architecture) as having at least two distinct and sometimes overlapping
-phases, then many would agree there is a *design* and a *construction*
-phase. We can map our journey from design to construction and use a
-common *language* for this process.
-
-![Making the Built Environment](images/0801makBltEnv.svg)
-
-Figure 1.0.1: Making the Built Environment
-
-Ask anyone what an architect does, and the most obvious answer would be,
-"an architect draws." A common historical framework of *makers* follows
-the arc of the great built works from master stone masons scribing on
-the floor who then became known as master builders working on parchment.
-Later schools of architecture like the Ecole de Beaux Arts and after
-that The Bauhaus were established and formally codified systems of study
-based almost entirely on developing specialized drawing and
-representation skills. Today a professional's predominant activity in an
-office revolves around mark making, on a board or in the computer, as a
-means of bridging the ideas in the architect's head and the
-constructor's tools.
-
-The sketch that follows was made from a Neo-Classical statue of the
-famous creator of the Dome over the Florence Cathedral, Filippo
-Brunelleschi. The irony of this depiction of Brunelleschi making a
-drawing on what appears to be a paper-like material is a fantasy worthy
-of our consideration. Sculptor Pampaloni was no doubt influenced by the
-teachings of this time from the Ecole des Beaux Arts. In the sculptor's
-hands the language of architecture is literally chiseled in stone. It is
-the act of drawing. Never mind that Brunelleschi's design communication
-approach to his carpenters and masons centered on the creation of a
-scaled down wooden model of the Dome!
-
-![After Statue of Filippo Brunelleschi by Pampaloni (1838)](images/0802filippoBrunelleschi.svg)
-
-Figure 1.0.2: After Statue of Filippo Brunelleschi by Pampaloni (1838)
-
-Since the English word for *language* is derived from the Latin word for
-tongue, it is tempting to imagine the *taste* of architecture.
-Developing further this idea of *sensing* our way to meaning, we could
-imagine the *sound* of a tongue speaking architecture. In a very real
-way, we know that we can *touch* and *see* and
-even *smell* architectural construction. The word *language* has
-multiple meanings that enrich our understanding, and for our purpose of
-learning this process of making architecture we shall refine our
-definition as something that expresses a thought and communicates
-meaning in a specific way.
-
-While architecture is far more complex than simply sketching preliminary
-designs, illustrating images for the client and drafting documents for
-construction, drawing has been and continues to be our predominant mode
-for communicating architectural meaning. Unless Artificial Intelligence
-(AI) is taught the complex profession of architecture and engineering,
-and as long as our predominate mode of communication remains in the real
-rather than the virtual world or holographic simulation, then drawing
-will continue to be the *language* of architecture.
-
-In the sections that follow we will begin our first design project.
-Discovering an appreciation for the scope of the work is the primary
-consideration in any project. From there you will be introduced to some
-history and theory, so as to ground your design work. Along this path
-you will learn the art of storytelling and test the role of simulation.
-Projects in this chapter include developing skills in watercolor,
-precedent analysis, physical modeling, electronic modeling, site
-analysis and flyover animation of your project. This phase of our
-process is commonly known as "Pre-Design" in the profession. The work in
-Chapter Nine continues with the "Design Development" phase.
-
-## Our First Design Project. A Sense of Place Making
-
-Architects often think in terms of "A Sense of Place." Instead of
-relying on a dictionary definition of *place*, let's start with a
-question. What distinguishes a place from a space? For instance, how is
-your favorite location to be alone and think different than a hotel
-room? Does your *place* have special meaning to you, and do you have a
-unique claim to it in some way? Your place is specific, while there are
-a multitude of generic hotel room spaces.
-
-Charles Moore (1925-93,) an important 20th c. architect from the United
-States, wrote in "Toward Making Places" (Moore, Lyndon, and Ryn 1962,
-31)
-
-> The architect's task is more than the manipulation of materials and
-> the molding of space; it is the definition and possession of place. .
-> .. A building is in a specific place to which it must specifically
-> respond. Generalized forms must grow out of a thorough understanding
-> of the particular place, activities, techniques of building and
-> systems of service. We must start not with the geometry but with the
-> user.
-
-Because architecture is more than making beautiful sculptural forms and
-more than providing an ample amount of space and even more than the sum
-of its parts, then the designer could envision "sense of place" as an
-organic system.
-
-> \[Vitruvius\] identified three elements: *firmitas, utilitas, and
-> venustas*. Firmness or physical strength secured the building's
-> structural integrity. Utility provided an efficient arrangement of
-> spaces and mechanical systems to meet the functional needs of its
-> occupants. And venustas, the aesthetic quality associated with the
-> goddess Venus, imparted style, proportion, and visual beauty. (Chicago
-> Library 2011)
-
-It is evident when we look at museums and sports stadia and airports
-that sculptural formalism influences architects; and, it is equally
-apparent that spatial concerns drive a sometimes-utilitarian character
-to our schools and offices and multi-family housing.
-
-If we integrate these ideas, then can we propose that good architecture
-has the Vitruvian attributes of strength, utility and beauty (i.e.,
-delight,) and it is centered on the experience of the users.
-Architectural design is the activity and system by which we make good
-and meaningful places. This system makes meaning through a *sense of
-place*. Design activity is an organic system and thus has input and
-output flows, component modules, synthesis and emergence, and it can be
-mapped as a web of interconnected modules. This complexity gives design
-a richness.
-
-How do we begin to design? The question looms so large as to cause
-intense panic or paralysis in most new architecture students. Many think
-of design as a problem solving exercise. Koberg and Bagnall (Koberg and
-Bagnall (1981), 121) developed a basic model of creative problem solving
-adapted here as:
-
--   analysis: how to take it apart?
-
--   concept: what does it mean?
-
--   synthesis: how to put it all together?
-
-As useful as this three-part abstraction seems at first, it can be
-challenging to morph these processes into a design, because each
-question has a complexity well beyond the beginning design student. In
-most projects the number of unknowns far exceeds our comfort level and
-obscures our path. You will learn about design tools to help you move
-forward. Have you heard of "bubble diagrams" or "precedent analysis"?
-These are topics we will cover in time.
-
-Instead of getting lost in the weeds with esoteric processes, we'll
-proceed with considering what we do know. Search your memory for your
-favorite places. Uncover the special and unique qualities and
-experiences you've had in a place. It could be in nature, a library, a
-place of worship or historical site. How did that place make you feel?
-What are the several things that *make* it meaningful. Write down a list
-of words using your senses as much as you can. Here's one I can
-remember:
-
-  **sense**   **description**
-  ----------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  sight       A late afternoon sun casts long shadows over a large square bounded at one end by a multi-domed basilica remaining in golden hour light. There is a breathtakingly large campanile tower and opening to the water just out of sight. Arcades flank three sides of the square, full of color and movement.
-  hearing     People talking and laughing, birds flutter and call out. There are sounds of boats, plates being delivered and music and laughter.
-  smell       So many different scents: food from all over the world, coffee, petrol fumes, cigarette smoke and perfumes and body odor.
-  taste       The espresso tastes rich on the tongue after the delicious pasta and cream sauce. The early evening air tastes of a hint of rain, or is that the dankness of the canals?
-  touch       Feet pad over the rough pavers of differing textures, and hands brush the stone columns. Bodies jostle for position and my trusty camera and sketchbook bounce against my side in a day bag that feels heavy after all the sight- seeing.
-
-Table 1.1: Sense: Description Exercise
-
-Shall we suspend for a moment the presumption of design leading straight
-as an arrow to the *problem solution*? Experience has shown that, unlike
-your calculus homework, a *correct* design solution may be an elusive
-target. Alternately, let's think of successful design as exhibiting an
-optimal balance and fit of embodied sensate intention and begin by
-asking ourselves how we define a sense of place. Can you relate to the
-above descriptions in your imagination? Even if you have never been to
-the Piazza San Marco in Venice, you can draw on your senses and memories
-and recreate the sense of this place. What is interesting about this
-exercise is that it does not imply specific forms, styles, materials or
-spatial allocations.
-
-![Historical Venetian Wedding Celebration in the Piazza San Marco](images/0810veniceWedding720.png)
-
-Figure 1.1.0: Historical Venetian Wedding Celebration in the Piazza San Marco
+![Today's Agenda](images/230828-9_02-1.png)
 
 ## An Overview of Three Overlapping Architectural Design Theories: Defining Good Questions
 
@@ -328,7 +149,7 @@ museums weave the longevity of our shared tapestry of experiences and
 archive them for future generations. It is natural then to look to these
 environmental typologies for exemplars of Contextualism.
 
-\<Insert Figure 1.2.2_ponteVecchio\>
+![Market Promenade of Ponte Vecchio in Florence, Italy](images/0822ponteVecchio720.png)
 
 Figure 1.2.2: Market Promenade of Ponte Vecchio in Florence, Italy
 
@@ -393,10 +214,9 @@ the rectangle and within the space, set up a gentle rhythmic pulsation.
 The painting becomes both a focus for the spectator's meditations and a
 screen before a mystery. (Lucie-Smith 1984, 42)
 
-\<Insert Figure 1.2.3_vietnamWarMem\>
+![The Power of Names. Vietnam Veterans Memorial Washington, DC](images/0823vietnamWarMem720.png)
 
-Figure 1.2.3: The Power of Names. Vietnam Veterans Memorial Washington,
-DC
+Figure 1.2.3: The Power of Names. Vietnam Veterans Memorial Washington, DC
 
 Between the two poles of *zeitgeist* (Rationalism) and *genius
 loci* (Empiricism), the architectural designer navigates toward meaning.
@@ -557,190 +377,7 @@ outline:
 
 -   Related Assignments
 
-## Sketch J. Watercolor Storyboard of Twelve Site Context Vignettes
-
-### Introduction
-
-\<Insert Figure 1.3.1_shakerStoryboard\>
-
-Figure 1.3.1: Sketch J. Watercolor Storyboard Example from Shaker
-Village, KY
-
-How does an architect start the design process? Most architects would
-agree that until we visit a site, a project has not yet begun. The site
-visit has a powerful impact on all decisions. Let's compare the
-architect's first site visit with making a movie. Film directors make
-storyboards. These visual sketches of the script document a plan for
-shooting a scene. They provide guidelines and cues for simulating ahead
-of time how to construct complex lighting, sound, movements, etc.
-Storyboards bridge the medium of a text script with an acted story.
-Since a film director and an architect creatively simulate scenes, then
-architects may benefit from creative tools used in movie making.
-
-Drawing is simulation. If you are a director, then storyboards simulate
-filming actors in dialogue before the time when the director yells,
-"Action!". For a painter:
-
-> "\[T\]he drawing is almost like a rehearsal of what's going to
-> happen." (Santos 2020, Timestamp 3:11)
-
-For an architect drawing simulates habitation of the built environment
-ahead of construction. Matthew Brehm made the case for sketching the
-environment when he described in detail the role of the Grand Tour in
-the development of 17th to 19th century architectural education.
-
-> "Sketching developed further as a form of study during the time of the
-> Grand Tour...recording through sketching and measured drawings was a
-> significant component of the tour." (Brehm 2012, 6)
-
-We can imagine how the sketchbooks became for those architects a
-simulation for the later architectural designs they would make, and a
-personal encyclopedia of exemplary forms and details. How then shall we
-simulate and record our first impressions of an architectural site we
-visit? Unless you are working without a specific site, or perhaps on a
-prototype design that must fit many sites, then the experiences you feel
-when visiting a location are unique and can inspire your architectural
-design. Storyboarding a site visit embeds and communicates an
-experience.
-
-### Learning
-
-This assignment module contributes to the following design learning
-outcomes, which finish the sentence "As a successful student in this
-course, I am now able..."
-
--   ... to conceptualize my design decisions within a context of the
-    site conditions including orientation, topography, built environment
-    placement, regulatory requirements, accessibility, environmental
-    impacts, approach sequence, vegetation, view sheds, etc.
-
--   ... to visualize a sequence of observed site conditions, translate
-    observations to envisioned experiences and communicate ideas both to
-    others and to myself, as I design the narrative of user interactions
-    necessary for creating a "sense of place."
-
-### Scenario
-
-Since we discussed Contextualism as a theory above, let's put those
-ideas to work. With your critical eye search the site for social and
-psychological ideas that you observe. It is hard to think this way at
-first. Once you sensitize your *vision* to this filtered approach,
-you'll learn all kinds of things. Let's analyze the example provided for
-you.
-
-The series of images comes from a day spent at Shaker Village of
-Pleasant Hill Kentucky on Veteran's Day 2009. The image is presented in
-the middle of the process. The first three images are rendered in
-watercolor over the fountain pen and blue-black permanent ink. The
-remaining nine images show the line rendered stage. Instead of
-describing the history of the Shaker community, let's focus on the
-thumbnail sketches. It is late autumn and a sugar maple by the lake
-blazes red leaves. The next two scenes establish the importance of the
-rural fencing types, wood post and rail and stacked stone. Simple gable
-roofs cap the cubic vernacular forms with punched openings. Materials
-are wood and stone. Scenes are cropped to show overall formal
-arrangements and also closer texture and details. The scenes all point
-to the important values of the now gone Utopian community: simplicity,
-craftsmanship, serenity and humility. If you see even more things not
-here described, then the storyboards are working!
-
-This assignment is based on readings from Drawing Shortcuts by Jim
-Leggitt. (Leggitt 2010, 12--47) The finished image shall be 12\" x 9\"
-(i.e. 864px and 648px.) The image shall be composed of 12 "thumbnail"
-storyboard vignettes drawn from direct observation. Each thumbnail shall
-be 2.25\" square (i.e. 413px.)
-
-The sequence of images shall be arranged in storytelling order (e.g.,
-chronological, thematic, etc.) The matrix shall be in landscape format
-with three rows of four squares and separated by 0.5\" (i.e. 36px.) Line
-work including tone and value shall be felt-tip marker. Color shall be
-illustrator's choice (e.g. wet or dry media.)
-
-### Materials
-
--   Sketchbook
-
--   Pen
-
--   Wet or dry color media
-
-### Steps
-
-1.  Prepare a blank piece of sturdy watercolor paper for your field
-    trip. Draft the thumbnail matrix as described in pencil. A
-    professional matrix layout is consistently spaced and precisely
-    delineated. For your convenience, a vector drawing (i.e., svg file)
-    has been included in the "Tips" section that you can trace.
-
-2.  While on site block in the thumbnail scene that you have framed, and
-    do not forget to take a photograph of the same scene for later
-    reference. Proceed in your site visit in chronological order.
-    Balance your selected views to tell a comprehensive story of the
-    entire site and limited to 12 squares. Using your blocked-in
-    thumbnail pencil sketches and photographic references prepare your
-    drawing in the studio for line rendering in felt tip pen (i.e., 1.0
-    mm or less nib size.)
-
-3.  Thinking ahead to your color rendering material of choice (e.g.,
-    water or solvent based,) select a felt tip marker of the opposite
-    choice to your color render material. For example, if you do not
-    want your permanent ink felt tip pen to run, then watercolor is a
-    better choice. The reverse is true if using a water based felt tip
-    pen...use a solvent based marker.
-
-4.  Using we media such as watercolor or chisel point marker, render
-    color. You may also render using a digital program.
-
-5.  Photograph your final image under outside lighting conditions. In
-    order to reduce glare, then find a spot in shade where no obscuring
-    shadows fall on your image.
-
-6.  In a raster editing program such as GIMP, open your photograph as a
-    layer. Correct for color aberrations using the "pick gray scale for
-    all channels" method in the Levels tool. Make other adjustments
-    (e.g., Exposure, Sharpening with High Pass Filter, and Saturation,
-    etc.). Save your working file.
-
-7.  Make a copy and flatten the images. Scale image to meet the above
-    specification. Export file as portable network graphics (i.e., png)
-    file.
-
-### Tips
-
--   My personal preference for color markers is the solvent-based brand
-    called Chartpak AD. There are several comparable manufacturers
-    (e.g. Prismacolor, Faber Castell, etc.) Some are water-based, and
-    some are solvent-based. The markers I use are the Chartpak Ad Marker
-    Sets - Architectural, Set of 25
-
--   Watercolors may be used for this assignment. Color and felt-tip line
-    work can often be incompatible together, and the way I remember
-    compatibility is to select opposites for the best results
-    (e.g. solvent-based felt-tip line work + water-based color marker,
-    or water-based felt-tip line work + solvent-based color marker.
-
-\<Insert Figure 0131matrixResource.svg\>
-
-Figure 1.3.1: Resource Guide for Tracing Storyboard Matrix
-
-### Criteria
-
-  **DLO**             **Advanced (4 pts)**                                                                                                                                                                   **Proficient (3 pts)**                                                                                                                                          **Developing (2 pts)**                                                                                                                    **Beginner (1 pt)**
-  ------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------
-  Site conditions     Designer demonstrates comprehensive understanding of the site conditions that impact design decisions                                                                                  Designer demonstrates some competency in identifying the site conditions that impact design decisions                                                           Designer identifies only a few of the site conditions that impact design decisions                                                        Designer does not demonstrate understanding of the site conditions that impact design decisions
-  User requirements   Designer demonstrates comprehensive understanding of the user requirements that impact design decisions                                                                                Designer demonstrates some competency in identifying the user requirements that impact design decisions                                                         Designer identifies only a few of the user requirements that impact design decisions                                                      Designer does not demonstrate understanding of the user requirements that impact design decisions
-  Communication       Student demonstrates a professional communication aptitude                                                                                                                             Student demonstrates a competent level of communication skills                                                                                                  Student demonstrates a limited competency in communicating ideas                                                                          Student does not demonstrate competency in communicating ideas
-  Craft               Illustrator demonstrates exemplary attention to work product and excellence.                                                                                                           Illustrator demonstrates good attention and care towards work product.                                                                                          Illustrator completes work, but the product seems rushed to completion.                                                                   Illustrator demonstrates attention towards work product, but work quality is inconsistent.
-  Line                Illustrator uses line to hold the viewer\'s attention. Lines are controlled and evoke both power and subtlety. Line is descriptive and/or symbolic and supports compositional goals.   Illustrator\'s line work demonstrates several professional attributes. Linework does not distract the viewer and generally supports compositional objectives.   Illustrator\'s use of line is somewhat effective. Lines are consistent and well-crafted. Linework has some non-contributing attributes.   Illustrator attempts to use line descriptively. Lines are inconsistent and lack attention to craft.
-  Professionalism     Illustrator completes the work on time. Work demonstrates exemplary attention to learning objectives.                                                                                  Illustrator completes the work on time and demonstrates a good work ethic.                                                                                      Illustrator generally completes the work at a minimum level of expectation.                                                               Illustrator is missing parts of the work and makes a plan for completion of the remaining assignment.
-
-### Related Assignments
-
--   Sketch K. Formal Precedent Study. Thumbnail Sketch to Contour
-    Drawing
-
--   Exercise Fifteen. Electronic Site Contour Model and Three Proposed
-    Places
+<!-- save for later lecture
 
 ## Sketch K. Formal Precedent Study. Thumbnail Sketch to Contour Drawing.
 
@@ -1372,3 +1009,12 @@ from Las Vegas: Revised Edition*. The MIT Press.
 Yee, Rendow. 2007. *Architectural Drawing. A Visual Compendium of Types
 and Methods*. 3^rd^ ed. John Wiley & Sons, Inc. Hoboken, NJ.
 
+save for later lecture -->
+
+## Student Examples of Sketch J
+
+![Above Average](images/Assignment_01_Above_Average.png)
+
+![Average](images/Assignment_01_Average.jpg)
+
+![Below Average](images/Assignment_01_Below_Average.png)

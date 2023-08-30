@@ -1,6 +1,6 @@
 ![Today's Agenda](images/230830-1_02-2.png)
 
-![Reference Image for Sketch K](images/_DSF0792.png)
+![Reference Image for Sketch K](images/DSF0792.png)
 
 ## Sketch K. Formal Precedent Study. Thumbnail Sketch to Contour Drawing.
 

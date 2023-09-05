@@ -1,4 +1,4 @@
-![Today's Agenda](images/230830-1_02-2.png)
+![Today's Agenda](images/230905_03-1.png)
 
 ![Reference Image for Sketch K](images/DSF0792.png)
 
@@ -137,11 +137,26 @@ course, I am now able..."
 
 -   Exercise Fourteen. Physical Paper Model of Formal Precedent
 
+## Demonstration of Blue:Red:Black
+
+<iframe height="240" width="320" allowfullscreen frameborder=0 src="https://echo360.org/media/0fad3596-ba49-44a1-b542-06f546666e5c/public?autoplay=false&automute=false"></iframe>
+
+![An Alternate Teaching Example](images/SullivanBank.png)
+
+## Student Examples 2022
+
+![Above Average Example](images/Assignment_02_Above_Average.jpg)
+
+![Average Example](images/Assignment_02_Average.png)
+
+![Below Average Example](images/Assignment_02_Below_Average.png)
+
+<!-- save for later lecture
+
 ## Exercise Fourteen. Physical Paper Model of Formal Precedent
 
 \<Insert Figure 1.3.3_exerciseFourteen\>
 
-<!-- save for later lecture
 
 Figure 1.3.3: Exercise Fourteen. Physical Paper Model of Formal
 Precedent

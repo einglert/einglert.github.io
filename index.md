@@ -1,36 +1,10 @@
-![Today's Agenda](images/230911-2_04-1.png)
-
-## Exercise Fourteen. Physical Paper Model of Formal Precedent
-
-![In Progress Paper Model of Sullivan Bank](images/SullivanBankModel.jpg)
-
-Figure 1.3.3: Exercise Fourteen. Physical Paper Model of Formal
-Precedent
-
-### Introduction
-
-![Animation of Octahedron Unfolding](images/animOcta.m4v)
-
-![Animation of Tetrahedron Unfolding](images/animTetra.m4v)
-
-[30 Minute Study Model - Here's How](https://youtu.be/t7GpYvyQoEs?si=1_v5JsEKs0wKPp6D)
-
-### Student Examples
-
-![Assignment_03_Above_Average](images/Assignment_03_Above_Average.png) 
-
-![Assignment_03_Average](images/Assignment_03_Average.png)
-
-![Assignment_03_Below_Average](images/Assignment_03_Below_Average.jpg) 
-
-<!-- save for later lecture
+![Today's Agenda](images/230913-4_04-2.png)
 
 ## Exercise Fifteen. Electronic Site Contour Model and Three Proposed Places
 
-\<Insert Figure 1.3.4_exerciseFifteen\>
+![Exercise Fifteen. Electronic Site Contour Model and Three Proposed Places](images/3.2.2_HueStudy.jpg)
 
-Figure 1.3.4: Exercise Fifteen. Electronic Site Contour Model and Three
-Proposed Places
+Figure 1.3.4: Exercise Fifteen. Electronic Site Contour Model and Three Proposed Places
 
 ### Introduction
 
@@ -43,6 +17,8 @@ sketch your site location ideas. Import several trees, and other
 entourage. You will find it useful to also model a 10 ft. cube (3m) as a
 proxy object on the site situated where you believe a good location for
 the workspace should be.
+
+[03-1_sketchforms](https://www.youtube.com/playlist?list=PLCEd_GxDZzgfZrE7YNaaXGEXXnPPQUpmy)
 
 Experiment with at least three locations. Please refrain from modeling
 your project. Rather, sketch a perspective view of a proposed workspace
@@ -86,7 +62,7 @@ therefore, the formal studio envisions a one-time
 future to accommodate changing workflow, and the professional staff
 shall remain few.*
 
-\<Insert Figure 1.3.5_sitePlanSketch\>
+![Site Plan Sketch](images/3.2.2_site.jpeg)
 
 Figure 1.3.5: Site Plan Sketch
 
@@ -181,6 +157,8 @@ course, I am now able..."
 -   Exercise Fourteen. Physical Paper Model of Formal Precedent
 
 -   Exercise Sixteen. An Aerial Flyover Animation of Your Selected Place
+
+<!-- save for later lecture
 
 ## Exercise Sixteen. An Aerial Flyover Animation of Your Selected Place
 

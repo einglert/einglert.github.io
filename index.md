@@ -1,4 +1,4 @@
-![Today's Agenda](images/230913-4_04-2.png)
+![Today's Agenda](images/230918-9_05-1.png)
 
 ## Exercise Fifteen. Electronic Site Contour Model and Three Proposed Places
 
@@ -150,13 +150,13 @@ course, I am now able..."
   Professionalism   Student completes the work on time. Work demonstrates exemplary attention to learning objectives.                                                                                                                    Student completes the work on time and demonstrates a good work ethic.                                                                                                                 Student generally completes the work at a minimum level of expectation.                                                                               Student is missing parts of the work and makes a plan for completion of the remaining assignment.                                                
   ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------ --
 
-### Related Assignments
+### Student Examples from 2022
 
--   Sketch J. Watercolor Storyboard of Twelve Site Context Vignettes
+![Assignment_04_Above_Average](images/Assignment_04_Above_Average.png)
 
--   Exercise Fourteen. Physical Paper Model of Formal Precedent
+![Assignment_04_Average.png](images/Assignment_04_Average.png)
 
--   Exercise Sixteen. An Aerial Flyover Animation of Your Selected Place
+![Assignment_04_Below_Average.png](images/Assignment_04_Below_Average.png)
 
 <!-- save for later lecture
 

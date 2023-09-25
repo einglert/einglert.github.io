@@ -1,4 +1,4 @@
-![Today's Agenda](images/230920-1_05-2.png)
+![Today's Agenda](images/230925-6_06-1.png)
 
 ## Exercise Sixteen. An Aerial Flyover Animation of Your Selected Place
 
@@ -144,3 +144,13 @@ course, I am now able..."
     Places
 
 -   Exercise Seventeen. Multi-view Construction Drawing
+
+## Student Examples
+
+![Assignment_05_Above_Average](images/Assignment_05_Above_Average.gif)
+
+![Assignment_05_Average](images/Assignment_05_Average.GIF)
+
+![Assignment_05_Below_Average](images/Assignment_05_Below_Average.gif)
+
+

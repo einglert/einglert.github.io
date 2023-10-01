@@ -1,34 +1,4 @@
-![Today's Agenda](images/230927-8_06-2.png)
-
-## CONDOC and Modular Drawing Layout
-
-> Construction documents are how architects convey their ideas and designs on paper to the contractor or builder... . The information conveyed must be sufficient and organized...to understand the design intent... . The goal of a good set of documents is to minimize the number of errors and convey the design clearly. [@krygielDemchakDzambazova2007, 271]
-
-With the sharp rise in architecture firms adopting computer automated drawing (CAD) in the 1990's new emphasis was placed on the standardization of drawing methods. Layer names and structures mirrored drawing naming conventions. Contract documents, materials specifications and drawings were all made more uniform. Drawing interchange formats (i.e., DXF) and document packaging (e.g., ZIP, PDF, etc.) allowed professionals, constructors and clients to move beyond fax machines and same-day delivery services of physical reproductions (e.g., bluelines, photocopies, etc.) of original tracings (e.g., mylar, vellum, etc.) and into the world of email attachments, project servers and shared network drives. Organizations such as the American Institute of Architects (AIA) and the Construction Specifications Institute (CSI) moved closer to commercial organizations such as CAD software developers, computer hardware providers and building products manufacturers to coordinate the professional architect and engineer's *instruments of service*. It would be difficult to overstate how much change we experienced in the building professions during this period. ConDoc was reported to have started out as an AIA *white paper* and was the kernel of The National CAD Standard.
-
-> The United States National CAD Standard® (NCS) V6 consists of The American Institute of Architect's CAD Layer Guidelines, Construction Specifications Institute's Uniform Drawing System (Modules 1-8), and National Institute of Building Sciences' BIM Implementation & Plotting Guidelines. [@nationalinstituteofbuildingsciences2022]
-
-For our purposes, the most interesting part of this concatenation of several standards into one document is the section on modular drawing layout. This can be found in the Uniform Drawing System Module 2. While this modular drawing layout is an important standard for the industry because of the wide adoption by professional firms, we will consider it as one of several exemplars to reference when making our construction drawings. You have some freedom at this point to compose your drawings as long as you remember a simple idea: professional looking construction documents are compositions of several multi-view mostly orthogonal drawings aligned to each other in meaningful ways, inclusive of consistent line weight differences and consistent text heights and cross referencing. Each firm you work in will share with you one of either an office standard or a project manager's standard. While a firm may adopt the NCS V6 in whole or part, you are likely to find variations in each professional practice.
-
-### Graphic Notes and Architectural Diagramming
-
-> In the graphic diagram...identities are shown as circles, relationships are shown as lines, and modifiers are shown by changes in the circles or lines (heavier lines indicating more important relationships; tones indicating differences in identities).[@laseaupaul1989, 56]
-
-Orthographic drawings document design ideas. This documentation helps us to communicate design intentions to constructors. They can additionally be repurposed as pre design and design development drawings for communicating with clients and public stakeholders. In this sense we can use multi-view orthographic drawings as a *diagram* to illustrate design concepts. Some examples of architectural diagrams include:
-
-* Program analysis cards
-* Site analysis diagrams
-* Space planning diagrams
-* Precedent study diagrams
-* Structural diagrams
-* Sun angle studies
-* Ventilation studies
-* Elevation material studies 
-* Exploded axonometric and perspective constructions
-
-> Analysis cards are a technique for graphically recording information intended to be displayed, discussed, discriminated, decided on, and, sometimes, discarded during the programming phase of a project. [@peñawstevenparshall2012, 236]
-
-Each of the examples above can repurpose the design documentation drawings. In order for these drawings to focus on a specific analysis parameter we often employ graphic symbols, flow lines, colors and textures to illustrate our ideas. You will enhance your studio architectural projects and engineering studies by repurposing and repeating drawings in your presentation. It is often said in music that repetition legitimizes. Repetition is an organizing principle of aesthetics in general. When your viewers see your floor plan used to document your design and also to diagram the circulation flow on another part of your board, and to diagram your structural grid, HVAC layout and again a sustainable design strategy for natural ventilation and lighting that repetition of the drawing reinforces the design ideas you are proposing. It helps the viewer make sense of your design.
+![Today's Agenda](images/231002-3_07-1.png)
 
 ## Exercise Seventeen. Multi-view Construction Drawing
 
@@ -93,6 +63,14 @@ Up to this point in the project, you have been designing in three-dimensional vi
 * Exercise Fifteen. Electronic Site Contour Model and Three Proposed Places
 * Sketch L. Exploded Perspective of Found Mechanical Object
 * Sketch M. Exploded Axonometric of Project Design
+
+## Student Examples
+
+![Assignment_06_Above_Average](images/Assignment_06_Above_Average.png)
+
+![Assignment_06_Average](images/Assignment_06_Average.jpeg)
+
+![Assignment_06_Below_Average](images/Assignment_06_Below_Average.png)
 
 <!-- save for later
 

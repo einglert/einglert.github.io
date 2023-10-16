@@ -1,10 +1,12 @@
-![Today's Agenda](images/231011_08-2.png)
+![Today's Agenda](images/231016-7_09-1.png)
 
 ## Sketch M. Exploded Axonometric of Project Design
 
-![Example of 3D-modeled forms exploded](images/explodedPlanning.png)
+![Work in Progress](images/axonRenderLines.png)
 
 Figure Sketch M. Exploded Axonometric of Project Design
+
+<iframe height="240" width="320" allowfullscreen frameborder=0 src="https://echo360.org/media/da5e6199-22eb-4d0a-a6f4-84884071f415/public?autoplay=false&automute=false"></iframe>
 
 ### Introduction
 
@@ -57,14 +59,13 @@ Para line is a phrase often associated with specialized three-dimensional diagra
 
 ## References
 
-<!-- save for later
-
 ## Student Examples
 
-![Assignment_05_Above_Average](images/Assignment_05_Above_Average.gif)
+![Assignment_08_Above_Average](images/Assignment_08_Above_Average.pdf)
 
-![Assignment_05_Average](images/Assignment_05_Average.GIF)
+![Assignment_08_Average](images/Assignment_08_Average.png)
 
-![Assignment_05_Below_Average](images/Assignment_05_Below_Average.gif)
+![Assignment_08_Below_Average](images/Assignment_08_Below_Average.png)
 
+<!-- save for later
 save for later -->

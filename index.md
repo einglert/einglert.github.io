@@ -108,8 +108,11 @@ Figure 3.2 Structural Grid for Compositional Layout
 
 ## Student Examples
 
-![](images/)
+![Assignment_09_Above_Average](images/Assignment_09_Above_Average.jpg)
 
+![Assignment_09_Average](images/Assignment_09_Average.png)
+
+![Assignment_09_Below_Average](images/Assignment_09_Below_Average.png)
 
 <!-- save for later
 

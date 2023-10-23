@@ -1,27 +1,4 @@
-![Today's Agenda](images/231018-9_09-2.png)
-
-## Historical Role of Architectural Competitions on the Profession
-
-The Architectural Presentation Board has roots in the Ecole des Beaux-Arts in Paris. The *Ecole* as it will be referenced here was a rational system of eductation for architects, and the school's roots go back to the mid 17th century France. In common understanding it is most closely associated with Neoclassicism and historical architectural style. Contemporary architecture is largely disassociated with classically-inspired formalism, ornamentation, and planning principles. The influence of 20th century Bauhaus teachings and **Modernism** are more influential in today's schools and ultimately in professional practice. Nonetheless, the influence of the Beaux-Arts teachings, and in particular, the role of the Paris Prize and architectural competitions in general persist and dominate the way architects present work.
-
-> The design competition, a concept fundamental in architectural training and practice then and now, was spawned at the Paris academy and practiced there, essentially intact, until the French Revolution. In 1819 the academy was reorganized and renamed the Ecole nationale superieure des Beaux-arts...[, and] drew students not just from France and Europe, but also from the United States. [@blatteau2008, xi-xii]
-
-Since the design ideas supporting an architectural project are complex, a singular drawing is not enough to tell the story of the design. We can imagine that the several drawings developed over the process of coalescing ideas together into a synthesized and wholistic concept when presented altogether in one view offer a rich tableau for viewers. The relationships between the drawings come into focus, due to our ability to *take-in* the depth and breadth of image all at once. The viewer may lean in close to inspect details of the main entrance on the floor plan, for example, and then step back again to recognize that the street-level perspective of the entry sequence supports the many decisions that comprise the shape and size of that entry. Stepping back again, the graphically unified second and third boards of the overall composition blend together so seamlessly that the site plan and sections seem to weave in and out of the background and give a satisfying context and grounding to the project. At least, this is the goal of the competition board!
-
-To what degree will your composite board support your ideas about your design. If you concentrate too much on the graphic *prettiness* will that distract from your ideas and seem superfluous? Conversely, if you are too structurally regimented in the grid-like layout that your drawings seem to be *islands* amongst themselves, refusing to talk with one another. This too can diminish your good architectural ideas that you have worked so hard to realize. If you instead give careful attention to the messaging created by your graphic decisions, insure that you have defined an appropriate hierachy of elements, and balanced the multivariate images into a wholistic reading, then you will enjoy your viewers attention and appreciation for your work.
-
-## Introduction to Compositional Layout and Graphic Design
-
-> The competition layout is characterized by considerable variation in the scale of drawings and the squeezing together, overlapping and layering of graphic information within the format. Such layouts are carefully orchestrated, being reminiscent of how an artist might plan an abstract composition. Indeed, the assembly of a series of multi-view fragments into the frozen dynamic of a large and complex layout has obvious roots in Cubism and Constructivism. [@uddin1997, 3]
-
-Graphic design as a discipline is more sophisticated and complex than can be comprehensively appreciated by most architecture and engineering students and professionals. There are several heuristics and *rules* that are commonplace and useful to know. Do you know what is meant by the *rule of thirds*? Have you heard of the *Golden Rectangle*? What is meant by balance? Why should we avoid placing subjects *exactly* in the middle of the page? The answer to these very good questions are easily answered by most trained professionals, because at some point we have been critiqued on our drawings and board presentations. We have been given the very basic competencies about graphic design.
-
-Jim Krause [@krause2004, 6-7] wrote a graphic designers guide to effective *compositions*, dynamic *components*, and creative *concepts* that he called his "Three Cs." A review of the table of contents reveals several of the concepts we will explore in Exercise Eighteen below and excerpted in part here:
-* Composition (e.g., Harmony, Emphasis, Flow, etc.)
-* Components (e.g., Images, Color, Typography, etc.)
-* Concepts (i.e., Theme)
-
-The context of our presentation boards makes these abstract ideas more concrete. Imagine that you have over twenty separate images (components) of drawings that you have made over the course of the semester. All are related to your project design. Some may be out of date with your current iteration, yet that does not make them obsolete. Your professors are definitely interested in your process! You will likely be given some kind of size constraint to assemble your drawings within...a border, inside which lives your presentation ideas. A common size for an illustration board is 30"x 40" (i.e., 760x1000 mm.) You will need to describe each drawing with a caption and possibly a text description block (components) that involves some consistency with the typography. Color and tone values(components) give your design ideas and theme (concepts) a kind of glue and background atmosphere. Speaking of glue, tools such as harmony and hierarchy (composition) are important to give your drawings a kind of flow (composition) that can liberate your ideas from beyond the bounds of your composition board! 
+![Today's Agenda](images/231023-4_10-1.png)
 
 ## Exercise Eighteen. Designing the Composite Drawing
 
@@ -128,6 +105,11 @@ Figure 3.2 Structural Grid for Compositional Layout
 * Sketch J. Watercolor Storyboard of Twelve Site Context Vignettes
 * Exercise Nineteen. Discovering a Rendering Style with Entourage
 * Exercise Twenty. Rendered Exterior Perspective
+
+## Student Examples
+
+![](images/)
+
 
 <!-- save for later
 

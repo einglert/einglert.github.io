@@ -1,4 +1,6 @@
-![Today's Agenda](images/231025-6_10-2.png)
+![Today's Agenda](images/231030-1_11-1.png)
+
+<iframe height="240" width="320" allowfullscreen frameborder=0 src="https://echo360.org/media/ceb4033b-c6ff-490b-af7a-618fe2637b7d/public?autoplay=false&automute=false"></iframe>
 
 ## Architectural Visualization and Rendered Perspective Drawings
 
@@ -88,6 +90,12 @@ In order to get started it can be helpful to search for reference images that yo
 ### Related Assignments
 * Sketch J. Watercolor Storyboard of Twelve Site Context Vignettes
 * Exercise Twenty. Rendered Exterior Perspective
+
+![Assignment_10_Above_Average](images/Assignment_10_Above_Average.png)
+
+![Assignment_10_Average](images/Assignment_10_Average.png)
+
+![Assignment_10_Below_Average](images/Assignment_10_Below_Average.png)
 
 <!-- save for later
 

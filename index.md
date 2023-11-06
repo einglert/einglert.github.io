@@ -1,4 +1,4 @@
-![Today's Agenda](images/231101-2_11-2.png)
+![Today's Agenda](images/231106-7_12-1.png)
 
 ## Sketch N. Interior Perspective Vignette
 
@@ -63,6 +63,12 @@ Simulation of the user experience through drawings, models, and animations are t
 
 * Exercise Fifteen. Electronic Site Contour Model and Three Proposed Places
 * Exercise Sixteen. An Aerial Flyover Animation of Your Selected Place
+
+![Assignment_11_Above_Average](images/Assignment_11_Above_Average.jpg)
+
+![Assignment_11_Average](images/Assignment_11_Average.png)
+
+![Assignment_11_Below_Average](images/Assignment_11_Below_Average.png)
 
 <!-- save for later
 

@@ -1,4 +1,4 @@
-![Today's Agenda](images/231108-9_12-2.png)
+![Today's Agenda](images/231113-4_13-1.png)
 
 ## Exercise Twenty. Rendered Exterior Perspective
 
@@ -68,13 +68,11 @@ Making an architectural illustration does however require some technical precisi
 
 	## Physical Modeling. Analog and Digital Methods
 
+![Assignment_12_Above_Average.png](images/Assignment_12_Above_Average.png)
 
-![Assignment_11_Above_Average](images/Assignment_11_Above_Average.jpg)
+![Assignment_12_Average.png](images/Assignment_12_Average.png)
 
-![Assignment_11_Average](images/Assignment_11_Average.png)
-
-![Assignment_11_Below_Average](images/Assignment_11_Below_Average.png)
-
+![Assignment_12_Below_Average.jpg](images/Assignment_12_Below_Average.jpg)
 
 <!-- save for later
 

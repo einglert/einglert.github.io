@@ -1,8 +1,12 @@
 body {
 font-family: Optima; 
-background-color: #c5ffb3;
+background-color: #b56654;
 }
 .title, .author, .date {
 font-family: Helvetica;
 font-weight: bold;
+}
+body {
+  background-image: url("images/turkey.png");
+  background-repeat;
 }

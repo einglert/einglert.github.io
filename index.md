@@ -1,4 +1,4 @@
-![Today's Agenda](images/231120-1_14-1.png)
+![Today's Agenda](images/231127-8_15-1.png)
 
 ## Pulling it All Together without Pulling an "All-nighter"
 

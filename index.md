@@ -1,12 +1,12 @@
-![Today's Agenda](images/240318-9_101.png)
+![Today's Agenda](images/240320-1_102.png)
 
-<!-- save for later
+![Exercise Eight: Rendered Section. Hybrid Drawing](images/050301renderSectionHybrid.png)
 
-![](images/Assignment_13_Above_Average.png)
+![](images/Assignment_14_Above_Average.png)
 
-![](images/Assignment_13_Average.png)
+![](images/Assignment_14_Average.png)
 
-![](images/Assignment_13_Above_Average.png)
+![](images/Assignment_14_Below_Average.png)
 
 -->
 

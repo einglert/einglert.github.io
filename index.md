@@ -1,12 +1,12 @@
-![Today's Agenda](images/240320-1_102.png)
+![Today's Agenda](images/240325-6_111.png)
 
-![Exercise Eight: Rendered Section. Hybrid Drawing](images/050301renderSectionHybrid.png)
+![Exercise 9: Monochrome Rendering of Architectural Detail](images/060101renderArchDetail.png)
 
-![](images/Assignment_14_Above_Average.png)
+![](images/Assignment_15_Above_Average.png)
 
-![](images/Assignment_14_Average.png)
+![](images/Assignment_15_Average.png)
 
-![](images/Assignment_14_Below_Average.png)
+![](images/Assignment_15_Below_Average.png)
 
 -->
 

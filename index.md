@@ -1,12 +1,12 @@
-![Today's Agenda](images/240325-6_111.png)
+![Today's Agenda](images/240327-8_112.png)
 
-![Exercise 9: Monochrome Rendering of Architectural Detail](images/060101renderArchDetail.png)
+![Sketch G: Field Sketches of Five Architectural Details](images/060103fieldSketchDetls.jpg)
 
-![](images/Assignment_15_Above_Average.png)
+![](images/Assignment_16_Above_Average.png)
 
-![](images/Assignment_15_Average.png)
+![](images/Assignment_16_Average.png)
 
-![](images/Assignment_15_Below_Average.png)
+![](images/Assignment_16_Below_Average.png)
 
 -->
 

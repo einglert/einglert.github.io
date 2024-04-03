@@ -1,6 +1,6 @@
 ![Today's Agenda](images/240403-4_122.png)
 
-![]()
+![FIGURE 6.5 Field Sketches of Ten Architectural Perspectives](images/060107fieldSketchPersps.png)
 
 ![](images/Assignment_18_Above_Average.png)
 

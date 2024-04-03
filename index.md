@@ -1,12 +1,12 @@
-![Today's Agenda](images/240327-8_112.png)
+![Today's Agenda](images/240403-4_122.png)
 
-![Sketch G: Field Sketches of Five Architectural Details](images/060103fieldSketchDetls.jpg)
+![]()
 
-![](images/Assignment_16_Above_Average.png)
+![](images/Assignment_19_Above_Average.png)
 
-![](images/Assignment_16_Average.png)
+![](images/Assignment_19_Average.png)
 
-![](images/Assignment_16_Below_Average.png)
+![](images/Assignment_19_Below_Average.png)
 
 -->
 

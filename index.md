@@ -2,11 +2,11 @@
 
 ![]()
 
-![](images/Assignment_19_Above_Average.png)
+![](images/Assignment_18_Above_Average.png)
 
-![](images/Assignment_19_Average.png)
+![](images/Assignment_18_Average.png)
 
-![](images/Assignment_19_Below_Average.png)
+![](images/Assignment_18_Below_Average.png)
 
 -->
 

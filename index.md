@@ -1,12 +1,12 @@
-![Today's Agenda](images/240403-4_122.png)
+![Today's Agenda](images/240409-10_131.png)
 
-![FIGURE 6.5 Field Sketches of Ten Architectural Perspectives](images/060107fieldSketchPersps.png)
+![Exercise 11: Rendered Interior Perspective. Hybrid Drawing](images/060109renderInteriorPersp.png)
 
-![](images/Assignment_18_Above_Average.png)
+![](images/Assignment_19_Above_Average.png)
 
-![](images/Assignment_18_Average.png)
+![](images/Assignment_19_Average.png)
 
-![](images/Assignment_18_Below_Average.png)
+![](images/Assignment_19_Below_Average.png)
 
 -->
 

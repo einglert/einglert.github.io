@@ -12,6 +12,8 @@ date: 24 Jul 2024
 
 ### Introduction 
 
+<strike>
+
 This capstone studio provides a complete experience of integrated, net-zero energy design of a building and its systems. The first semester focuses on schematic design and design development, situating the importance of collaboration between varying engineering expertise (structural, mechanical, electrical, construction) throughout an architectural design endeavor. Consequently, the studio begins with wide-ranging questions of the relationships between the disciplines, satisfying the architectural program and responding to the site, then explores major design options and systems integration in response to these. Engineering and construction aspects are imbedded throughout the process from overall site and building design to the ultimate selection of beams, ducts and designing connections and scheduling construction.  Additionally, the capstone will weave ethical and professional issues into the overall studio experience to better prepare students for entry into the practice environment.
 
 ### Content 
@@ -254,3 +256,5 @@ Note: Grades for the first semester reflect the current progress of the two-seme
 ### Exceptions 
 
 The grade "I" (incomplete) can be assigned only to a student who has a legitimate medical emergency or other incapacitating event. Students wishing to withdraw from the course after the fifth week of studio must show evidence of passing work to receive a "W" (withdraw passing).
+
+</strike>

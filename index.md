@@ -1,6 +1,6 @@
 ![Today's Agenda](images/240826-7_01-1.png)
 
-<-- Begin commented section
+<!-- Begin commented section
 
 ![Exercise 11: Rendered Interior Perspective. Hybrid Drawing](images/060109renderInteriorPersp.png)
 

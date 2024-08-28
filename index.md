@@ -2,7 +2,7 @@
 
 ![Sketch J. Watercolor Storyboard of Twelve Site Context Vignettes](images/010301storyboard.png)
 
-![](images/Assignment_01_Above_Average.png
+![](images/Assignment_01_Above_Average.png)
 
 ![](images/Assignment_01_Average.png)
 

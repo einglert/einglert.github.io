@@ -1,6 +1,4 @@
-![Today's Agenda](images/240904-5_02-2.png)
-
-[Review Yesterday's Class 02-1](index0.html)
+![Today's Agenda](images/240909-10_03-1.png)
 
 ![Sketch K. Watercolor Storyboard of Twelve Site Context Vignettes](images/sketchK_demo2.png)
 

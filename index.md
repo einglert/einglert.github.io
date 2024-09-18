@@ -1,8 +1,12 @@
-![Today's Agenda](images/240916-7_04-1.png)
+![Today's Agenda](images/240918-9_04-2.png)
 
-[30 Minute Study Model - Here's How](https://youtu.be/t7GpYvyQoEs?si=_CBLpnZNDJU8Y1zv)
+![Exercise 15. Electronic Site Contour Model and Three Proposed Places](images/Exercise15.png)
 
-![Exercise Fourteen. Physical Paper Model of Formal Precedent](images/fig1-10_exercise14_paperModel.png)
+![Site Plan](images/3.2.2_site.jpeg)
+
+[How to Create Site Contour Model](https://www.youtube.com/watch?v=v2b7jObmDmw&list=PLCEd_GxDZzgfZrE7YNaaXGEXXnPPQUpmy&pp=gAQBiAQB)
+
+<!-- begin commented section
 
 ![](images/Assignment_03_Above_Average.png)
 
@@ -10,3 +14,4 @@
 
 ![](images/Assignment_03_Below_Average.jpg)
 
+end commented section -->

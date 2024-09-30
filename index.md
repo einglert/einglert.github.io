@@ -1,13 +1,11 @@
-![Today's Agenda](images/240925-6_05-2.png)
+![Today's Agenda](images/240930-1001_06-1.png)
 
 ![Exercise 16. An Aerial Flyover Animation of your Selected Place](images/0151.gif)
 
-<!-- begin comment
+![](images/Assignment_05_Above_Average.gif)
 
-![](images/Assignment_04_Above_Average.png)
+![](images/Assignment_05_Average.GIF)
 
-![](images/Assignment_04_Average.png)
+![](images/Assignment_05_Below_Average.gif)
 
-![](images/Assignment_04_Below_Average.png)
 
-end comment -->

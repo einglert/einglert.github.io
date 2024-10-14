@@ -1,10 +1,12 @@
-![Today's Agenda](images/2401007-8_07-1.png)
+![Today's Agenda](images/2401014-5_08-1.png)
 
-![Exercise 17. Multi-view Construction Drawing](images/fig17.png)
+![Exercise 18. Sketch M. Exploded Axonometric of Project Design](images/axonRenderLines.png)
 
-![](images/Assignment_06_Above_Average.png)
+![Exercise 17. Sketch L. Exploded Perspective of Found Mechanical Object](images/sketchL.jpeg)
 
-![](images/Assignment_06_Average.jpeg)
+![](images/Assignment_07_Above_Average.png)
 
-![](images/Assignment_06_Below_Average.png)
+![](images/Assignment_07_Average.png)
+
+![](images/Assignment_07_Below_Average.jpg)
 

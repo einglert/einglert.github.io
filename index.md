@@ -1,11 +1,17 @@
-![Today's Agenda](images/2401021-2_09-1.png)
+![Today's Agenda](images/2401023-4_09-2.png)
 
-![Exercise 18. Sketch M. Exploded Axonometric of Project Design](images/axonRenderLines.png)
+![Exercise 18. Designing the Composite Drawing](images/fig3-1_draft_exercise18_compositeDesign.png)
 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/e262b23d-b841-46c9-ada0-2e4f76913263/public?autoplay=false&automute=false"></iframe>
+![Figure 3.2 Structural Grid for Compositional Layout](images/fig3-2_structGrid.png)
+
+![Figure 3.3 Paris Prize 1991 Architectural Competition Boards](images/fig3-3_parisPrize.png)
+
+<!-- comment
 
 ![](images/Assignment_08_Above_Average.png)
 
 ![](images/Assignment_08_Average.png)
 
 ![](images/Assignment_08_Below_Average.png)
+
+-->

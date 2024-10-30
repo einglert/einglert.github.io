@@ -1,11 +1,12 @@
-![Today's Agenda](images/2401028-9_10-1.png)
+![Today's Agenda](images/2401030-1_10-2.png)
 
-![Exercise 18. Designing the Composite Drawing](images/fig3-1_draft_exercise18_compositeDesign.png)
+![Rendering Example](images/fig3-4_exercise19_discoverRenderStyle.png)
 
-![Figure 3.2 Structural Grid for Compositional Layout](images/fig3-2_structGrid.png)
+![Alternate Rendering Example](images/08-2.png)
 
-![Figure 3.3 Paris Prize 1991 Architectural Competition Boards](images/fig3-3_parisPrize.png)
+<iframe height="240" width="320" allowfullscreen frameborder=0 src="https://echo360.org/media/0736de0a-6f2c-4165-acba-a4e003e015c1/public?autoplay=false&automute=false"></iframe>
 
+<!-- begin comment
 
 ![](images/Assignment_09_Above_Average.png)
 
@@ -13,3 +14,4 @@
 
 ![](images/Assignment_09_Below_Average.png)
 
+end comment -->

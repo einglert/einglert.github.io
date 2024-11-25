@@ -1,13 +1,16 @@
-![Today's Agenda](images/241120-1_13-2.png)
+![Today's Agenda](images/241125-6_14-1.png)
 
 ![Final Presentation Board](images/fig3-3_parisPrize.png)
 
-<!-- begin comment
+![](images/Assignment_13_Above_Average.png)
 
-![](images/Assignment_12_Above_Average.png)
+![](images/Assignment_13_Average.png)
 
-![](images/Assignment_12_Average.png)
+![](images/Assignment_13_Below.png)
 
-![](images/Assignment_12_Below_Average.jpg)
+![](images/Assignment_09_Above_Average.jpg)
 
-end comment -->
+![](images/Assignment_09_Average.png)
+
+![](images/Assignment_09_Below_Average.png)
+

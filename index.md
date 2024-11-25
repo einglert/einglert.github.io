@@ -6,7 +6,7 @@
 
 ![](images/Assignment_13_Average.png)
 
-![](images/Assignment_13_Below.png)
+![](images/Assignment_13_Below_Average.png)
 
 ![](images/Assignment_09_Above_Average.jpg)
 

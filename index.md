@@ -8,6 +8,18 @@
 
 ![Fig. 2.5 Still Life with Scarf](images/02020_stillLifeScarf.png)
 
+![Mapping an Image](images/mappingImage_01.png)
+
+![Mapping an Image saturation](images/mappingImage_02.png)
+
+![Mapping an Image red diagonals](images/mappingImage_03.png)
+
+![Mapping an Image blue quarters](images/mappingImage_04.png)
+
+![Mapping an Image green triangle](images/mappingImage_05.png)
+
+![Mapping an Image black rule of thirds](images/mappingImage_06.png)
+
 <!-- Begin comment
 
 ![](images/Assignment_02_Above_Average.png)

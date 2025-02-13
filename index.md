@@ -1,10 +1,8 @@
-![Today's Agenda](images/250211_05-1.png)
+![Today's Agenda](images/250213_05-2.png)
 
-![Fig. 3.2 Exercise Four. Hand Drafting an Orthographic Multiview Projection of Complex Chair](images/03311exFourOrthoChair.png)
+![Fig. 3.2 Exercise Five. Axonometric Projection Contour MOdel of a Small Guesthouse](images/03411axonContGuestHouse.png)
 
-<iframe height="240" width="320" allowfullscreen frameborder=0 src="https://echo360.org/media/e6ac31d5-fbc5-4f46-a2ed-ddfb662847ad/public?autoplay=false&automute=false"></iframe>
-
-![Exercise Four Layout Guide](images/Ex4_layoutGuide.png)
+![Exercise Five and Six Layout Guide](images/Ex5-6_template.png)
 
 ![](images/Assignment_06_Above_Average.png)
 

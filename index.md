@@ -1,14 +1,10 @@
-![Today's Agenda](images/250220_06-2.png)
+![Today's Agenda](images/250225_07-1.png)
 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/96a960c9-492f-49a3-90a6-c1fa4ee889c0/public?autoplay=false&automute=false"></iframe>
+![Fig. 5.1 Sketch C. Field Sketches of Floor Plans of Five Large Rooms](images/050102fieldSketchPlans.png)
 
-![Fig. 4.8 Exercise Six. Perspective Projection and Tone Value Render of a Small Guesthouse](images/04411perspToneValueHouse.png)
+![](images/Assignment_09_Above_Average.jpg)
 
-![Exercise Five and Six Layout Guide](images/Ex5-6_template.png)
+![](images/Assignment_09_Average.png)
 
-![](images/Assignment_08_Above_Average.jpg)
-
-![](images/Assignment_08_Average.PNG)
-
-![](images/Assignment_08_Below_Average.png)
+![](images/Assignment_09_Below_Average.png)
 

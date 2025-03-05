@@ -1,10 +1,10 @@
-![Today's Agenda](images/250304_08-1.png)
+![Today's Agenda](images/250306_08-2.png)
 
-![Fig. 5.3 Sketch E. Field Sketches of Two Interior Elevations of Large Rooms](images/050105fieldSketchIntElevs.png)
+![Fig. 5.4 Sketch F. Field Sketches of Five Partial Interior Sections of Large Rooms](images/050107fieldSketchSects.png)
 
-![](images/Assignment_11_Above_Average.jpg)
+![](images/Assignment_12_Above_Average.png)
 
-![](images/Assignment_11_Average.png)
+![](images/Assignment_12_Average.jpg)
 
-![](images/Assignment_11_Below_Average.png)
+![](images/Assignment_12_Below_Average.png)
 

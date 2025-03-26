@@ -1,4 +1,6 @@
-![Today's Agenda](images/250324_10-1.png)
+![Today's Agenda](images/250327_10-2.png)
+
+Start time for class moved back to 11:00
 
 ![Fig. 5.6 Exercise Eight. Rendered Section. Hybrid Drawing](images/050301renderSectionHybrid.png)
 

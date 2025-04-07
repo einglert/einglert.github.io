@@ -1,10 +1,12 @@
-![Today's Agenda](images/250403_11-2.png)
+![Today's Agenda](images/250408_12-1.png)
 
-![Fig. 6.2 Sketch G. Field Sketches of Five Architectural Details](images/060103fieldSketchDetls.jpg)
+![Exercise 10. Contour Line Drawing Eye-level Perspective. Hand Drawn Example](images/060105contourDwgHand.png)
 
-![](images/Assignment_16_Above_Average.jpg)
+![Exercise 10. Contour Line Drawing Eye-level Perspective. Digital Example](images/060106contourDwgDigital.png)
 
-![](images/Assignment_16_Average.jpg)
+![](images/Assignment_17_Above_Average.png)
 
-![](images/Assignment_16_Below_Average.png)
+![](images/Assignment_17_Average.png)
+
+![](images/Assignment_17_Below_Average.png)
 

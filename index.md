@@ -1,12 +1,11 @@
-![Today's Agenda](images/250408_12-1.png)
+![Today's Agenda](images/250410_12-2.png)
 
-![Exercise 10. Contour Line Drawing Eye-level Perspective. Hand Drawn Example](images/060105contourDwgHand.png)
+![Sketch H. Field Sketches of Ten Architectural Perspectives](images/060107fieldSketchPersps.png)
 
-![Exercise 10. Contour Line Drawing Eye-level Perspective. Digital Example](images/060106contourDwgDigital.png)
+![](images/Assignment_18_Above_Average.png)
 
-![](images/Assignment_17_Above_Average.png)
+![](images/Assignment_18_Average.png)
 
-![](images/Assignment_17_Average.png)
+![](images/Assignment_18_Below_Average.jpg)
 
-![](images/Assignment_17_Below_Average.png)
-
+![Electronic Portfolio Cover Design](images/060110electronicPort.png)

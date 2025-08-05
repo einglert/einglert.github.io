@@ -1,0 +1,18 @@
+body {
+font-family: Optima; 
+background-color: #FCFFE9;
+}
+.title, .author, .date {
+font-family: Helvetica;
+font-weight: bold;
+}
+th {
+  background-color: #FDE0D9;
+  color: black;
+}
+tr:nth-child(even) {
+  background-color: #CAEFD1;
+}
+tr:nth-child(odd) {
+  background-color: #FFF2CC;
+}

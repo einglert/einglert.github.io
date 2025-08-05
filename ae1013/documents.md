@@ -1,0 +1,5 @@
+  pk_ID   name            description
+  ------- --------------- ---------------------------------------------------------------
+  1001    FAQ.html        Frequently Asked Questions for the course
+  1002    syllabus.html   The most current version of the syllabus. Mirrored on Canvas.
+  1003    tree.html       Hyperlinked visual representation of the web site directory

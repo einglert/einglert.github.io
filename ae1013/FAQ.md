@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 author: Eric Todd Inglert, AIA
-date: 5 August 2025
+date: 18 August 2025
 ---
 
 ---
@@ -10,7 +10,7 @@ date: 5 August 2025
 Your university experience draws a bright line between your younger self and your professional adult existence. Your professor takes attendance for perhaps different reasons from your other teachers. You do not have to answer to me, because I am not your boss, your parent, or your watcher. Indeed, you should never apologize to me for being absent, nor should you send an email to me about your absence. **Please review the guide, "How to Write an Effective Email."** My unremarkable hypothesis based on experience is that there is a positive correlation between focused attention on the present "now" and our future success. Professional people who are present and alert when there is a learning opportunity are more likely to understand, ask intelligent questions, and competently complete the work. The reason I keep attendance is to promote that idea of "showing up," being your best self, and doing competent work. Here is the policy from the syllabus:
 
 1. Each student is allowed three "free" absences. If you use these judiciously, then you should be covered for illness, family emergency, broken down car, etc.
-1. Attendance is worth 10% of your grade and is calculated as the percentage of P/(T-3) $\le$ 100% ; where P=$\sum$ number of times present, and T=$\sum$ number of total classes.
+1. Attendance is worth 10% of your grade and is calculated as the percentage of P/(T-3) $\le$ 100%; where P=$\sum$ number of times present, and T=$\sum$ number of total classes.
 1. If a student misses more than five consecutive lectures or recitations, then the student should consult with the academic advisor and consider withdrawing from the course.
 
 
@@ -34,7 +34,7 @@ It is available at the inluded link for either print ($87.95) or eBook($80.95). 
 ---
 
 ## <ins>What is the late assignment policy</ins>?
-Assignment due dates are critical. Late assignments will not be accepted, and the late work shall earn a "0" grade. Just as in the architecture and engineering professions, deadlines are firm. If a person is feeling ill or called away due to an emergency, then often there is a cost. You will complete many assignments for this course, and missing one or two due to difficult personal circumstances should not cause too much harm to your grade.
+Assignment due dates are critical. Late assignments will NOT be accepted, and the late work shall earn a "0" grade. Just as in the architecture and engineering professions, deadlines are firm. If a person is feeling ill or called away due to an emergency, then often there is a cost to the whole team. You will complete many assignments for this course, and missing one or two due to difficult personal circumstances should not cause too much harm to your grade.
 
 Only the following two exceptions shall apply to this statement:
 

@@ -1,0 +1,7 @@
+body {
+font-family: Optima; 
+}
+.title, .author, .date {
+font-family: Helvetica;
+font-weight: bold;
+}

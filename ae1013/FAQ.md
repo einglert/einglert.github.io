@@ -4,6 +4,8 @@ author: Eric Todd Inglert, AIA
 date: 19 August 2025
 ---
 
+Documentation Homepage (return to index) [Homepage for AE1013 Documentation](index.html)
+
 ---
 
 ## <ins>What is the attendance policy</ins>?

@@ -1,1 +1,17 @@
-Last updated 18 Aug 25 at 1640
+imhotep-studio
+vitruvius-studio
+brunelleschi-studio
+palladio-studio
+wren-studio
+sullivan-studio
+wright-studio 
+corbu-studio
+gropius-studio
+saarinen-studio
+aalto-studio
+pei-studio
+isozaki-studio
+hadid-studio
+piano-studio
+gehry-studio
+calatrava-studio

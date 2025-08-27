@@ -1,13 +1,18 @@
-![Today's Agenda](images/250415_13-1.png)
+---
+title: Lecture Preparation
+author: Eric Todd Inglert, AIA
+date: 27 Aug 25
+---
 
-![Exercise 12: Preparing the Electronic Portfolio](images/060110electronicPort.png)
+[AE1013](ae1013/)
 
-![](images/Assignment_20_Above_Average.png)
+![Today's Agenda](images/01-2.PNG)
 
-![](images/Assignment_20_Average.png)
+![Exercise 1: Breathing Lines](images/02021brLines.png)
 
-![](images/Assignment_20_Below_Average.jpg)
+![](images/Assignment_01_Above_Average.png)
 
-[GIMPtrix](https://youtu.be/6K2lJTOLtiw?si=fLOMMouqcclELW3g)
+![](images/Assignment_01_Average.png)
 
-[How to create simple portfolio in Scribus](https://youtu.be/S4M8JL3XZfE?si=H2DZ-ww-0S2HMZhM)
+![](images/Assignment_01_Below_Average.png)
+

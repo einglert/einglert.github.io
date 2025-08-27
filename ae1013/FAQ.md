@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 author: Eric Todd Inglert, AIA
-date: 19 August 2025
+date: 27 August 2025
 ---
 
 Documentation Homepage (return to index) [Homepage for AE1013 Documentation](index.html)
@@ -29,9 +29,23 @@ It is available at the inluded link for either print ($87.95) or eBook($80.95). 
 
 ## <ins>How do I submit my assignment to Canvas</ins>?
 
+For each assignment that we do I'll create a Canvas "Quiz." There will often be just one "Question." This is a file upload button. There are several ways where this can go wrong. The thing to remember is that you should receive an acknolwedgment that your file was uploaded successfully. If after your attempt the screen reports "unanswered" then you should make another attempt until you receive the following acknowledgment: "Submitted." A live example was shown during lecture Class 01-2 on 27 Aug 2025. Check the recording and scrub the video to the example if you still have questions.
+
 ---
 
 ## <ins>What are three different ways to resize an image</ins>?
+
+When you take a photograph from your phone the default image is very much too large in size. My iPhone 11 Pro Max defaults to 4032px X 3024px at a resolution of 72 ppi and a file size over 4Mb. The size needed to fill the screen of your monitor (i.e., 2k HD) is only 1920px x 1080px. Resizing an image can often result in much lower file sizes (i.e. < 0.5Mb) and faster load times. When I write a quiz for you, I am very specific about the max size upload I'm requesting. The very first assignment (i.e., Ex 1) for instance asks for a file size that is "full size screen resolution." How is that calculated?
+
+If you are physically drawing on a sheet that is 11" x 14" and if the screen resolution is assumed to be 72 ppi, then the calculation is as follows: 14" x 72 ppi = 1008 px for the length and 11" x 72 ppi = 792 px. Now that you understand a little about file dimensions, then you should be asking "how do I resize an image?" There is no easy way to do this on your phone without a specialized app. Let's take the problem to our computer.
+
+[Inkscape](https://inkscape.org) Our first download program in AE1013 is Inkscape. While this is a vector graphics program, it can handle raster graphics well.
+<pre>
+File -> Document Properties -> Resize to content
+File -> Export -> Page -> Width 1008 or Height 792 (whichever controls to fit within 1008 x 792)
+While still within export tab, change the filename and filetype (i.e. PNG)
+Export
+</pre>
 
 ---
 

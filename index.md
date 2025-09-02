@@ -1,12 +1,12 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 28 Aug 25
+date: 02 Sep 25
 ---
 
 [AE1013](ae1013/)
 
-![Today's Agenda](images/12_01-2.PNG)
+![Today's Agenda](images/12_02-1.png)
 
 ![Sketch J. Watercolor Storyboard of 12 Site Context Vignettes](images/010301storyboard.png)
 

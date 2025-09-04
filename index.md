@@ -1,10 +1,3 @@
-
--  Copy Ex. 2
--  Copy Sketch K
-
-
-
-
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA

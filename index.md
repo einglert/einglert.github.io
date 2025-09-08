@@ -6,6 +6,8 @@ date: 08 Sep 25
 
 [AE1013](ae1013/)
 
+base soap
+
 ![Today's Agenda](images/13_03-1.png)
 
 ![Contour Drawing of Still Life from Direct Observation](images/02041contDwgStillLife.png)

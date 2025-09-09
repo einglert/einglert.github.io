@@ -1,18 +1,18 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 09 Sep 25
+date: 10 Sep 25
 ---
 
 [AE1013](ae1013/)
 
-![Today's Agenda](images/12_03-1.png)
+![Today's Agenda](images/03-2.png)
 
-![Sketch K. Formal Precedent Study](images/sketchK_demo2.png)
+![Sketch A. 50 Contour Drawings of Hands and Feet](images/02044fiftyHands.png)
 
-![](images/Assignment_02_Above_Average.jpg)
+![](images/Assignment_04_Above_Average.png)
 
-![](images/Assignment_02_Average.png)
+![](images/Assignment_04_Average.png)
 
-![](images/Assignment_02_Below_Average.png)
+![](images/Assignment_04_Below_Average.png)
 

@@ -4,6 +4,8 @@ author: Eric Todd Inglert, AIA
 date: 10 Sep 25
 ---
 
+tease zip
+
 [AE1013](ae1013/)
 
 ![Today's Agenda](images/03-2.png)

@@ -1,20 +1,20 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 11 Sep 25
+date: 15 Sep 25
 ---
 
 [AE1013](ae1013/)
 
-![Today's Agenda](images/13_03-2.png)
+toll sub
 
-![Exercise 14. Physical Paper Model of Formal Precedent](images/fig_1-10_exercise14_paperModel.png)
+![Today's Agenda](images/04-1.png)
 
-![Sullivan Bank](images/fig1-10_exercise14_paperModel.png)
+![Sketch B. Field Sketch of a Complex Chair](images/03011fieldSketchChair.png)
 
-![](images/Assignment_03_Above_Average.png)
+![](images/Assignment_05_Above_Average.png)
 
-![](images/Assignment_03_Average.png)
+![](images/Assignment_05_Average.png)
 
-![](images/Assignment_03_Below_Average.jpg)
+![](images/Assignment_05_Below_Average.png)
 

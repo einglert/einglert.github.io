@@ -4,6 +4,8 @@ author: Eric Todd Inglert, AIA
 date: 22 Sep 25
 ---
 
+noon soup
+
 [AE1013](ae1013/)
 
 ![Today's Agenda](images/05-1.png)

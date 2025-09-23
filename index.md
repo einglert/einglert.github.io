@@ -1,23 +1,21 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 22 Sep 25
+date: 23 Sep 25
 ---
-
-noon soup
 
 [AE1013](ae1013/)
 
-![Today's Agenda](images/05-1.png)
+![Today's Agenda](images/12_05-1.png)
 
-![Exercise Four. Hand Drafting an Orthographic Multi-View Projection of a Complex Chair](images/03311exFourOrthoChair.png)
+![](images/fig_1-11_exercise15_siteContourModel.png)
 
-![Alternate Example](images/03311exFourOrthoChair_2.png)
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/03fe33ca-b73c-440a-9d82-0c176bfd2c61/public?autoplay=false&automute=false"></iframe>
 
-![Exercise Four Layout Guide](images/Ex4_layoutGuide.png)
+![Alternate Example](images/Exercise15.png)
 
-![Above Average](images/Assignment_06_Above_Average.png)
+![Above Average](images/Assignment_04_Above_Average.png)
 
-![Average](images/Assignment_06_Average.jpg)
+![Average](images/Assignment_04_Average.png)
 
-![Below Average](images/Assignment_06_Below_Average.png)
+![Below Average](images/Assignment_04_Below_Average.png)

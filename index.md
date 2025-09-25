@@ -1,21 +1,20 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 24 Sep 25
+date: 25 Sep 25
 ---
-
-near shop
 
 [AE1013](ae1013/)
 
-![Today's Agenda](images/05-2.png)
+![Today's Agenda](images/12_05-2.png)
 
-![Exercise 5: Axonometric Projection Contour Model of a Small Guesthouse](images/03411axonContGuestHouse.png)
 
-![Exercise 5-6 Template](images/Ex5-6_template.png)
+![Exercise 16. Flyover Animation](images/0151-1.gif)
 
-![Above Average](images/Assignment_07_Above_Average.png)
+![Aerial Flyover Images](images/fig_1-13_ExerciseSixteen.png)
 
-![Average](images/Assignment_07_Average.png)
+![Above Average](images/Assignment_05_Above_Average.gif)
 
-![Below Average](images/Assignment_07_Below_Average.png)
+![Average](images/Assignment_05_Average.gif)
+
+![Below Average](images/Assignment_05_Below_Average.gif)

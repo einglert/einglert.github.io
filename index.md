@@ -4,6 +4,8 @@ author: Eric Todd Inglert, AIA
 date: 29 Sep 25
 ---
 
+nap sap
+
 [AE1013](ae1013/)
 
 ![Today's Agenda](images/06-1.png)

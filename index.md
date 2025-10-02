@@ -1,33 +1,19 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 01 Oct 25
+date: 02 Oct 25
 ---
-
-suit ties
 
 [AE1013](ae1013/)
 
-![Today's Agenda](images/06-2.png)
+![Today's Agenda](images/12_06-2.png)
 
-![Exercise 6. Perspective Projection and Tone Value Render of a Small Guesthouse](images/04411perspToneValueHouse.png)
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/public/media/fb6c974f-ff29-41a4-99ee-2bf0085b002b?autoplay=false&automute=false"></iframe>
 
-![Above Average](images/Assignment_08_Above_Average.png)
+![Exercise 17. Multi View Construction Drawing](images/fig_2-1_ExerciseSeventeen.png)
 
-![Average](images/Assignment_08_Average.png)
+![Above Average](images/Assignment_06_Above_Average.png)
 
-![Below Average](images/Assignment_08_Below_Average.png)
+![Average](images/Assignment_06_Average.png)
 
----
-
-![Orthographic to Perspective Diagram](images/04031_orthoDiagramPerspective.png)
-
-![Thumbnail Perspective Method](images/04032_thumbPerspOne.png)
-
-![Thumbnail Perspective Method](images/04033_thumbPerspTwo.png)
-
-![Thumbnail Perspective Method](images/04034_thumbPerspThree.png)
-
-![Gray Scale Diagrams](images/04013_grayScales.png)
-
-![Monochrome Channels Make RGB](images/04012_rgbChannels.png)
+![Below Average](images/Assignment_06_Below_Average.png)

@@ -1,17 +1,19 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 07 Oct 25
+date: 10 Oct 25
 ---
+
+safe toys
 
 [AE1013](ae1013/)
 
-![Today's Agenda](images/12_07-1.png)
+![Today's Agenda](images/07-2.png)
 
-![Exercise 17. Multi-view Construction Drawing](images/fig_2-1_ExerciseSeventeen.png)
+![Sketch D. Field Sketches of Two Exterior Elevations of Large Buildings](images/050104fieldSketchExtElevs.png)
 
-![Above Average](images/Assignment_06_Above_Average.png)
+![Above Average](images/Assignment_10_Above_Average.png)
 
-![Average](images/Assignment_06_Average.png)
+![Average](images/Assignment_10_Average.jpg)
 
-![Below Average](images/Assignment_06_Below_Average.png)
+![Below Average](images/Assignment_10_Below_Average.png)

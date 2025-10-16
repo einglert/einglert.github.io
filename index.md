@@ -1,14 +1,26 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 15 Oct 25
+date: 16 Oct 25
 ---
-
-tile toes
 
 [AE1013](ae1013/)
 
-![Today's Agenda](images/08-2.png)
+![Today's Agenda](images/12_08-2.png)
+
+![Sketch M. Sketch M. Exploded Axonometric of Project Design](images/fig_2-5_sketchM_exploded.png)
+
+![Alternate Conceptual Model of Process](images/fig2-3_sketchM_draft_explodedProjectDesign.png)
+
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/86a58a11-5245-4259-a701-af4b097ced70/public?autoplay=false&automute=false"></iframe>
+
+![Above Average](images/Assignment_08_Above_Average.png)
+
+![Average](images/Assignment_08_Average.png)
+
+![Below Average](images/Assignment_08_Below_Average.png)
+
+<!-- remove
 
 ![Sketch F. Field Sketches of Five Partial Interior Sections of Large Rooms ](images/050107fieldSketchSects.png)
 
@@ -17,15 +29,4 @@ tile toes
 ![Average](images/Assignment_12_Average.png)
 
 ![Below Average](images/Assignment_12_Below_Average.png)
-
-<!-- remove
-![Sketch L. Exploded Perspective of Found Mechanical Object](images/fig_2-4_sketchL_explodedMechanical.png)
-
-![Sketch L. Alternate example](images/sketchL.jpeg)
-
-![Above Average](images/Assignment_07_Above_Average.png)
-
-![Average](images/Assignment_07_Average.png)
-
-![Below Average](images/Assignment_07_Below_Average.jpg)
 -->

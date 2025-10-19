@@ -1,10 +1,26 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 16 Oct 25
+date: 20 Oct 25
 ---
 
+nose toes
+
 [AE1013](ae1013/)
+
+![Today's Agenda](images/09-1.png)
+
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/a4d422c8-516e-41d5-9be1-966969e00a41/public?autoplay=false&automute=false"></iframe>
+
+![Exercise 7. Construction Drawing. Floor Plan and Interior Elevations](images/050202interiorConstDwg.png)
+
+![Above Average](images/Assignment_13_Above_Average.png)
+
+![Average](images/Assignment_13_Average.png)
+
+![Below Average](images/Assignment_13_Below_Average.png)
+
+<!-- remove
 
 ![Today's Agenda](images/12_08-2.png)
 
@@ -20,13 +36,6 @@ date: 16 Oct 25
 
 ![Below Average](images/Assignment_08_Below_Average.png)
 
-<!-- remove
-
-![Sketch F. Field Sketches of Five Partial Interior Sections of Large Rooms ](images/050107fieldSketchSects.png)
-
-![Above Average](images/Assignment_12_Above_Average.png)
-
-![Average](images/Assignment_12_Average.png)
-
-![Below Average](images/Assignment_12_Below_Average.png)
 -->
+
+

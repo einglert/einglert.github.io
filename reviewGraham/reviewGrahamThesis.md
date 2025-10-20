@@ -3,8 +3,38 @@ title: Observations and Recommendations for Inglert, G. 2025
 subtitle: U. Melb. adv. Professor Alan March, PhD
 author: Graham Inglert, MS candidate
 reviewer: Eric Inglert
-date: 12 Oct 2025
+date: 20 Oct 2025
 ---
+
+# Final Draft Review
+
+## Overview
+Graham requested that I do a second limited assessment of his thesis final draft and make appropriate recommendations. Graham shared one PDF document. [Revealing the Barriers and Facilitators Impacting Uptake of Open-Source Software and Open-Access Data Within Built-Environment Professional Practice Using Actor-Network Theory](images/Final Draft.pdf) He asked me to review Chapter IV: Results and Discussion and Chapter V: Impact and Recommendations for possible removals to current word count (i.e., +600)
+
+## Observations
+
+1. Chapter IV is improved. That was a good recommendation. Rather than list out the recommendations here as in the last review, I made changes directly to the Word document.
+
+1. I now maybe regret your changes to "enrolment". I bothered to look it up and both are correct it seems. Perhaps you should use the British English version after all? I have reversed those changes due to educating myself on this. What do you think?
+
+1. I did some quick acceptances of Word recommendations for grammar and syntax. You might want to do another pass of those yourself.
+
+1. Not sure what you were trying to say with the end of section 5.3 Project Observations. I took a crack as clarifying it with simpler language. Reject it if I have missed the point.
+
+1. I could not find an easy way to eliminate 600 words. Seems that is very close. Is that a hard stop? It would seem to be less than 5% over.
+
+End of Final Draft Review
+
+
+---
+
+# First Draft Review
+
+Observations and Recommendations for Inglert, G. 2025 
+U. Melb. adv. Professor Alan March, PhD
+Graham Inglert, MS candidate
+Eric Inglert
+12 Oct 2025
 
 ## Overview
 Graham requested that I do a limited assessment of his thesis draft and make appropriate recommendations. Graham shared two PDF documents.

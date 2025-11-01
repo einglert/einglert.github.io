@@ -1,12 +1,26 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 30 Oct 25
+date: 03 Nov 25
 ---
 
-![Today's Agenda](images/12_10-2.png)
+zoom dead
+
+![Today's Agenda](images/11-1.png)
 
 [AE1013](ae1013/)
+
+![Exercise 9. Monochrome Rendering of Architectural Detail](images/060101renderArchDetail.png)
+
+![Alternate Student Example](images/Kremer.png)
+
+![Above Average](images/Assignment_15_Above_Average.png)
+
+![Average](images/Assignment_15_Average.png)
+
+![Below Average](images/Assignment_15_Below_Average.png)
+
+<!-- remove
 
 ![Exercise Nineteen. Discovering a Rendering Style with Entourage](images/fig3-4_exercise19_discoverRenderStyle.png)
 
@@ -18,17 +32,5 @@ date: 30 Oct 25
 
 ![Below Average](images/Assignment_10_Below_Average.png)
 
-<!-- remove
-
-
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/95346a12-d8b0-4e93-a541-70ccf7413fee/public?autoplay=false&automute=false"></iframe>
-
-![Exercise 8. Rendered Section. Hybrid Drawing](images/050301renderSectionHybrid.png)
-
-![Above Average](images/Assignment_14_Above_Average.png)
-
-![Average](images/Assignment_14_Average.png)
-
-![Below Average](images/Assignment_14_Below_Average.png)
-
 -->
+

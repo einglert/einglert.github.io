@@ -1,24 +1,22 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 10 Nov 25
+date: 12 Nov 25
 ---
 
-days dude
+ten dot
 
-![Today's Agenda](images/12-1.png)
+![Today's Agenda](images/12-2.png)
 
 [AE1013](ae1013/)
 
-![Exercise 10. Contour Line Drawing of Eye-level Perspective](images/060106contourDwgDigital.png)
+![Sketch G. ](images/060107fieldSketchPersps.png)
 
-![Exercise 10. Contour Line Drawing of Eye-level Perspective](images/060105contourDwgHand.png)
+![Above Average](images/Assignment_18_Above_Average.png)
 
-![Above Average](images/Assignment_17_Above_Average.png)
+![Average](images/Assignment_18_Average.png)
 
-![Average](images/Assignment_17_Average.png)
-
-![Below Average](images/Assignment_17_Below_Average.png)
+![Below Average](images/Assignment_18_Below_Average.png)
 
 <!-- remove
 

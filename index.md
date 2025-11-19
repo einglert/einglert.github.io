@@ -12,6 +12,8 @@ dojo dado
 
 ![Exercise 12. Preparing the Electronic Portfolio.](images/060110electronicPort.png)
 
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/9261810b-1060-4d5e-8819-8272858ae3eb/public?autoplay=false&automute=false"></iframe>
+
 ![Above Average](images/Assignment_20_Above_Average.pdf)
 
 ![Average](images/Assignment_20_Average.pdf)

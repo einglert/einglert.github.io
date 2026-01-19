@@ -1,10 +1,10 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 15 Jan 26
+date: 20 Jan 26
 ---
 
-![Today's Agenda](images/12_01-2.PNG)
+![Today's Agenda](images/12_02-1.png)
 
 [Current Draft of Syllabus](syllabusDraft.html)
 

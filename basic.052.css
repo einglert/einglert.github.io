@@ -1,0 +1,14 @@
+body {
+font-family: Optima; 
+background-color: #7f99ff;
+}
+.title, .author, .date {
+font-family: Helvetica;
+font-weight: bold;
+}
+<!-- comment
+body {
+  background-image: url("images/turkey.png");
+  background-repeat;
+}
+-->

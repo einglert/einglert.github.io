@@ -1,20 +1,22 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 17 Feb 26
+date: 19 Feb 26
 ---
 
-![Today's Agendas](images/12_06-1.png)
+![Today's Agendas](images/12_06-2.png)
 
 [Current Draft of Syllabus](syllabusDraft.html)
 
 [AE1013](ae1013/)
 
-![Exercise Sixteen. An Aerial Flyover Animation of Your Selected Place ](images/0151-1.gif)
+![In Progress View of Exercise Seventeen](images/fig_2-1_ExerciseSeventeen.png)
 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/9a98c3a8-1e61-427c-a208-16130eff0437/public?autoplay=false&automute=false"></iframe>
+![Screencap of Template Setup](images/screencap.png)
 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/2981a1fd-211a-4684-939d-5cbdaf193b85/public?autoplay=false&automute=false"></iframe>
+![Detail View of Plan](images/fig_2-2_ExerciseSeventeen_plan.png)
 
-[Exercise Sixteen. Examples in zip file](images/Ex16.zip)
+![Detail View of Elevation](images/fig_2-3_ExerciseSeventeen_southElev.png)
+
+[Exercise Seventeen. Examples in zip file](images/Ex17.zip)
 

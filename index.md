@@ -14,4 +14,6 @@ date: 10 Mar 26
 
 <iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/370bd3a5-89d7-42ec-9437-c6ebb1b4a8e1/public?autoplay=false&automute=false"></iframe>
 
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/5e37d203-970e-4c72-b0e8-d4dbb1544b32/public?autoplay=false&automute=false"></iframe>
+
 [Exercise Eighteen Examples](images/Ex18.zip)

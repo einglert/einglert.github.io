@@ -1,17 +1,17 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 31 Mar 26
+date: 2 Apr 26
 ---
 
-![Today's Agenda: Agenda 12-1](images/12_12-1.png)
+![Today's Agenda: Agenda 12-2](images/12_12-2.png)
 
 [Current Draft of Syllabus](syllabusDraft.html)
 
 [AE1013](ae1013/)
 
-![Sketch N. Interior Perspective Vignette.](images/fig3-5_draft_sketchN_interiorRender.png)
+![Exercise Twenty. Rendered Exterior Perspective.](images/fig3-5_exercise20_renderedPerspective.png)
 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/6b1fa336-568a-42de-a78d-afcaa988fec3/public?autoplay=false&automute=false"></iframe>
+![Exercise Twenty Alternate Example.](images/fig_3-6_ExerciseTwentyRender.png)
 
-[Sketch N Examples](images/SkN.zip)
+[Exercise Twenty Examples](images/Ex20.zip)

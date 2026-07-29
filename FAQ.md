@@ -6,13 +6,14 @@ date: 29 July 2026
 
 Documentation Homepage (return to index) [Homepage for AE1013 Documentation](index.html)
 
-Version List
+### Version List
+
 1. First edition. 27 August 2025.
 1. First revised edition. 29 July 2026.[^1]
 
 ---
 
-## <ins>What is the [^attendance] policy</ins>?
+## <ins>What is the attendance policy</ins>?
 Your university experience draws a bright line between your younger self and your professional adult existence. Professor Inglert takes attendance, because there is a relationship between attendance and success. You do not have to explain any absence to me, because I am not your boss, your parent, nor your minder. Please do not apologize to me for being absent. Please do not send an email to me about your absence. **Please review the guide, "How to Write an Effective Email."** Professional people who are present and alert when there is a learning opportunity are more likely to understand, ask intelligent questions, and competently complete the work. An unremarkable hypothesis based on experience is that there is a positive correlation between your focused attention on the present "now" and your future success. The reason I keep attendance is to promote that idea of "showing up," being your best self, and doing competent work. Here is the policy from the syllabus:
 
 1. Each student is allowed three "free" absences. If you use these judiciously, then you should be covered for illness, family emergency, broken down car, etc.
@@ -22,12 +23,12 @@ Your university experience draws a bright line between your younger self and you
 
 ---
 
-## <ins>Does this course have a required [^textbook]</ins>?
+## <ins>Does this course have a required textbook</ins>?
 This question is answered in the syllabus, but your professor also believes you might like some further explanation. The required textbook is as follows:
 
-Inglert, E. 2024. Contemporary Practices in Architectural Drawing and Illustration. Volume I. 1st ed. Cognella.
+[Inglert, E. 2024. Contemporary Practices in Architectural Drawing and Illustration. Volume I. 1st ed. Cognella.](https://store.cognella.com/83384-1B-NI-003)
 
-It is available at the inluded link for either print ($87.95) or eBook($80.95). The least expensive and perhaps best option for most of you is the eBook. You will no doubt have other courses with expensive required textbooks. At the end of the semester you might be asking, "Did we use that textbook as much as I thought we would?" In the past, I had required textbooks that did not cover all the material. I supplemented other texts, and we did not use "every page" of the required textbook. That frustrated me, and I'm sure caused my past students to question its value. As you can infer, I wrote this book specifically for this class. Every assignment that we do is in the book. Every lecture I give is based on the written text in this book. You should plan to buy the book, because you will use it everyday in my class.
+It is available at the inluded link for either print ($90.95) or eBook($83.95). The least expensive and perhaps best option for most of you is the eBook. You will no doubt have other courses with expensive required textbooks. At the end of the semester you might be asking, "Did we use that textbook as much as I thought we would?" In the past, I had required textbooks that did not cover all the material. I supplemented other texts, and we did not use "every page" of the required textbook. That frustrated me, and I'm sure caused my past students to question its value. As you can infer, I wrote this book specifically for this class. Every assignment that we do is in the book. Every lecture I give is based on the written text in this book. You should plan to buy the book, because you will use it everyday in my class.
 
 ---
 
@@ -86,10 +87,6 @@ Proofread once. Do it again. One more time before you hit the send button!
 
 ## Bibliography
 
-Stein, S. (2022, August 10). 5 tips for writing professional emails. Harvard Business Review. https://hbr.org/2022/08/5-tips-for-writing-professional-emails
+Stein, S. (2022, August 10). 5 tips for writing professional emails. Harvard Business Review. [https://hbr.org/2022/08/5-tips-for-writing-professional-emails](https://hbr.org/2022/08/5-tips-for-writing-professional-emails)
 
----
-
-## [^End Notes]
-
-[^1]: Added [^End Notes] section. Clarified language of [^attendance] policy. Updated [^textbook] section.
+[^1]: Added Footnotes. Clarified language of attendance policy. Updated textbook section.

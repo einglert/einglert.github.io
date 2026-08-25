@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 author: Eric Todd Inglert, AIA
-date: 29 July 2026
+date: 25 Aug 2026
 ---
 
 Documentation Homepage (return to index) [Homepage for AE1013 Documentation](index.html)
@@ -10,6 +10,7 @@ Documentation Homepage (return to index) [Homepage for AE1013 Documentation](ind
 
 1. First edition. 27 August 2025.
 1. First revised edition. 29 July 2026.[^1]
+1. Second revised edition. 25 Aug 2026.[^2]
 
 ---
 
@@ -35,6 +36,14 @@ It is available at the inluded link for either print ($90.95) or eBook($83.95). 
 ## <ins>How do I submit my assignment to Canvas</ins>?
 
 For each assignment that we do I'll create a Canvas "Quiz." There will often be just one "Question." This is a file upload button. There are several ways where this can go wrong. The thing to remember is that you should receive an acknolwedgment that your file was uploaded successfully. If after your attempt the screen reports "unanswered" then you should make another attempt until you receive the following acknowledgment: "Submitted." A live example was shown during lecture Class 01-2 on 27 Aug 2025. Check the recording and scrub the video to the example if you still have questions.
+
+---
+
+## <ins>How does AE1013L relate to the lecture, and how do we use Discord?</ins>?
+
+Historically, Architectural Skills 1 was numbered AE1011 and was a 4-hr. class. With growing enrollment and to better align this course with other engineering courses, faculty redesigned and renumbered this course to AE1013 (2 hr. lecture) and AE1013L (2 hr. online recitation.) As stated in the syllabus, your professor considers this one course with a common grade. Therefore, your reported grades will be equivalent for both courses. The online recitation has the purpose of asking questions in a "studio" setting. You will be able to get direct answers to your specific questions from the professor. You will be able to collaborate together with your peers in askine each other questions and helping each other to level up your skills.
+
+The official Canvas LMS (i.e., learning management system) is a great application for coordinating where we submit assignments, take quizzes, and report grades. The university also uses Microsoft Teams, which your professor will make available for direct video meetings. Both of these are not as fluid, nor as fun, as collaborating with each other in a more fluid environment. We will use Discord to fulfill this collaboration function. The professor sent you an invitation to join. Once all have arrived in our server, then the professor will put you in groups of six.
 
 ---
 
@@ -90,3 +99,4 @@ Proofread once. Do it again. One more time before you hit the send button!
 Stein, S. (2022, August 10). 5 tips for writing professional emails. Harvard Business Review. [https://hbr.org/2022/08/5-tips-for-writing-professional-emails](https://hbr.org/2022/08/5-tips-for-writing-professional-emails)
 
 [^1]: Added Footnotes. Clarified language of attendance policy. Updated textbook section.
+[^2]: Added section on Discord use for recitation/lab

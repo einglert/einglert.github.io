@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="/Users/ericinglert/musicEquipment2026/mydatabase.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1572"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="print_all" custom_title="0" dock_id="11" table="4,9:mainprint_all"/><dock_state state="000000ff00000000fd00000001000000020000050d000002f1fc0100000009fb000000160064006f0063006b00420072006f007700730065003101000000000000050d0000000000000000fb000000160064006f0063006b00420072006f007700730065003401000000000000050d0000000000000000fb000000160064006f0063006b00420072006f007700730065003501000000000000050d0000000000000000fb000000160064006f0063006b00420072006f00770073006500360100000000ffffffff0000000000000000fb000000160064006f0063006b00420072006f007700730065003701000000000000050d0000000000000000fb000000160064006f0063006b00420072006f007700730065003801000000000000050d0000000000000000fb000000160064006f0063006b00420072006f007700730065003901000000000000050d0000000000000000fb000000180064006f0063006b00420072006f0077007300650031003001000000000000050d0000000000000000fb000000180064006f0063006b00420072006f0077007300650031003101000000000000050d0000010f00ffffff0000050d0000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="amplifiers" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="47"/><column index="2" value="91"/><column index="3" value="82"/><column index="4" value="44"/><column index="5" value="40"/><column index="6" value="65"/><column index="7" value="45"/><column index="8" value="59"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="dj_equip" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="47"/><column index="2" value="201"/><column index="3" value="300"/><column index="4" value="44"/><column index="5" value="37"/><column index="6" value="65"/><column index="7" value="45"/><column index="8" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="guitars" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="47"/><column index="2" value="115"/><column index="3" value="134"/><column index="4" value="54"/><column index="5" value="40"/><column index="6" value="65"/><column index="7" value="54"/><column index="8" value="300"/><column index="9" value="274"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="keyboards" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="47"/><column index="2" value="126"/><column index="3" value="300"/><column index="4" value="44"/><column index="5" value="37"/><column index="6" value="65"/><column index="7" value="155"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="microphones" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="47"/><column index="2" value="230"/><column index="3" value="240"/><column index="4" value="123"/><column index="5" value="37"/><column index="6" value="65"/><column index="7" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="pedals" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="47"/><column index="2" value="187"/><column index="3" value="161"/><column index="4" value="44"/><column index="5" value="37"/><column index="6" value="65"/><column index="7" value="67"/><column index="8" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="print_all" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="47"/><column index="2" value="230"/><column index="3" value="300"/><column index="4" value="123"/><column index="5" value="40"/><column index="6" value="65"/><column index="7" value="300"/><column index="8" value="300"/><column index="9" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="studio" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="47"/><column index="2" value="219"/><column index="3" value="300"/><column index="4" value="44"/><column index="5" value="37"/><column index="6" value="65"/><column index="7" value="45"/><column index="8" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="synthesizers" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="47"/><column index="2" value="183"/><column index="3" value="255"/><column index="4" value="44"/><column index="5" value="37"/><column index="6" value="65"/><column index="7" value="45"/><column index="8" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">SELECT *
+FROM guitars
+
+UNION ALL
+
+SELECT *
+FROM microphones
+
+UNION ALL
+
+SELECT *
+FROM keyboards
+
+UNION ALL
+
+SELECT *
+FROM pedals
+
+UNION ALL
+
+SELECT *
+FROM dj_equip
+
+UNION ALL
+
+SELECT *
+FROM studio
+
+UNION ALL
+
+SELECT *
+FROM synthesizers
+
+UNION ALL
+
+SELECT *
+FROM amplifiers;</sql><current_tab id="0"/></tab_sql></sqlb_project>

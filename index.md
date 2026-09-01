@@ -10,6 +10,8 @@ date: 01 Sep 26
 
 ![Exercise Two. One Hundred Lines.](images/02031oneHunLines.png)
 
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/3d8da994-81f7-4083-bbf3-df909f187f8c/public?autoplay=false&automute=false"></iframe>
+
 <!-- hold for Thursday [Exercise Two Examples](images/.zip) -->
 
 [Link to Inkscape.org](https://inkscape.org/)

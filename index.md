@@ -1,19 +1,13 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 10 Sep 26
+date: 15 Sep 26
 ---
 
-![Today's Agenda: Agenda 03-2](images/03-2.png)
+![Today's Agenda: Agenda 04-1](images/04-1.PNG)
 
 [Frequently Asked Questions: FAQ](FAQ.html)
 
-![Sketch A. Contour Drawings of Hands and Feet.](images/02044fiftyHands.png)
+![Sketch B. Field Sketch of a Complex Chair.](images/03011fieldSketchChair.png)
 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/cfc54c6e-398a-4aeb-85c7-b2c1af50f6a1/public?autoplay=false&automute=false"></iframe>
-
-[Sketch A Examples](images/sketchA.zip)
-
-![Bridgman Cover](images/bridgmanCover.png)
-
-![Bridgman Hands](images/bridgmanHands.png)
+[Sketch B Examples](images/sketchB.zip)

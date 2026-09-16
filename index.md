@@ -1,13 +1,15 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 15 Sep 26
+date: 17 Sep 26
 ---
 
-![Today's Agenda: Agenda 04-1](images/04-1.PNG)
+![Today's Agenda: Agenda 04-2](images/04-1.png)
 
 [Frequently Asked Questions: FAQ](FAQ.html)
 
-![Sketch B. Field Sketch of a Complex Chair.](images/03011fieldSketchChair.png)
+![Exercise Four. Orthographic Multiview Projection.](images/03311exFourOrthoChair_2.png)
 
-[Sketch B Examples](images/sketchB.zip)
+![Exercise Four. Alternate Example.](images/03311exFourOrthoChair.png)
+
+[Exercise Four Examples](images/ExerciseFour.zip)

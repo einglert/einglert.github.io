@@ -4,7 +4,7 @@ author: Eric Todd Inglert, AIA
 date: 17 Sep 26
 ---
 
-![Today's Agenda: Agenda 04-2](images/04-1.png)
+![Today's Agenda: Agenda 04-2](images/04-2.png)
 
 [Frequently Asked Questions: FAQ](FAQ.html)
 

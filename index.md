@@ -1,14 +1,15 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 13 Oct 26
+date: 15 Oct 26
 ---
 
-![Today's Agenda: Agenda 08-1](images/08-1.png)
+![Today's Agenda: Agenda 08-2](images/08-2.png)
 
 [Frequently Asked Questions: FAQ](FAQ.html)
 
-![Sketch E. Field Sketches of Two Interior Elevations of Large Rooms.](images/050105fieldSketchIntElevs.png)
+![Sketch F. Field Sketches of Five Partial Interior Sections of Large Rooms.](images/050107fieldSketchSects.png)
 
 [Sketch E Examples](images/SketchE.zip)
 
+[Sketch F Examples](images/SketchF.zip)

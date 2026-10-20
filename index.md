@@ -1,15 +1,13 @@
 ---
 title: Lecture Preparation
 author: Eric Todd Inglert, AIA
-date: 15 Oct 26
+date: 19 Oct 26
 ---
 
-![Today's Agenda: Agenda 08-2](images/08-2.png)
+![Today's Agenda: Agenda 09-1](images/09-1.png)
 
 [Frequently Asked Questions: FAQ](FAQ.html)
 
-![Sketch F. Field Sketches of Five Partial Interior Sections of Large Rooms.](images/050107fieldSketchSects.png)
+![Exercise Seven. Interior Construction Drawing. Floor Plan and Interior Elevations.](images/050202interiorConstDwg.png)
 
-[Sketch E Examples](images/SketchE.zip)
-
-[Sketch F Examples](images/SketchF.zip)
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.org/media/ff3bf364-25d9-4eb7-a9e0-a58678c3df2f/public?autoplay=false&automute=false"></iframe>

@@ -11,3 +11,9 @@ date: 12 Nov 26
 ![Sketch H. Field Sketches of Ten Architectural Perspectives](images/060107fieldSketchPersps.png)
 
 [Sketch H Examples](images/skH_examples.zip)
+
+![In class demo](images/DSCF4246x.jpg)
+
+![In class demo](images/DSCF4246y.jpg)
+
+![In class demo](images/DSCF4246z.jpg)
